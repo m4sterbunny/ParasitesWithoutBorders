@@ -19,3 +19,4 @@ following D&D read through the term antihelminthic (and its variant anthelminthi
 
 5. Have the chapter changes reflected in the table of contents? e.g. 34. Clonorchis sinensis and Opisthorchis spp. was 34. Clonorchis sinensis
 
+6. Are table headers consistent - e.g. in insects table number is bold and name, regular
