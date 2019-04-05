@@ -15,4 +15,7 @@ following D&D read through the term antihelminthic (and its variant anthelminthi
 
 3. Last read through needs to check for paragraphs tied together without spacing- still finding this whilst applying D&D edits
 
-4. also overset text- when there is plenty of space in references
+4. also check for overset text- still finding this when there is plenty of space in references
+
+5. Have the chapter changes reflected in the table of contents? e.g. 34. Clonorchis sinensis and Opisthorchis spp. was 34. Clonorchis sinensis
+
