@@ -1,1 +1,77 @@
 Notes about trial runs with pdf index generator, bugs, tweaking settings etc.
+# Index version 4.1
+**Project file in pdf index generator: parasites_index_v4.1.pdfig**
+* PDF v11 split so original index removed (pg 1-166)
+* Baseword_query_v4.txt made by merging all words that were indented
+	  * Some indented words may need to become subheadings rather than merged see list
+* People_names_v3.txt
+    * Names from the csv converted to a txt file
+	  * It is supposed to be possible to change the format so name are displayed as below but I haven’t figured that out yet:
+      * Surname, Name 
+
+
+**Index report  v4.1**
+  Total number of words indexed : 1751
+  Total number of words not found in the book : 172
+  Total number of pages indexed : 664
+  Total number of pages failed to be indexed : 0
+  Total time taken : (8) min, (23) sec
+  Operation success : 100.0 %
+
+## Notes
+* In report words not found some seem to be because words that are **hyphenated are not detected** e.g. avian influenza ( in v11),
+    * corticosteroid
+    > BC: Answer from software helpline (Hesham):
+    
+     * Click Tools -> Settings -> Generating Index
+        * Disable the option "Read the visual text of the book".
+        * Save your settings, then generate the index once again.
+* There is **duplication of page numbers** in the final index, see if there is a setting somewhere, presumably the word appears twice on the page?
+  *	E.g. congenital
+  > BC: duplicate numbers appear in the table but not in the final index (resolved)
+*	Step1: index specific pages was not done and so pages are a bit off
+*	If you set a header word are the specific cases removed from the page numbers of the header ? e.g. Anopheles
+*	Times New Roman 10 was used for other index apply next time in last step.
+*	Does subhead need to be a baseword or can you assign new?
+	  * When subheadings not sci names should they also be merged with base word
+* How to prevent duplication of subword in headword? 
+  * Mr. Darcy 10-14
+   	    * Darcy 10-14
+# Index version 4.2
+**Project file in pdf index generator: parasites_index_v4.2.pdfig**  
+? testing duplicate page numbers?
+
+# Index version 4.3
+**Project file in pdf index generator: parasites_index_v4.3.pdfig**
+* Test fix for detecting unhypenated words
+> BC: Fix worked. e.g avian influenza detected
+* subheadings not detected? Did I select that category?
+> BC: redo chose test not real subheadings rerun indexing on this file
+
+## Index report  v4.3
+
+  Total number of words indexed : 1858
+  Total number of words not found in the book : 77
+  Total number of pages indexed : 664
+  Total number of pages failed to be indexed : 0
+  Total time taken : (9) min, (24) sec
+  Operation success : 100.0 %
+  
+## Notes
+* How select names only so that can apply the Surname, Name formatting?  
+* Editing index
+  * Manage labels
+    * allows you to group types of words together
+    * how select all names?
+
+# Index version 5.1
+- use basewords_v6_for_merging
+- use headers and subheaders v3
+- names v3
+
+## Aims
+- group names before table stage so already have a label to group them by
+- tweak merging so subhead words pg numbers not in header page numbers?
+- format final pdf Times New Roman 10
+
+## Index report  v5.1
