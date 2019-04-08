@@ -22,3 +22,5 @@ following D&D read through the term antihelminthic (and its variant anthelminthi
 6. Are table headers consistent - e.g. in insects table number is bold and name, regular
 
 7. Are headings consistent- late change to bold NOT italicised
+
+8. Table of contents has ref to historical figures- I think we no longer have these in one section - rather throughout book.
