@@ -63,6 +63,10 @@ Notes about trial runs with pdf index generator, bugs, tweaking settings etc.
   * Manage labels
     * allows you to group types of words together
     * how select all names?
+* If word in baseword list and header-subheader list how merge?
+	* appears twice in index see index_v4.3.pdf
+	* eg Cryptosporidium
+	* settings, overwrite duplicates?
 
 # Index version 5.1
 - use basewords_v6_for_merging
@@ -73,5 +77,6 @@ Notes about trial runs with pdf index generator, bugs, tweaking settings etc.
 - group names before table stage so already have a label to group them by
 - tweak merging so subhead words pg numbers not in header page numbers?
 - format final pdf Times New Roman 10
+- overwrite duplicates merge and headword queries
 
 ## Index report  v5.1
