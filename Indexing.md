@@ -1,6 +1,26 @@
 This is a file for keeping our brains straight for indexing
-# Indexing Process
+# Preparing text files for indexing
+## BaseTerms
+* baseterms_for_merging.txt
+* Words which should be a head or subhead word are not annotated in this text file.  All the derived words will be merged with the base word from this document. 
 
+* The words are given in the following format:
+  
+~~~~
+Base word
+	Derived word 1
+	Derived word 2
+~~~~
+
+**Note:** the tab before the derived words is needed by the Python script to identify it as a derived word of the previous un-tabbed word, extra lines between sets of base words and their derivatives
+
+The  Python script will output a text file that can be used as a query in PDF Index generator. The form for merging words is as follows:
+
+`Base + D1 + D2 = Base` ( or any word that you want to be the displayed word)
+
+
+# Indexing Process
+**Note:** Can only have one project file open at a time for pdf index generator
 ## Step 1
 1.	Browse for pdf file
 2.	Choose index specific pages
@@ -30,10 +50,21 @@ This is a file for keeping our brains straight for indexing
     * click ok
 6. Click generate index (bottom right)
     * this process can take a while, up to 10 min
+    * click done
+  
 
-## Step 3: Table editing
+## Step 3: Edit index results table
 ### Names
-1.	We highlight all names in the table, click the “Format” button found on the toolbar, and click “Deal as a name – Format 2”. That will automatically invert all names to appear as Last Name, First Name.
+1.We highlight all names in the table, click the “Format” button found on the toolbar, and click “Deal as a name – Format 2”. That will automatically invert all names to appear as Last Name, First Name.
+### Checks
+1. Check words not found
+2. 
+
+### Settings
+1. Editing index
+	* Manage word labels
+		* allows you to group types of words together e.g. names
+		
 
 ## Step 4
 1.	Choose settings
