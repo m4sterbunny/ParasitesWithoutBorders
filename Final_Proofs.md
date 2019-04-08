@@ -17,7 +17,7 @@ following D&D read through the term antihelminthic (and its variant anthelminthi
 
 4. also check for overset text- still finding this when there is plenty of space in references
 
-5. Have the chapter changes reflected in the table of contents? e.g. 34. Clonorchis sinensis and Opisthorchis spp. was 34. Clonorchis sinensis
+5.a and b) Have the chapter changes reflected in the table of contents? e.g. 34. Clonorchis sinensis and Opisthorchis spp. was 34. Clonorchis sinensis AND have the reflected at top of page for chapters?
 
 6. Are table headers consistent - e.g. in insects table number is bold and name, regular
 
