@@ -17,7 +17,18 @@ Base word
 The  Python script will output a text file that can be used as a query in PDF Index generator. The form for merging words is as follows:
 
 `Base + D1 + D2 = Base` ( or any word that you want to be the displayed word)
-
+**Note:**
+List is in alphebetical order except some for sometimes when the words will become subheadings(for now)
+e.g. 
+~~~~~
+ascariasis 	
+	Ascariasis	
+hepatobilary ascariasis 	
+	Hepatobiliary ascariasis	
+pancreatic 	
+neonatal ascariasis 
+	Neonatal ascariasis
+~~~~
 
 # Indexing Process
 **Note:** Can only have one project file open at a time for pdf index generator
