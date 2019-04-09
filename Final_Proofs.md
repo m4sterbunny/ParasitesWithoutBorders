@@ -24,3 +24,5 @@ following D&D read through the term antihelminthic (and its variant anthelminthi
 7. Are headings consistent- late change to bold NOT italicised
 
 8. Table of contents has ref to historical figures- I think we no longer have these in one section - rather throughout book.
+
+9. Check 3.3 refs match version 12 iD refs
