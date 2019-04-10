@@ -49,7 +49,7 @@ neonatal ascariasis
       * merged_basewords
       * headers with subheaders
       * names
-3. In Settings box Generating Index
+3. In Tools > Settings box Generating Index
   * Disable the option "Read the visual text of the book".
       * this is so it will recognize hypenated words
 4. Click Ok to save settings
