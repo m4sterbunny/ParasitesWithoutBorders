@@ -34,7 +34,7 @@ neonatal ascariasis
 **Note:** Can only have one project file open at a time for pdf index generator
 ## Step 1
 1.	Browse for pdf file
-2.	Choose index specific pages 
+2.	Choose index all pages 
 3.	Click on Advanced page numbers
       * Edit pages to match print version Roman numerals for preface etc. (NB can remove F from front matter by hand)
 4. Click on *TEXT* (bottom right button)
