@@ -26,3 +26,5 @@ following D&D read through the term antihelminthic (and its variant anthelminthi
 8. Table of contents has ref to historical figures- I think we no longer have these in one section - rather throughout book.
 
 9. Check 3.3 refs match version 12 iD refs
+
+10. Verify all symbols survive index transfer e.g. TNF-aplpha, interferon-gamma
