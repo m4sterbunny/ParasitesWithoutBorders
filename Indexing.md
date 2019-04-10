@@ -34,9 +34,9 @@ neonatal ascariasis
 **Note:** Can only have one project file open at a time for pdf index generator
 ## Step 1
 1.	Browse for pdf file
-2.	Choose index specific pages
+2.	Choose index specific pages 
 3.	Click on Advanced page numbers
-      * Edit pages to match print version Roman numerals for preface etc.
+      * Edit pages to match print version Roman numerals for preface etc. (NB can remove F from front matter by hand)
 4. Click on *TEXT* (bottom right button)
 5. May get a warning about allocating more memory (i.e. RAM) 
     * click **Yes**
@@ -51,11 +51,11 @@ neonatal ascariasis
       * names
 3. In Settings box Generating Index
   * Disable the option "Read the visual text of the book".
-      * this is so it will recognize words hypenated due to the narrow columns
+      * this is so it will recognize hypenated words
 4. Click Ok to save settings
 5. Choose Index specific words
     * click on **+ Include words**
-    * choose categories to include ( these are the ones we set up above)
+    * choose categories to include (these are the ones we set up above)
       * merged, headers, names
     * Tick box that says **Index those words only**
     * click ok
