@@ -98,15 +98,15 @@ Alternatively the index may be written directly to the pdf (however note this fl
 
 Assuming an export is needed use the W+arrow button.
 
-### Write the Index (Step 6 - PDF index generator Step 4)
-
 ![Post Processing Export](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/Post_Processing6_Export.png)
 
-The choice depends upon your needs. If this is the final stage for the indexing, create a text file to later paste into inDesign or MS Word etc. If the setup itself is requred the pdf index generator project will provide a file to recreate aspects of this flow (NB this file does not contain the original term lists and does not recreate all the settings as per these steps).
 
 ![Post Processing Export](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/Post_Processing7_Export.png)
 
-If the index is to be written by the software there is an additional step to take with various options:
+### Write the Index (Step 6 - PDF index generator Step 4)
+
+The choice depends upon your needs. If this is the final stage for the indexing, create a text file to later paste into inDesign or MS Word etc. If the setup itself is requred the pdf index generator project will provide a file to recreate aspects of this flow (NB this file does not contain the original term lists and does not recreate all the settings as per these steps).
+
 
 ![Writing Index Options](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/Write_Index.png)
 
