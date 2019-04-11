@@ -9,7 +9,7 @@ notes: PDF index generator has a user interface that allows a great deal of func
 
 ## Getting the settings right
 
-### Advanced Page Numbers
+### Advanced Page Numbers (PDF index generator Step 1)
 
 Step 1 allows the pdf to be selected and has the Advanced Page Numbers option:
 ![image of software step 1](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/Step1_PageNumbers.png)
@@ -19,7 +19,7 @@ This advanced page numbers option allows the removal of text or editing of the R
 
 For Edition 7 the decision was to index all pages
 
-### Choosing the words to include
+### Choosing the words to include (PDF index generator Step 2)
 
 Step 2 allows one to select which words and terms to index. The approach we have taken is to create 3 files:
 
@@ -41,7 +41,7 @@ The UI is intuitive > pencil option allows you to upload your list (categories/q
 
 NB For Edition 7 we did not take the plural words option, relying instead on the word list to include all relevant plurals and with the issue that plurals of scientific terms are often not the simple addition of an s. It would be interesting to run both and see how the outcomes differ.
 
-#### Choosing the settings 
+#### Choosing the settings (Step 3)
 
 There are 2 paths to this option, choose "Generate Index Settings" from step 2 or adjust settings from Tools at any stage.
 
@@ -49,14 +49,16 @@ There are 2 paths to this option, choose "Generate Index Settings" from step 2 o
 
 * Disable ignore case sensitivity (case sentitivity has been handled in the include words e.g. variants Bee and bee are already included)
 * Group consecutive page numbers 
+* Ensure "read the visual text of the book" is not selected
+
 ![Settings>Words to be read](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/Reading_Words.png)
 
-### Generate the index
+### Generate the index (Step 4)
 
 The flow is intuitive to generate the index. With Edition 7 on a mid-level laptop this takes approx 10 minutes.
 There are a number of post-processing issues to curate the final list.
 
-# Post-processing of the results
+# Post-processing of the results (Step 5)
 
 ### Formating Names
 
@@ -73,6 +75,11 @@ By using the "Find" option and selecting "By include category" you can filter th
 ![Post_Processing Names](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/Post_Processing3.png)
 * Select the "Deal as name format 2 option" for Last Name, First Name
 The software handles all middles names as Last Name, First Name, Middle Names
+
+### Check Words Not Found
+
+It may be that edits to the book's text result in a term no longer existing and hence a valid "word not found". More problematic are any false negatives, words that exist in the text and are not found. With all settings adjusted correctly (such as not reading the book as visual text (Step 3)) hyphenated words can be picked up, therefore any other missing words may indicate an issue.
+
 
 
 
