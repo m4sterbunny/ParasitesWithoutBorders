@@ -7,13 +7,13 @@ notes: PDF index generator has a user interface that allows a great deal of func
 
 The approach taken was to break all the required index terms into 3 groups
 
-### Group 1
+### [Group 1](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/Indexing/Edition7/headwords_with_subheaders.txt)
 
 The base terms and all their variants, e.g., Bee is a base term and the variants bee and bees are included using syntax like so:
 
 Bee + bee + bees = Bee
 
-### Group 2
+### [Group 2](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/Indexing/Edition7/baseword_query.txt)
 
 Terms associated with headers e.g., the Genus Giardia:
 
