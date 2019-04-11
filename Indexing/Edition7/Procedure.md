@@ -58,7 +58,7 @@ There are 2 paths to this option, choose "Generate Index Settings" from step 2 o
 The flow is intuitive to generate the index. With Edition 7 on a mid-level laptop this takes approx 10 minutes.
 There are a number of post-processing issues to curate the final list.
 
-# Post-processing of the results (Step 5)
+# Post-processing of the results (Step 5- PDF Index Generator Step 3)
 
 ### Formating Names
 
@@ -70,20 +70,42 @@ By using the "Find" option and selecting "By include category" you can filter th
 
 ![Post Processing Filter](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/Post_Processing2.png)
 
+* select ALL of the hits (crtl+A or cmd+A whist cursor is on the grey background)
 * select the names query
 * format how names are handled using the Aa button:
 ![Post_Processing Names](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/Post_Processing3.png)
 * Select the "Deal as name format 2 option" for Last Name, First Name
 The software handles all middles names as Last Name, First Name, Middle Names
 
+NB This filter must be removed to return the full list for export
+![Post Processing Remove Filter](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/Post_Processing4.png)
+
 ### Check Words Not Found
 
 It may be that edits to the book's text result in a term no longer existing and hence a valid "word not found". More problematic are any false negatives, words that exist in the text and are not found. With all settings adjusted correctly (such as not reading the book as visual text (Step 3)) hyphenated words can be picked up, therefore any other missing words may indicate an issue.
 
+![Post Processing Not Found](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/Post_Processing5.png)
 
+* Select "Not Found Words"
 
+To remove the filters select the "show all" option.
 
+### Export Index (Step 5)
 
+Once any issues are identified and dealt with and filters removed it is then possible to export the index. Alternatively the index may be written directly to the pdf (however note this flow has not handled formatting of index for this, also with grouped page numbers the active link option would not be available, where clicking on the entry takes the reader to correct part of pdf).
+
+Assuming an export is needed use the W+arrow button.
+
+![Post Processing Export](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/Post_Processing6_Export.png)
+
+The choice depends upon your needs. If this is the final stage for the indexing, create a text file to later paste into inDesign or MS Word etc. If the setup itself is requred the pdf index generator project will provide a file to recreate aspects of this flow (NB this file does not contain the original term lists and does not recreate all the settings as per these steps).
+
+![Post Processing Export](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/Post_Processing7_Export.png)
+### Write the Index (Step 6 - PDF index generator Step 4)
+
+If the index is to be written by the software there is an additional step to take with various options:
+
+![Writing Index Options](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/Write_Index.png)
 
 
 
