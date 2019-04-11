@@ -91,7 +91,12 @@ Notes about trial runs with pdf index generator, bugs, tweaking settings etc.
   Operation success : 100.0 %
   
   ## Notes
-  - merge with existing word did not merge header words with base terms in merged base term list
+  - if word in base term list without any merges and in the header ans subs list it is **duplicated**
   	- e.g. amoebiasis
+	- why?? see if a setting somewhere, where they can be merged before the table editing stage
+	- In toolbar look for merge duplicates button, will detect all duplicates and let you approve the merges
+		- no that is not ideal it removes the header qualities
+		- might be easier to remove these kinds of words from the base term file??
+		- make baseword merge with itself and see if that helps baseword_query_v7.1.txt
   
 
