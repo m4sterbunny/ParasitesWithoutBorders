@@ -32,7 +32,10 @@ The decision tree for this is handled in a different how to.
 This step requires that we use the include words option:
 ![step 2 including words](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/Step2_Words.png)
 
-The UI is intuitive > pencil option allows you to upload your list (categories/queries). NB the software is a little buggy in that if the process has already been driven once you may need to re-upload a list to be able to proceed.
+The UI is intuitive > import option allows you to upload your list (categories/queries). 
+![Import Terms](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/Step2_Words_Import.png)
+
+NB the software is a little buggy in that if the process has already been driven once you may need to re-upload a list to be able to proceed.
 ![step 2 adding word lists](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/Step2_Include_Words.png)
 
 * Select the "queries/categories" (word lists) to include
