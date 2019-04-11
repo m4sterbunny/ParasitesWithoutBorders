@@ -12,6 +12,6 @@ notes: PDF index generator has a user interface that allows a great deal of func
 ### Advanced Page Numbers
 
 Step 1 allows the pdf to be selected and has the Advanced Page Numbers option:
-![image of software step 1]https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/Step1_PageNumbers.png
+![image of software step 1](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/Step1_PageNumbers.png)
 
 
