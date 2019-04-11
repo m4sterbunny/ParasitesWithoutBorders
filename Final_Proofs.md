@@ -1,9 +1,12 @@
 This is just for assigning out final proof issues
 
-
-NB BIOS ARE NOT EDITED YET
-
-
+1)
+Chapters with name changes- chapter header should reflect
+Other Protozoans of Medical Importance
+Other Nematode Infections of Medical Importance
+Other Tapeworms of Medical Importance
+Other Trematodes of Medical Importance
+Other Arthropods of Medical Importance
 
 
 2. Variants in terms
