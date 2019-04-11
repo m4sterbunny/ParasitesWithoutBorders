@@ -39,4 +39,9 @@ For Edition 7 we did not take the plural words option, relying instead on the wo
 
 #### Choosing the settings 
 
+![Tools>Settings](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/Settings1.png)
+
+* Disable ignore case sensitivity (case sentitivity has been handled in the include words e.g. Bee and bee are already included)
+* Group consecutive page numbers 
+![Settings>Words to be read](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/Reading_Words.png)
 
