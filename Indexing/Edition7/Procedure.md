@@ -71,6 +71,11 @@ By using the "Find" option and selecting "By include category" you can filter th
 * select the names query
 * format how names are handled using the Aa button:
 ![Post_Processing Names](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/Post_Processing3.png)
+* Select the "Deal as name format 2 option" for Last Name, First Name
+The software handles all middles names as Last Name, First Name, Middle Names
+
+
+
 
 
 
