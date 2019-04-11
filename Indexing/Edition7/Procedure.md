@@ -92,16 +92,19 @@ To remove the filters select the "show all" option.
 
 ### Export Index (Step 5)
 
-Once any issues are identified and dealt with and filters removed it is then possible to export the index. Alternatively the index may be written directly to the pdf (however note this flow has not handled formatting of index for this, also with grouped page numbers the active link option would not be available, where clicking on the entry takes the reader to correct part of pdf).
+To assist with issues it is then possible to export the index with each word's status. 
+
+Alternatively the index may be written directly to the pdf (however note this flow has not handled formatting of index for this, also with grouped page numbers the active link option would not be available, where clicking on the entry takes the reader to correct part of pdf).
 
 Assuming an export is needed use the W+arrow button.
+
+### Write the Index (Step 6 - PDF index generator Step 4)
 
 ![Post Processing Export](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/Post_Processing6_Export.png)
 
 The choice depends upon your needs. If this is the final stage for the indexing, create a text file to later paste into inDesign or MS Word etc. If the setup itself is requred the pdf index generator project will provide a file to recreate aspects of this flow (NB this file does not contain the original term lists and does not recreate all the settings as per these steps).
 
 ![Post Processing Export](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/Post_Processing7_Export.png)
-### Write the Index (Step 6 - PDF index generator Step 4)
 
 If the index is to be written by the software there is an additional step to take with various options:
 
