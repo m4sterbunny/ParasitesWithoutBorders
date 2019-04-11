@@ -56,15 +56,22 @@ There are 2 paths to this option, choose "Generate Index Settings" from step 2 o
 The flow is intuitive to generate the index. With Edition 7 on a mid-level laptop this takes approx 10 minutes.
 There are a number of post-processing issues to curate the final list.
 
-### Post-processing of the results
+# Post-processing of the results
 
-The find option allows you to hone in on hits that have arisen from the specific queries (lists) that were uploaded as included terms in Step 2.
+### Formating Names
+
+The find option allows you to hone in on specific results that arose from queries (lists) that were uploaded as included terms in Step 2.
 
 ![Post_Processing_Names](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/PostProcessing1.png)
 
-By using the "Find" option and selecting "By include category" you can filter the results down to the hit from a specific list:
+By using the "Find" option and selecting "By include category" you can filter the results down to the hits from a specific list:
 
 ![Post Processing Filter](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/Post_Processing2.png)
+
+* select the names query
+* format how names are handled using the Aa button:
+![Post_Processing Names](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/Post_Processing3.png)
+
 
 
 
