@@ -56,7 +56,9 @@ There are 2 paths to this option, choose "Generate Index Settings" from step 2 o
 The flow is intuitive to generate the index. With Edition 7 on a mid-level laptop this takes approx 10 minutes.
 There are a number of post-processing issues to curate the final list.
 
-![index generated](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/Generated_Index.png)
+### Post-processing of the results
+
+![Post_Processing_Names](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/PostProcessing1.png)
 
 
 
