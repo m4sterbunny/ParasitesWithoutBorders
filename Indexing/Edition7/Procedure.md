@@ -90,7 +90,7 @@ It may be that edits to the book's text result in a term no longer existing and 
 
 To remove the filters select the "show all" option.
 
-### Export Index (Step 5)
+### Export Index (Optional Step 5)
 
 To assist with issues it is then possible to export the index with each word's status. 
 
