@@ -51,6 +51,15 @@ There are 2 paths to this option, choose "Generate Index Settings" from step 2 o
 * Group consecutive page numbers 
 ![Settings>Words to be read](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/Reading_Words.png)
 
+### Generate the index
+
+The flow is intuitive to generate the index. With Edition 7 on a mid-level laptop this takes approx 10 minutes.
+There are a number of post-processing issues to curate the final list.
+
+![index generated](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/Generated_Index.png)
+
+
+
 
 
 
