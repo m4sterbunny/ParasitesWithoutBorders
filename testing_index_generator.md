@@ -98,5 +98,9 @@ Notes about trial runs with pdf index generator, bugs, tweaking settings etc.
 		- no that is not ideal it removes the header qualities
 		- might be easier to remove these kinds of words from the base term file??
 		- make baseword merge with itself and see if that helps baseword_query_v7.1.txt
+# Index v8
+- 
+## Index report v8
+## Notes
   
 
