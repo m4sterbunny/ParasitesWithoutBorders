@@ -98,9 +98,372 @@ Notes about trial runs with pdf index generator, bugs, tweaking settings etc.
 		- no that is not ideal it removes the header qualities
 		- might be easier to remove these kinds of words from the base term file??
 		- make baseword merge with itself and see if that helps baseword_query_v7.1.txt
-# Index v8
-- 
-## Index report v8
+# Index v9.2
+- try do query with no header-subheader file
+- disable case sensitivity setting
+## Index report v9.2
+  Total number of words indexed : 1599
+  Total number of words not found in the book : 354
+  Total number of pages indexed : 646
+  Total number of pages failed to be indexed : 0
+  Total time taken : (20) min, (24) sec
+  Operation success : 100.0 %
+
 ## Notes
-  
+  - strangely some words not detected at all now e.g.
+Acanthamoeba
+Acanthamoeba astronyxis
+Acanthamoeba castellanii
+Acanthamoeba culbertsoni
+Acanthamoeba hatchetti
+Acanthamoeba polyphaga
+Acanthamoeba rhysodes
+Aedes aegypti
+Aedes albopictus
+Aedes Ochlerotatus japonicus
+Aedes scutellaris
+African killer bee
+African Programme for Onchocerciasis Control (APOC)
+Amblyomma americanum
+Amblyomma cajennense
+American dog tick
+Ancylostoma braziliense
+Ancylostoma caninum
+Ancylostoma ceylanicum
+Ancylostoma duodenale
+Angiostrongylus cantonensis
+Angiostrongylus costaricensis
+Anopheles culicifacies
+Anopheles freeborni
+Anopheles funestus
+Anopheles gambiae
+Anopheles hermsi
+Anopheles polynesiensis
+Anopheles quadrimaculatus
+Anopheles stephensi
+Apicomplexa
+Ascaris ascarid
+Ascaris lumbricoides
+Ascaris suum
+astrocyte
+Babesia bigemina
+Babesia divergens
+Babesia microti
+Baerman sedimentation method
+Balantidium coli
+Baylisascaris procyonis
+benign tertian malaria
+bird mite
+Blastocystis hominis
+Borrelia burgdorferi
+Borrelia recurrentis
+Brugia beaveri
+Brugia lepori
+Brugia malayi
+Brugia timori
+Bulimus
+Caenorhabditis elegans
+Capillaria aerophila
+Capillaria hepatica
+Capillaria philippinensis
+Capillaria plica
+carbon dioxide laser
+CDC (Centers for Disease Control)
+Ceratopogonidae
+cerebrospinal fluid (CSF)
+Charcot-Leyden crystal
+cheese-skipper
+Chilomastix mesnili
+chorioetinitis
+Chrysops dimidiata
+Chrysops silacea
+Clonorchis sinensis
+computed tomography scan (CT)
+congenital Toxoplasmosis
+Cryptosporidiosis
+Cryptosporidium canis
+Cryptosporidium felis
+Cryptosporidium hominis
+Cryptosporidium meleagridis
+Cryptosporidium muris
+Cryptosporidium parvum
+Ctenocephalides canis
+Ctenocephalides felis
+Culex
+Culex fatigans
+Culex nigripalpus
+Culex pipiens pipiens
+Culex pipiens quinquefasciatus
+Culex tarsalis
+Culex tritaniorhynchus
+Cunha Chagas
+cutaneous leishmaniasis (CL)
+Cyclospora cayetanensis
+cytosome
+DALYs (deaths and disability adjusted life years)
+DEC (diethylcarbamazine citrate)
+DEET (diethyltoluamide)
+Dermacentor albipictus
+Dermacentor andersoni
+Dermacentor occidentalis
+Dermacentor variabilis
+Dientamoeba fragilis
+diffuse cutaneous leishmaniasis (DCL)
+Diphyllobothrium cordatum
+Diphyllobothrium dalliae
+Diphyllobothrium dendriticum
+Diphyllobothrium lanceolatum
+Diphyllobothrium latum
+Diphyllobothrium nihonkaiense
+Diphyllobothrium pacificum
+Diphyllobothrium ursi
+Diphyllobothrium yonagoensis
+Dipylidium caninum
+direct fluorescent antibody test (DFA)
+Dracunculus medinensis
+Echinococcus granulosus
+Egyptian mummy
+electrocardiography (ECG)
+endoplasmic reticulum (ER)
+endoscopic retrograde cholangiopancreatography (ERCP)
+Entamoeba dispar
+Entamoeba gingivalis
+Entamoeba histolytica
+Entamoeba moshkovskii
+Entamoeba polecki
+Enterobius vermicularis
+Enteromonas hominis
+EPT (expedited partner therapy)
+Escherichia coli
+excretory/secretory products (ESPs)
+Fasciola gigantica
+Fasciola hepatica
+Fasciolopsis buski
+FDA (Food and Drug Administration)
+female genital schistosomiasis (FGS)
+fluorodeoxyglucose-positron emission tomography (FDG-PET)
+Félix  Dujardin
+G6PD (glucose-6-phosphate dehydrogenase)
+gastric secretions
+gastrointestinal panel (GI)
+Giardia duodenalis
+Giardia intestinalis
+Giardia lamblia
+Giemsa stain
+Global Enteric Multicenter Study (GEMS)
+Glossina
+Glossinia morsitans
+Glossinia pallidipes
+Glossinia palpalis
+Glossinia swynnertoni
+Glossinia tachinoides
+Gnathostoma spinigerum
+Golgi body
+granulomatous amoebic encephalitis (GAE)
+green bottle fly
+hemolymphatic trypanosomiasis
+Henri Lafleur
+hepatitis B
+hepatitis D
+Heterophyes heterophyes
+highly active antiretroviral therapy (HAART)
+HIV/AIDS
+Human African Trypanosomiasis
+Human Leukocyte Antigen - DR isotype (HLA-DR)
+Hymenolepis diminuta
+Hymenolepis microstoma
+Hymenolepis nana
+"Hymenoptera	hymenopterans"
+ICAM1 (intercellular adhesion molecule 1)
+IgA
+indirect fluorescent antibody test (IFA)
+indirect hemagglutination assay (IHA)
+intestinal fibrosis
+Isospora belli
+Ixodes dammini
+Ixodes holocyclus
+Ixodes pacificus
+Ixodes ricinus
+Ixodes scapularis
+Karl Asmund Rudolphi
+Knott test
+Langerhans cell
+Leishmania (Leishmania) aethiopica
+Leishmania (Leishmania) amazonensis
+Leishmania (Leishmania) donovani
+Leishmania (Leishmania) garnhami
+Leishmania (Leishmania) infantum chagasi
+Leishmania (Leishmania) major
+Leishmania (Leishmania) mexicana
+Leishmania (Leishmania) pifanoi
+Leishmania (Leishmania) tropica
+Leishmania (Leishmania) venezualensis
+Leishmania (Viannia) braziliensis
+Leishmania (Viannia) colombiensis
+Leishmania (Viannia) guyanensis
+Leishmania (Viannia) lainsoni
+Leishmania (Viannia) lindenbergi
+Leishmania (Viannia) naiffi
+Leishmania (Viannia) panamensis
+Leishmania (Viannia) peruviana
+Leishmania (Viannia) shawi
+leishmaniasis recidivans (LR)
+Loa loa
+loop mediated isothermal amplification (LAMP)
+Loxoceles arizonica
+Loxoceles intermedia
+Loxoceles laeta
+Loxoceles reclusa
+Loxoceles unicolor
+Lugol's iodine solution
+Lumbris latus
+Luminex xTAG Gastrointestinal Pathogen Panel
+Lutzomyia
+Lyme disease
+Lymneid snail
+lymphatic filariasis (LF)
+M.A. Veeder
+magnetic resonance imaging (MRI)
+Mansonella ozzardi
+Mansonella perstans
+Mansonella streptocerca
+meningoencephalitis
+Mesocestoides
+Metagonimus yokogawai
+Mott cell
+mucocutaneous leishmaniasis (MCL)
+muscle cramp
+NAAT
+Naegleria fowleri
+Nanophyetus salmincola
+Necator americanus
+New World Leishmaniasis
+Nicolas Andry de Boisregard
+NO (nitric oxide)
+Ochlerotatus japonicus
+Ochlerotatus sollicitans
+Ochlerotatus taeniorhynchus
+Ochlerotatus triseriatus
+Oesophagostomum bifurcum
+Onchocerca volvulus
+Onchocerciasis Control Program (OCP)
+Onchocerciasis Elimination Program for the Americas (OEPA)
+Opisthorchis felineus
+Opisthorchis viverrini
+Ornithodorus hermsi
+Ornithodorus moubata
+Ornithodorus rudis
+Ornithodorus turicata
+PAIR (Puncture, Aspiration, Injection, Re-aspiration)
+Paragonimus africanus
+Paragonimus heterotremusx
+Paragonimus kellicotti
+Paragonimus mexicanus
+Paragonimus miyazakii
+Paragonimus siamensis
+Paragonimus skrjabini
+Paragonimus uterobilateralis
+Paragonimus westermani
+Pediculus humanus capitis
+Pediculus humanus humanus
+periorbital edema
+Phlebotomus argentipes
+Phlebotomus ariasi
+Phlebotomus chinesis
+Phlebotomus longipes
+Phlebotomus papatasi
+Phlebotomus sergenti
+Phthirus pubis
+Piringa-Kuchenka cell
+Plasmodium
+Plasmodium brasilianum
+Plasmodium cynomolgi
+Plasmodium eylesi
+Plasmodium falciparum
+Plasmodium inui
+Plasmodium knowlesi
+Plasmodium malariae
+Plasmodium ovale
+Plasmodium ovale curtisi
+Plasmodium ovale wallikeri
+Plasmodium schwetzi
+Plasmodium simium
+Plasmodium vivax
+Platyhelminth
+pleural adhesions
+Polymerase Chain Reaction (PCR)
+Polyvinyl alcohol (PVA)
+post-Kala-azar dermal leishmaniasis (PKDL)
+protein deficiency
+Pseudophyllidea
+Pulex irritans
+Pulex simulans
+purified protein derivative skin test (PPD)
+R. sanguineus
+Reduviidae
+Reservoir hosts
+Retortamonas intestinalis
+Rhipicephalus sanguineus
+Rhodnius prolixus
+Rickettsia akari
+Rickettsia conorii
+Rickettsia prowazeki
+Rickettsia rickettsii
+Schaudinn's fixative
+Schistosoma haematobium
+Schistosoma intercalatum
+Schistosoma japonicum
+Schistosoma mansoni
+Schistosoma matthei
+Schistosoma mekongi
+small pox
+Strongyloides fuelleborni kellyi
+Strongyloides procyonis
+Strongyloides stercoralis
+Taenia asiatica
+Taenia brauni
+Taenia saginata
+Taenia serialis
+Taenia solium
+Tenebrionidae
+Ternidens diminutus
+Toxocara canis
+Toxocara cati
+Toxoplasma gondii
+Trichinella britovi
+Trichinella murrelli
+Trichinella native
+Trichinella nelson
+Trichinella nelsoni
+Trichinella papua
+Trichinella patagoniensis
+Trichinella pseudospiralis
+Trichinella spiralis
+Trichinella zimbabwensis
+Trichomonas tenax
+Trichomonas vaginalis
+Trichuris muris
+Trichuris suis
+Trichuris trichiura
+Trichuris vulpis
+Trombicula
+Trombicula akamushi
+Trombicula deliensis
+Trypanosoma brucei rhodesiense
+Trypanosoma cruzi
+Trypanosoma evansi
+tumor necrosis factor (TNF)
+vaginal erythema
+visceral leishmaniasis (VL)
+visceral lesions
+vitamin B12
+VLM (visceral larva migrans)
+wasting salad
+West African trypanosomiasis
+Wheatly-Gomori trichrome stain
+Wright's stain
+Wuchereria bancrofti
+Xenopsylla cheopis
+Yersinia pestis
+
 
