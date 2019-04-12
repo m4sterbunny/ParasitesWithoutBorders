@@ -129,7 +129,7 @@ a) Citations are referred to by number linking to footnote
 
 
 ### 11. Journal of Parasitology's abbreviation list
-
+<ul>
 wk (week)
 hr (hour; use 0–24:00 hr for time)
 sec (second) min (minute)
@@ -158,6 +158,7 @@ n (sample size)
 SD (standard deviation of the mean)
 SE (standard error of the mean)
 df (degrees of freedom) NS (not significant)
+ </ul>
 
 ## Parasitic Diseases Abbreviations and Standard terms list
 (to be uploaded and linked to items below)
