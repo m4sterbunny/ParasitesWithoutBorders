@@ -1,9 +1,7 @@
-
 ---
 purpose: Style Guide to inform edits
 author: m4sterbunny@gmail.com
-notes: This started at Edition 7. This should be the first step in any future editions- to be approved by all stakeholders
-        This goes hand in hand with standard terms and acronyms
+notes: This started at Edition 7. This should be the first step in any future editions- to be approved by all stakeholders. This goes hand in hand with standard terms and acronyms
 ---
 
 # Parasitic Diseases Writing Style Guide
