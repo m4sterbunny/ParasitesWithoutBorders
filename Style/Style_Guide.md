@@ -130,34 +130,35 @@ a) Citations are referred to by number linking to footnote
 
 ### 11. Journal of Parasitology's abbreviation list
 <ul>
-wk (week)
-hr (hour; use 0–24:00 hr for time)
-sec (second) min (minute)
-mo (month)
-day (not abbreviated)
-n. sp. (new species)
-n. gen. (new genus)
-L (liter; but ml for milliliter)
-RH (relative humidity)
-p.o. (per os)
-s.c. (subcutaneous)
-i.pl. (intrapleural)
-i.p. (intraperitoneal)
-PI (post-inoculation, or post-infection)
-p. (page)
-ad lib. (ad libitum)
-U.S.A. (as a noun)
-U.S. (as an adjective)
-sp. gr. (specific gravity)
-t-test
-U-test
-P (probability)
-x (arithmetic mean)
-r (correlation coefficient)
-n (sample size)
-SD (standard deviation of the mean)
-SE (standard error of the mean)
-df (degrees of freedom) NS (not significant)
+ <li>wk (week)</li>
+
+<li>hr (hour; use 0–24:00 hr for time)</li>
+<li>sec (second) min (minute)</li>
+<li>mo (month)</li>
+<li>day (not abbreviated)</li>
+<li>n. sp. (new species)</li>
+<li>n. gen. (new genus)</li>
+<li>L (liter; but ml for milliliter)</li>
+<li>RH (relative humidity)</li>
+<li>p.o. (per os)</li>
+<li>s.c. (subcutaneous)</li>
+<li>i.pl. (intrapleural)</li>
+<li>i.p. (intraperitoneal)</li>
+<li>PI (post-inoculation, or post-infection)</li>
+<li>p. (page)</li>
+<li>ad lib. (ad libitum)</li>
+<li>U.S.A. (as a noun)</li>
+<li>U.S. (as an adjective)</li>
+<li>sp. gr. (specific gravity)</li>
+<li>t-test</li>
+<li>U-test</li>
+<li>P (probability)</li>
+<li>x (arithmetic mean)</li>
+<li>r (correlation coefficient)</li>
+<li>n (sample size)</li>
+<li>SD (standard deviation of the mean)</li>
+<li>SE (standard error of the mean)</li>
+<li>df (degrees of freedom) NS (not significant)</li>
  </ul>
 
 ## Parasitic Diseases Abbreviations and Standard terms list
