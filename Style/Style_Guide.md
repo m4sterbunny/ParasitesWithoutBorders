@@ -8,7 +8,7 @@ notes: This started at Edition 7. This should be the first step in any future ed
 
 *To edit any styles in this document use* "Create a new branch for this commit and start a pull request" (PR) at the bottom of the page. Name the PR with a description of the desired edit. 
 
-num ## General points of style
+## 1. General points of style
 
 The general style follows the [Journal of Parasitology](https://www.journalofparasitology.org/doi/pdf/10.1645/18-93) with variations.
 
@@ -25,7 +25,7 @@ e) For initials collapse to no space e.g. C.S. Swaminath
 f) U.S. spelling and convention variants applied i.e., (comma) (id est, which means that is)
 e.g., (comma) exempli gratia, which means for the sake of example
 
-## num) Acronyms and Abbreviations
+## 2. Acronyms and Abbreviations
 
 a) Standard terms may be applied in the text with no definition e.g. DNA
 b) Abbreviations are defined at first use in a chapter (even if usage is singular). At first use, acronyms are placed in parentheses following the name written out in full. At subsequent use, the acronym alone is used. 
@@ -33,7 +33,7 @@ c) Abbreviations such as mo, yr, wk are used when a number is present. Otherwise
 d) no double periods e.g. "sp.", “spp..” (at end of sentence) (NB spp not italicized)
 e) Names of months are written out in the text, but may be abbreviated in tables and figures. When abbreviating months, use the first 3 letters of the month but omit a trailing period. Be consistent (i.e., in a table or figure, abbreviate no month or abbreviate all months).
 
-## Headings
+## 3. Headings
 
 a) Heading- do not use acronym or standard terms shorts in a heading .
 e.g. Species not spp.
@@ -44,11 +44,11 @@ d) Sub heading 1 and 2 is bold, 14 point.
 e) Headings are capitilized except for term/s before the common noun e.g., Epidemiology of Flea-Borne Diseases or species e.g., *Giardia lamblia*.
 f) Italics in headings are only for Genus or Species (see Scientific Names).
 
-## num Pronunciations
+## 4. Pronunciations
 
 In multi-parasite chapters pronunciation follows each name at first use: *Trypanosoma brucei gambiense* (\tri-PAN-oh-so-mah\\BROOS-ee-eye\\gam-BEE-en-see\).
 
-## Terms with common variants
+## 5. Terms with common variants
 
 a) vector-borne (hyphen)
 b( Kala-azar (hyphen)
@@ -62,7 +62,7 @@ i) antihelmintic (not antihelminthics or anthelminthic)
 j) Specialized cells may have capital for common noun- e.g., Mott cell and Nurse cell
 
 
-## num Scientific Names 
+## 6. Scientific Names 
 
 NB *"typography is a matter of editorial style and tradition not of nomenclature."*
 – "Preface", The International Code of Nomenclature for algae, fungi, and plants (ICN), 2011
@@ -99,7 +99,7 @@ sequences (proteins) are roman type.
 
 g) All genes are referenced in accordance with the guidelines for [Human Gene Nomenclature HUGO Gene Nomenclature Committee](www.genenames.org/about/guidelines).
 
-## num) Numbers
+## 7. Numbers
 a) Numerals do not begin a sentence.
 b) otherwise use Arabic numerals throughout, except in common phrases (e.g., "one of us" but "1,000 microbes on the head of 1 pin"). Naked decimals are not permitted in the text, tables, legends, or on figures (i.e., ‘0.1’ not ‘.1’). Numbers greater than 999 must have commas (except in Literature Cited). Metric units are to be used in all articles. The 24-hour system is used to indicate time (e.g., 15:00 hr).
 c) Degree symbols are used with temperatures, latitude/longitude and angles (deviates from Journal of Parasitology) e.g. 20 °C
@@ -108,19 +108,19 @@ e) No space between % and numerals (e.g., 25%).
 f) Ranges are separated by an[En-dash](https://www.thepunctuationguide.com/en-dash.html) e.g., 15–40 µm
 g) Numbered lists sit within the text (with the exception of the Appendices) e.g., - 4. with continual flow to sentence
 
-## num) Places
+## 8. Places
 a)  Country names should be spelled in English (e.g., ‘‘Ivory Coast’’ not ‘‘Cote d’Ivoire’’). Names of localities, states, ˆ
 provinces etc. may be anglicized or written in the local language (e.g., ‘‘Lake Baikal’’ or ‘‘Ozero Baykal’’).
 b) Unless stated otherwise, U.S. for United States of America (NB Journal of Parasitology has this directive: U.S.A. (as a noun)
 U.S. (as an adjective)).
 
 
-## num) Citations
+## 9. Citations
 
 a) Citations are referred to by number linking to footnote
 
 
-### Other resources for Scientific Formatting
+### 10. Other resources for Scientific Formatting
 
 [Quick-Guide](https://www.scientificstyleandformat.org/Tools/SSF-Citation-Quick-Guide.html
 [Enago](https://www.enago.com/academy/how-to-write-scientific-names-in-a-research-paper-animals-plants/)
@@ -128,7 +128,7 @@ a) Citations are referred to by number linking to footnote
 ([StyleGuide](http://precisionscienceediting.com/tips/taxonomic-names-format-them-right/)
 
 
-### Journal of Parasitology's abbreviation list
+### 11. Journal of Parasitology's abbreviation list
 
 wk (week)
 hr (hour; use 0–24:00 hr for time)
