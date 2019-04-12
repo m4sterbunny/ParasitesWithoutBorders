@@ -466,4 +466,14 @@ Wuchereria bancrofti
 Xenopsylla cheopis
 Yersinia pestis
 
+## index 9.4
+- make smaller spaces 0.1 when searching
+- not including headers and subs
+- can header and subheader info be imported to table?
 
+## index report 9.4
+## notes
+- still not detecting some words
+
+# index 9.5 
+- do query with just headers and subs
