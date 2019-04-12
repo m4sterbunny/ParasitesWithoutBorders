@@ -78,9 +78,8 @@ Additional references supporting this convention are [da Silva}(https://www.degr
 
 c) The genus name (and above) is always capitalized, the species name is never capitalized
 
-d) The full binomen is written out at the first use of a species name in the abstract, text, figure legends and tables, even if it
-is part of a series of species in the same genus. Thereafter, the genus is abbreviated by use of the first letter, except at the
-beginning of a sentence where it is written out; and, in any situation where abbreviations would cause confusion 2-letter
+d) The full binomen is written out at the first use of a genus and species name in the abstract, text, figure legends and tables. If it
+is part of a series of species in the same genus then the genus is abbreviated by use of the first letter at subsequence use, except at the beginning of a sentence where it is written out; and, in any situation where abbreviations would cause confusion 2-letter
 abbreviations may be used (e.g., ‘‘*Schistosoma mansoni* and *Schistosoma japonicum*’’ on first usage; subsequently, ‘‘*S.
 mansoni* and *S. japonicum*’’ but ‘‘*Aedes aegypti* and *Anopheles gambiae*’’ on first usage; subsequently ‘‘*Ae. aegypti* and *An.
 gambiae*’’).
