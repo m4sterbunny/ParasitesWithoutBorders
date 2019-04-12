@@ -34,7 +34,6 @@ acid-fast staining
 acidosis 
 	Acidosis
 Adenocephalus pacificus 
-	Diphyllobothrium pacificum
 adipose tissue 
 Aedes 
 Aedes aegypti 
@@ -53,7 +52,6 @@ Aedini
 aestivo-autumnal malaria
 	aestivo-autumnal 
 	falciparum malaria
-
 African Programme for Onchocerciasis Control (APOC) 
 	APOC
 African relapsing fever 
@@ -183,7 +181,6 @@ antigenic variation
 	antigenic variant 
 	antigenic variants
 	variant surface proteins
-
 antihistamine
 	antihistamines 
 	Antihistamines
@@ -764,7 +761,6 @@ Cryptosporidium muris
 	C. muris
 Cryptosporidium parvum
 	C. parvum
-
 computed tomography scan (CT) 
 	CT 
 Ctenocephalides
@@ -918,7 +914,6 @@ Diphyllobothrium latum
 	D. latum
 Diphyllobothrium nihonkaiense 
 	D. nihonkaiense
-
 Diphyllobothrium pacificum 
 	D. pacificum
 Diphyllobothrium ursi 
@@ -1311,7 +1306,6 @@ highly active antiretroviral therapy (HAART)
 	HAART 
 hair loss 
 hairworms 
-	Nematophora
 halzoun
 	Halzoun
 hamster 
@@ -1360,7 +1354,6 @@ hemorrhage
 	hemorrhagic bullae 
 hemozoin 
 hepatic abscess 
-
 hepatic failure 
 hepatic fibrosis 
 hepatitis
@@ -1527,7 +1520,6 @@ intracranial calcifications
 intracranial hypertension 
 intracranial pressure 
 intraocular cysts 
- 
 intrauterine growth 
 intravascular coagulopathy 
 intravascular hemolysis 
@@ -1548,7 +1540,6 @@ iron-hematoxylin
 Isospora belli 
 	Cystoisospora belli
 itch mite 
-
 ivermectin
 	Ivermectin
 Ixodes 
@@ -1571,7 +1562,6 @@ jejunal perforation
 joint pain 
 jumping salad 
 Kala-azar
-	Old World Leishmaniasis
 Kampala eye worm 
 karyosome 
 Katayama fever 
@@ -1738,7 +1728,6 @@ lumbar puncture
 	lumbar punctures
 Lumbricus terrestrias 
 Lumbris latus
-	Diphyllobothrium latum
 Luminex xTAG Gastrointestinal Pathogen Panel 
 	Luminex xTAG Gastrointestinal Pathogen Panels
 Lutzomyia 
@@ -2755,9 +2744,7 @@ Staphylinidae
 steatorrhea
 Stegomyia
 Stegomyia aegypti
-	Aedes aegypti
 Stegomyia albopicta 
-	Aedes albopictus
 stichocytes 
 stichosome 
 sticky tape test
