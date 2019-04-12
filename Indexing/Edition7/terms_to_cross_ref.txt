@@ -1,0 +1,16 @@
+Adenocephalus pacificus 	
+	Diphyllobothrium pacificum
+flatworms	
+	Platyhelminth
+hairworms 	
+	Nematophora
+Lumbris latus	
+	Diphyllobothrium latum
+Lutzomyia 	
+	sand fly
+Kala-azar	
+	Old World Leishmaniasis
+Stegomyia aegypti
+	Aedes aegypti
+Stegomyia albopicta 	
+	Aedes albopictus
