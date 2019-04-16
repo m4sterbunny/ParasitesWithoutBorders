@@ -81,6 +81,7 @@ By using the "Find" option and selecting "By include category" you can filter th
 ![Post_Processing Names](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/Post_Processing3.png)
 * Select the "Deal as name format 2 option" for Last Name, First Name
 The software handles all middles names as Last Name, First Name, Middle Names
+* check for edge cases such as John de Beer as these will have to be curated by hand where the software will have made it Beer, John de when it should be de Beer, John
 
 NB This filter must be removed to return the full list for export
 ![Post Processing Remove Filter](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/Post_Processing4.png)
@@ -94,6 +95,17 @@ It may be that edits to the book's text result in a term no longer existing and 
 * Select "Not Found Words"
 
 To remove the filters select the "show all" option.
+
+### Remove duplicates
+* By using the "Find" option and selecting "By headers" you can filter the results down to the hits from a specific list  
+* Where a word is a header the software makes duplicates
+* Select the words and make a word label for these words ( will put a colour block next to these words to find them more easily)
+* Scan the list for the colour and disable the duplicate word that is not a header type.
+
+### Remove duplicate page numbers
+* TBC
+* currently exporting index as a csv, removing duplicate page numbers in a jupyter notebook
+* need to test importing corrected list
 
 ### Export Index (Optional Step 5)
 
