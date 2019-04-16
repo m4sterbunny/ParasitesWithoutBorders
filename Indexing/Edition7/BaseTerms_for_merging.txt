@@ -8,7 +8,6 @@ aberrant infection
 	aberrant infections
 	aberrant sites
 	aberrant host 
-	aberrant infection
 	Aberrant infections
 abscess
 	abscesses 
@@ -238,7 +237,8 @@ pancreatic
 neonatal ascariasis 
 	Neonatal ascariasis
 Ascaris
-Ascaris ascarid
+Ascaris 
+	ascarid
 Ascaris lumbricoides
 	A. lumbricoides
 Ascaris suum
@@ -353,7 +353,8 @@ beetle
 	Beetle 
 	Beetles
 benign tertian malaria
-	benign tertian	vivax 
+	benign tertian
+	filler
 benzene hexachloride 
 	Benzene hexachloride 
 	benzene hexachloride
@@ -402,6 +403,7 @@ Blastocystis hominis
 	B. hominis
 Blatella germanica 
 Blatta orientalis 
+	B. orientalis
 Blattidae 
 Blattodea 
 blepharitis 
@@ -474,7 +476,6 @@ buffer zones
 buffered formaldehyde 
 	Buffered Formaldehyde
 bulbar palsy 
-Bulimus 
 Bulinus 
 Burkitt's lymphoma 
 butterfly 
@@ -835,7 +836,6 @@ cytokine
 	cytokines
 cytokinesis 
 cytoskeleton 
-cytosome 
 cytotoxic 
 DALYs (deaths and disability adjusted life years)
 	DALYs
@@ -912,6 +912,7 @@ Diphyllobothrium lanceolatum
 	D. lanceolatum
 Diphyllobothrium latum 
 	D. latum
+	Lumbricus latus
 Diphyllobothrium nihonkaiense 
 	D. nihonkaiense
 Diphyllobothrium pacificum 
@@ -1054,7 +1055,6 @@ eosinophilia
 	Eosinophilia
 	elevated levels of circulating eosinophils
 	peripheral eosinophilia
-	meningoencephalitis
 eosinophilic colitis 
 eosinophilic enteritis
 	Eosinophilic enteritis
@@ -1218,7 +1218,6 @@ ganglion
 	ganglia
 gangrene 
 Gasterophilidae 
-gastric secretions 
 gastric ulcer 
 gastroenteritis 
 genetic exchange 
@@ -1347,6 +1346,7 @@ hemoglobin
 hemoglobinuria 
 hemolymph 
 hemolymphatic trypanosomiasis
+	hemolymphatic
 hemolysis 
 hemoptysis 
 hemorrhage
@@ -1361,6 +1361,7 @@ hepatitis B
 	Hepatitis B
 hepatitis C 
 hepatitis D
+	or D
 hepatobronchial fistula 
 hepatomegaly
 	Hepatomegaly
@@ -1511,6 +1512,7 @@ intercostal sign
 interferon-γ
 	Interferon-γ
 intestinal fibrosis 
+	intestinal wall and results in fibrosis
 intestinal infection
 	Intestinal infection
 intestinal perforation 
@@ -1602,9 +1604,13 @@ Latrodectus mactans
 learning deficit 
 	Learning deficit
 	learning disabilities 
-Legionella pneumophila 
+Legionella pneumophila
+lesion
+	Lesions 
+	lesions  
 Leishmania
-Leishmania (Leishmania) aethiopica 
+Leishmania (Leishmania) aethiopica
+	Leishmania (L.) aethiopica
 	L. (L.) aethiopica) 
 Leishmania (Leishmania) amazonensis
 	L (L.) amazonensis
@@ -1779,8 +1785,11 @@ malabsorption of fats
 	Malabsorption of fats
 malabsorption of protein
 	protein malabsorption
-	malabsorption of vitamin A 
-	malabsorption of carbohydrates
+malabsorption of vitamin A 
+	protein and vitamin A
+	Malabsorption of vitamin A
+malabsorption of carbohydrates
+	malabsorption of fats and carbohydrates
 malabsorption syndrome	 
 	Malabsorption syndrome 
 malaise 
@@ -2316,7 +2325,8 @@ Plasmodium vivax
 platelet inhibitor 
 Platyhelminth 
 	Platyhelminthes
-pleural adhesions 
+pleural adhesion
+	pleural adhesions 
 pleural effusion 
 	pleural effusions
 pleurisy 
@@ -2384,6 +2394,9 @@ protective immunity
 	protective immune response
 	protective immune responses
 protein deficiency 
+	Protein deficiency 
+	protein-losing
+	short of protein foods
 proteinuria 
 	Proteinuria
 protozoa
@@ -2695,7 +2708,6 @@ sleep disturbance
 sleeping sickness 
 	Sleeping sickness
 slug 
-small pox
 snail 
 	snails
 	Snail
@@ -2886,7 +2898,7 @@ toxoplasmosis
 	Toxoplasmosis
 acquired acute toxoplasmosis
 	Acute acquired toxoplasmosis
-congenital Toxoplasmosis 
+congenital toxoplasmosis 
 	Congenital toxoplasmosis
 in the immunocompromised patient
 trachoma
@@ -2914,10 +2926,6 @@ Trichinella britovi
 	T. britovi
 Trichinella murrelli 
 	T. murrelli
-Trichinella native 
-	T. native
-Trichinella nelson 
-	T. nelson
 Trichinella nelsoni 
 	T. nelsoni
 Trichinella papua 
@@ -3047,7 +3055,8 @@ vaccine
 	vaccines
 	Vaccines
 	vaccination
-vaginal erythema 
+vaginal erythema
+	vaginal and vulvar erythema
 vaginal itching 
 vectors 
 	vector
@@ -3069,7 +3078,6 @@ virus
 	viruses	RNA virus
 visceral leishmaniasis (VL) 
 	VL
-visceral lesions
 vision loss 
 vitamin A 
 vitamin B12 
@@ -3091,7 +3099,6 @@ warthog
 wasp
 	wasps
 	Wasps
-wasting salad 
 water caltrop 
 water chestnut 
 water filtration

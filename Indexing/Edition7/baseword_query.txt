@@ -2,7 +2,7 @@ abdominal cramp + abdominal cramps + abdominal cramping = abdominal cramp
 abdominal distension 
 abdominal rigidity 
 abdominal tenderness 
-aberrant infection + aberrant infections + aberrant sites + aberrant host + aberrant infection + Aberrant infections = aberrant infection
+aberrant infection + aberrant infections + aberrant sites + aberrant host + Aberrant infections = aberrant infection
 abscess + abscesses + Abscesses = abscess
 Acanthamoeba + Acanthamoebae = Acanthamoeba
 Acanthamoeba astronyxis + A. astronyxis = Acanthamoeba astronyxis
@@ -1652,7 +1652,6 @@ Triatominae + triatomine + Triatomine + Triatomid + Triatomines + kissing bug = 
 Trichinella 
 Trichinella britovi + T. britovi = Trichinella britovi
 Trichinella murrelli + T. murrelli = Trichinella murrelli
-Trichinella nelson + T. nelson = Trichinella nelson
 Trichinella nelsoni + T. nelsoni = Trichinella nelsoni
 Trichinella papua + T. papua = Trichinella papua
 Trichinella patagoniensis + T. patagoniensis = Trichinella patagoniensis
