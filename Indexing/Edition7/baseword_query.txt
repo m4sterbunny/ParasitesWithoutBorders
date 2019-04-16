@@ -213,7 +213,7 @@ blackwater fever + Blackwater fever = blackwater fever
 bladder fibrosis + bladder to produce fibrosis = bladder fibrosis
 Blastocystis hominis + B. hominis = Blastocystis hominis
 Blatella germanica 
-Blatta orientalis 
+Blatta orientalis + B. orientalis = Blatta orientalis
 Blattidae 
 Blattodea 
 blepharitis 
@@ -924,7 +924,7 @@ learning deficit + Learning deficit + learning disabilities = learning deficit
 Legionella pneumophila 
 lesions + Lesions + lesion = lesion
 Leishmania 
-Leishmania (Leishmania) aethiopica + L. (L.) aethiopica) = Leishmania (Leishmania) aethiopica
+Leishmania (Leishmania) aethiopica + L. (L.) aethiopica) + Leishmania (L.) aethiopica = Leishmania (Leishmania) aethiopica
 Leishmania (Leishmania) amazonensis + L (L.) amazonensis = Leishmania (Leishmania) amazonensis
 Leishmania (Leishmania) donovani + L. (L.) donovani) + L. donovani + Leishmania donovani = Leishmania (Leishmania) donovani
 Leishmania (Leishmania) garnhami + L. (L.) garnhami = Leishmania (Leishmania) garnhami
