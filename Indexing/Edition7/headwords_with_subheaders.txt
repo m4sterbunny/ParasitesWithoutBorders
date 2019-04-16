@@ -53,7 +53,6 @@ ascariasis
 	neonatal ascariasis 
 
 Ascaris
-	Ascaris ascarid
 	Ascaris lumbricoides	
 	Ascaris suum	
 															
@@ -148,7 +147,8 @@ edema
 	cerebral edema	
 	facial edema
 	hemi-facial	
-	periorbital	subcutaneous edema 	
+	periorbital edema
+	subcutaneous edema 	
 	laryngeal edema							
 														
 Entamoeba 
