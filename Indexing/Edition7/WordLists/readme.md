@@ -10,6 +10,8 @@ The programme is producing an index that:
 3) produces duplicates
 
 Bianca has done us some python to remove the duplicates - it runs in the collab tool on gDrive
-This creates a text file - grab the data from this - this is the index.
+This creates a csv- open this with google sheets, remove all non-index columns and download!
+
+
 
 
