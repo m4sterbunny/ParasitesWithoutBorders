@@ -861,7 +861,7 @@ insecticide + insecticide-treated + insecticide-impregnated + insecticides + Ins
 insomnia + sleeplessness = insomnia
 intercostal sign 
 interferon-γ + Interferon-γ = interferon-γ
-intestinal wall and results in fbrosis+ intestinal fibrosis = intestinal fibrosis 
+intestinal wall and results in fibrosis + intestinal fibrosis = intestinal fibrosis 
 intestinal infection + Intestinal infection = intestinal infection
 intestinal perforation 
 intracellular parasites + intracellular parasite = intracellular parasites
