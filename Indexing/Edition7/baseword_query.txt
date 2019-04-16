@@ -189,7 +189,7 @@ African killer bee + African killer bees = African killer bee
 beef 
 beef tapeworm 
 beetle + beetles + Beetle + Beetles = beetle
-benign tertian + vivax malaria = benign tertian malaria
+benign tertian + filler = benign tertian malaria
 benzene hexachloride + Benzene hexachloride + benzene hexachloride = benzene hexachloride
 benzimidazole + benzimidazoles = benzimidazole
 benznidazole + Benznidazole = benznidazole
@@ -1566,7 +1566,6 @@ strobila + strobilae = strobila
 stroke 
 strongyloidal enteritis 
 Strongyloides 
-Strongyloides fuelleborni kellyi + S. fuelleborni kellyi = Strongyloides fuelleborni kellyi
 Strongyloides procyonis + S. procyonis = Strongyloides procyonis
 Strongyloides stercoralis + S. stercoralis = Strongyloides stercoralis
 strongyloidiasis + Strongyloidiasis = strongyloidiasis
@@ -1744,7 +1743,6 @@ walrus + walruses = walrus
 Walter Reed 
 warthog 
 wasp + wasps + Wasps = wasp
-wasting salad 
 water caltrop 
 water chestnut 
 water filtration + filtration of drinking water + Filtering drinking water = water filtration
