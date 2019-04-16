@@ -10,7 +10,6 @@ The programme is producing an index that:
 3) produces duplicates
 
 Bianca has done us some python to remove the duplicates - it runs in the collab tool on gDrive
-This creates a csv - grab the data from this and put in notepad/sublime for use in inDesign.
-
+This creates a text file - grab the data from this - this is the index.
 
 
