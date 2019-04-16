@@ -339,7 +339,7 @@ Toxoplasma
 
 toxoplasmosis	
 	acquired acute toxoplasmosis	
-	congential toxoplasmosis
+	congenital toxoplasmosis
 	in the immunocompromised patient																						
 Trichinella 	
 	Trichinella britovi 	
