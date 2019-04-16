@@ -604,7 +604,7 @@ enuresis + Enuresis = enuresis
 eosinopenia + Eosinopenia = eosinopenia
 eosinopenic 
 eosinophil count 
-eosinophilia + Eosinophilia + elevated levels of circulating eosinophils + peripheral eosinophilia + meningoencephalitis = eosinophilia
+eosinophilia + Eosinophilia + elevated levels of circulating eosinophils + peripheral eosinophilia = eosinophilia
 eosinophilic colitis 
 eosinophilic enteritis + Eosinophilic enteritis = eosinophilic enteritis
 eosinophilic granuloma + eosinophilic granulomas = eosinophilic granuloma
