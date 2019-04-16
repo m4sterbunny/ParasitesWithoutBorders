@@ -343,8 +343,7 @@ toxoplasmosis
 	in the immunocompromised patient																						
 Trichinella 	
 	Trichinella britovi 	
-	Trichinella murrelli 		
-	Trichinella nelson 	
+	Trichinella murrelli 			
 	Trichinella nelsoni 	
 	Trichinella papua 	
 	Trichinella patagoniensis 	
