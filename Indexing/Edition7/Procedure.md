@@ -15,6 +15,7 @@ Step 1 allows the pdf to be selected and has the Advanced Page Numbers option:
 ![image of software step 1](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/Step1_PageNumbers.png)
 
 This advanced page numbers option allows the removal of text or editing of the Roman numerals by hand:
+NB if the software does not pickup all the front matter- use this as an opportunity to add the Roman numerals (and the knock -on to this is that you have to remove same number of pages to end- when it is all good page number will format green on GUI).
 ![image of advanced page numbers](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/Step1_AdvancedPageNumbers.png)
 
 For Edition 7 the decision was to index all pages
@@ -50,9 +51,10 @@ There are 2 paths to this option, choose "Generate Index Settings" from step 2 o
 
 ![Tools>Settings](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/Settings1.png)
 
-* Disable ignore case sensitivity (case sentitivity has been handled in the include words e.g. variants Bee and bee are already included)
+* Enable ignore case sensitivity 
+NB this is a lesser of 2 evils option(case sentitivity has been handled in the include words e.g. variants Bee and bee are already included), but some terms were being missed. Enabling this option results in duplicate page numbers- we have some python to clean this up.
 * Group consecutive page numbers 
-* Ensure "read the visual text of the book" is not selected
+* Ensure "read the visual text of the book" is disabled
 
 ![Settings>Words to be read](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/Reading_Words.png)
 
