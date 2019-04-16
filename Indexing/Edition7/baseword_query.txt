@@ -125,8 +125,7 @@ ascariasis + Ascariasis = ascariasis
 hepatobiliary ascariasis + Hepatobiliary ascariasis = hepatobiliary ascariasis
 pancreatic 
 neonatal ascariasis + Neonatal ascariasis = neonatal ascariasis
-Ascaris 
-Ascaris ascarid 
+Ascaris + ascarid = Ascaris
 Ascaris lumbricoides + A. lumbricoides = Ascaris lumbricoides
 Ascaris suum + A. suum = Ascaris suum
 ascites 
@@ -190,7 +189,7 @@ African killer bee + African killer bees = African killer bee
 beef 
 beef tapeworm 
 beetle + beetles + Beetle + Beetles = beetle
-benign tertian malaria + benign tertian	vivax = benign tertian malaria
+benign tertian + vivax malaria = benign tertian malaria
 benzene hexachloride + Benzene hexachloride + benzene hexachloride = benzene hexachloride
 benzimidazole + benzimidazoles = benzimidazole
 benznidazole + Benznidazole = benznidazole
@@ -262,8 +261,7 @@ buccal cavity + Buccal cavity = buccal cavity
 buffalo 
 buffer zones 
 buffered formaldehyde + Buffered Formaldehyde = buffered formaldehyde
-bulbar palsy 
-Bulimus 
+bulbar palsy  
 Bulinus 
 Burkitt's lymphoma 
 butterfly + butterflies = butterfly
@@ -473,7 +471,6 @@ Cytoisospora
 cytokine + cytokines = cytokine
 cytokinesis 
 cytoskeleton 
-cytosome 
 cytotoxic 
 DALYs (deaths and disability adjusted life years) + DALYs = DALYs (deaths and disability adjusted life years)
 DDT 
@@ -519,7 +516,7 @@ Diphyllobothrium cordatum + D. cordatum = Diphyllobothrium cordatum
 Diphyllobothrium dalliae + D. dalliae = Diphyllobothrium dalliae
 Diphyllobothrium dendriticum + D. dendriticum = Diphyllobothrium dendriticum
 Diphyllobothrium lanceolatum + D. lanceolatum = Diphyllobothrium lanceolatum
-Diphyllobothrium latum + D. latum = Diphyllobothrium latum
+Diphyllobothrium latum + D. latum + Lumbricus latus = Diphyllobothrium latum
 Diphyllobothrium nihonkaiense + D. nihonkaiense = Diphyllobothrium nihonkaiense
 Diphyllobothrium pacificum + D. pacificum = Diphyllobothrium pacificum
 Diphyllobothrium ursi + D. ursi = Diphyllobothrium ursi
@@ -697,7 +694,6 @@ gametocytogenesis + Gametocytogenesis = gametocytogenesis
 ganglion + ganglia = ganglion
 gangrene 
 Gasterophilidae 
-gastric secretions 
 gastric ulcer 
 gastroenteritis 
 genetic exchange 
@@ -767,7 +763,7 @@ hemoflagellate + hemoflagellates = hemoflagellate
 hemoglobin + Hemoglobin = hemoglobin
 hemoglobinuria 
 hemolymph 
-hemolymphatic trypanosomiasis 
+hemolymphatic + filler = hemolymphatic trypanosomiasis 
 hemolysis 
 hemoptysis 
 hemorrhage + hemorrhages + hemorrhagic bullae = hemorrhage
@@ -778,7 +774,7 @@ hepatic fibrosis
 hepatitis 
 hepatitis B + Hepatitis B = hepatitis B
 hepatitis C 
-hepatitis D 
+filler D + or D = hepatitis D
 hepatobronchial fistula 
 hepatomegaly + Hepatomegaly = hepatomegaly
 hepatosplenomegaly + Hepatosplenomegaly = hepatosplenomegaly
@@ -865,7 +861,7 @@ insecticide + insecticide-treated + insecticide-impregnated + insecticides + Ins
 insomnia + sleeplessness = insomnia
 intercostal sign 
 interferon-γ + Interferon-γ = interferon-γ
-intestinal fibrosis 
+intestinal wall and results in fbrosis+ intestinal fibrosis = intestinal fibrosis 
 intestinal infection + Intestinal infection = intestinal infection
 intestinal perforation 
 intracellular parasites + intracellular parasite = intracellular parasites
@@ -926,6 +922,7 @@ Latrodectus
 Latrodectus mactans 
 learning deficit + Learning deficit + learning disabilities = learning deficit
 Legionella pneumophila 
+lesions + Lesions + lesion = lesion
 Leishmania 
 Leishmania (Leishmania) aethiopica + L. (L.) aethiopica) = Leishmania (Leishmania) aethiopica
 Leishmania (Leishmania) amazonensis + L (L.) amazonensis = Leishmania (Leishmania) amazonensis
@@ -985,8 +982,7 @@ Loxoceles unicolor + L. unicolor = Loxoceles unicolor
 Lucilia 
 Lugol's iodine solution + Lugol's Iodine Solution = Lugol's iodine solution
 lumbar puncture + lumbar punctures = lumbar puncture
-Lumbricus terrestrias 
-Lumbris latus 
+Lumbricus terrestrias  
 Luminex xTAG Gastrointestinal Pathogen Panel + Luminex xTAG Gastrointestinal Pathogen Panels = Luminex xTAG Gastrointestinal Pathogen Panel
 Lutzomyia + Lutzomyia olmeca olmeca + Lu. Flaviscutellata + Lu. Trapidoi + Lutzomyia verrucarum = Lutzomyia
 Lymantria dispar 
@@ -1010,8 +1006,10 @@ maculopapular rash
 maggot therapy + maggot treatments + therapeutically for cleansing septic wounds + Maggot therapy = maggot therapy
 magnetic resonance imaging (MRI) + MRI = magnetic resonance imaging (MRI)
 malabsorption + Malabsorption = malabsorption
+protein and vitamin A + Malabsorption of vitamin A = malabsorption of vitamin A
+malabsorption of fats and carbohydrates + malabsorption of carbohydrates = malabsorption of carbohydrates
 malabsorption of fats + Malabsorption of fats = malabsorption of fats
-malabsorption of protein + protein malabsorption + malabsorption of vitamin A + malabsorption of carbohydrates = malabsorption of protein
+malabsorption of protein + protein malabsorption = malabsorption of protein
 malabsorption syndrome + Malabsorption syndrome = malabsorption syndrome
 malaise + Malaise = malaise
 malaria + Malaria = malaria
@@ -1323,7 +1321,7 @@ Plasmodium simium + P. simium = Plasmodium simium
 Plasmodium vivax + P. vivax = Plasmodium vivax
 platelet inhibitor 
 Platyhelminth + Platyhelminthes = Platyhelminth
-pleural adhesions 
+pleural adhesion + pleural adhesions = pleural adhesion
 pleural effusion + pleural effusions = pleural effusion
 pleurisy 
 pleurocercoid 
@@ -1360,7 +1358,7 @@ promastigote + promastigotes + Promastigotes = promastigote
 propamidine 
 prostaglandin 
 protective immunity + Protective immuity + permanent immunity + host protection + spontaneous cure + Acquired immunity + Protection against the primary infection + full protection + protective response + protective immune response + protective immune responses = protective immunity
-protein deficiency 
+Protein deficiency + protein-losing + short of protein foods = protein deficiency
 proteinuria + Proteinuria = proteinuria
 protozoa + protozoan + Protozoa + protozoans + Protozoan = protozoa
 pruritic dermatitis + Pruritic dermatitis = pruritic dermatitis
@@ -1525,7 +1523,6 @@ skin snip
 sleep disturbance + sleep disturbances + Sleep disturbances = sleep disturbance
 sleeping sickness + Sleeping sickness = sleeping sickness
 slug 
-small pox 
 snail + snails + Snail = snail
 snake + snakes = snake
 sodium stibogluconate + Sodium stibogluconate = sodium stibogluconate
@@ -1643,7 +1640,7 @@ Toxoplasma
 Toxoplasma gondii + T. gondii = Toxoplasma gondii
 toxoplasmosis + Toxoplasmosis = toxoplasmosis
 acquired acute toxoplasmosis + Acute acquired toxoplasmosis = acquired acute toxoplasmosis
-congenital Toxoplasmosis + Congenital toxoplasmosis = congenital Toxoplasmosis
+congenital toxoplasmosis + Congenital toxoplasmosis = congenital toxoplasmosis
 in the immunocompromised patient 
 trachoma 
 transfusion + transfusions + Transfusion = transfusion
@@ -1656,7 +1653,6 @@ Triatominae + triatomine + Triatomine + Triatomid + Triatomines + kissing bug = 
 Trichinella 
 Trichinella britovi + T. britovi = Trichinella britovi
 Trichinella murrelli + T. murrelli = Trichinella murrelli
-Trichinella native + T. native = Trichinella native
 Trichinella nelson + T. nelson = Trichinella nelson
 Trichinella nelsoni + T. nelsoni = Trichinella nelsoni
 Trichinella papua + T. papua = Trichinella papua
@@ -1722,7 +1718,7 @@ urine + Urine = urine
 urticaria 
 uveitis 
 vaccine + vaccines + Vaccines + vaccination = vaccine
-vaginal erythema 
+vaginal erythema + vaginal and vulvar erythema = vaginal erythema
 vaginal itching 
 vectors + vector + Vectors + Vector = vectors
 velvet ant + velvet ants = velvet ant
@@ -1735,7 +1731,6 @@ Vilem Lambl
 virulence + Virulence = virulence
 virus + viruses	RNA virus = virus
 visceral leishmaniasis (VL) + VL = visceral leishmaniasis (VL)
-visceral lesions 
 vision loss 
 vitamin A 
 vitamin B12 + B12 = vitamin B12
