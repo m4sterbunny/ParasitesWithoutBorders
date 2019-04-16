@@ -82,6 +82,7 @@ By using the "Find" option and selecting "By include category" you can filter th
 * Select the "Deal as name format 2 option" for Last Name, First Name
 The software handles all middles names as Last Name, First Name, Middle Names
 * check for edge cases such as John de Beer as these will have to be curated by hand where the software will have made it Beer, John de when it should be de Beer, John
+    * Carl von Siebold, Ernst von Siebold,  Erwin von Baelz, Antonie van Leeuwenhoek, Jean de Brie, Nicolas Andry de Boisregard, Piraja de Silva
 
 NB This filter must be removed to return the full list for export
 ![Post Processing Remove Filter](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/Post_Processing4.png)
