@@ -1,3 +1,4 @@
+# see base_word query for latest version 17.4.19
 abdominal cramp
 	abdominal cramps
 	abdominal cramping
@@ -34,7 +35,6 @@ acidosis
 	Acidosis
 Adenocephalus pacificus 
 adipose tissue 
-Aedes 
 Aedes aegypti 
 	Ae. Aegypti
 Aedes albopictus 
@@ -235,9 +235,6 @@ hepatobiliary ascariasis
 pancreatic 
 neonatal ascariasis 
 	Neonatal ascariasis
-Ascaris
-Ascaris 
-	ascarid
 Ascaris lumbricoides
 	A. lumbricoides
 Ascaris suum
@@ -431,7 +428,6 @@ body louse
 	Body lice 
 	body lice 
 	Body louse
-Boophilus
 Boophilus annulatus 
 Borrelia
 Borrelia burgdorferi
@@ -1023,7 +1019,6 @@ endoscopy
 	Endoscopy 
 endosymbiont 
 	endosymbionts
-Entamoeba 
 Entamoeba coli
 Entamoeba dispar 
 	E. dispar
@@ -1415,7 +1410,6 @@ hydrogenosome
 hydronephrosis 
 hydroureter 
 Hylesia alinda
-Hymenolepis 
 Hymenolepis diminuta
 	H. diminuta
 Hymenolepis microstoma
@@ -1606,7 +1600,6 @@ Legionella pneumophila
 lesion
 	Lesions 
 	lesions  
-Leishmania
 Leishmania (Leishmania) aethiopica
 	Leishmania (L.) aethiopica
 	L. (L.) aethiopica) 

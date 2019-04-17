@@ -16,9 +16,7 @@ Ancylostoma
 	Ancylostoma caninum	
 	Ancylostoma ceylanicum	
 	Ancylostoma duodenale 	
-anemia	
-	macrocytic hypochromic anemia	
-	megaloblastic anemia
+
 Angiostrongylus 
 	Angiostrongylus cantonensis	
 	Angiostrongylus costaricensis
@@ -123,15 +121,7 @@ Diphyllobothrium
 	Diphyllobothrium pacificum 	
 	Diphyllobothrium ursi 	
 	Diphyllobothrium yonagoensis 	
-																									
-edema 	
-	cerebral edema	
-	facial edema
-	hemi-facial	
-	periorbital edema
-	subcutaneous edema 	
-	laryngeal edema							
-																												
+																																																									
 Fasciola 
 	Fasciola gigantica
 	Fasciola hepatica
@@ -233,11 +223,7 @@ Strongyloides
 	Strongyloides fuelleborni kellyi 	
 	Strongyloides procyonis
 	Strongyloides stercoralis 	
-													
-toxoplasmosis	
-	acquired acute toxoplasmosis	
-	congenital toxoplasmosis
-	in the immunocompromised patient																						
+																																			
 Trichinella 	
 	Trichinella britovi 	
 	Trichinella murrelli 			

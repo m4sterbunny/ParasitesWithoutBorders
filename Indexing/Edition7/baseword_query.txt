@@ -3,7 +3,6 @@ abdominal distension
 abdominal rigidity 
 abdominal tenderness 
 aberrant infection + aberrant infections + aberrant sites + aberrant host + Aberrant infections = aberrant infection
-abscess + abscesses + Abscesses = abscess
 Acanthamoeba + Acanthamoebae = Acanthamoeba
 Acanthamoeba astronyxis + A. astronyxis = Acanthamoeba astronyxis
 Acanthamoeba castellanii + A. castellanii = Acanthamoeba castellanii
@@ -18,7 +17,6 @@ acid-fast staining
 acidosis + Acidosis = acidosis
 Adenocephalus pacificus 
 adipose tissue 
-Aedes 
 Aedes aegypti + Ae. Aegypti = Aedes aegypti
 Aedes albopictus + Ae. Albopictus = Aedes albopictus
 Aedes Ochlerotatus japonicus + Ae. (Ochlerotatus) japonicus + Oc. Japonicus = Aedes Ochlerotatus japonicus
@@ -29,8 +27,6 @@ African Programme for Onchocerciasis Control (APOC) + APOC = African Programme f
 African relapsing fever 
 African trypanosomiasis 
 alae 
-albendazole + Albendazole = albendazole
-allergic reaction + allergic reactions + Allergic reactions + allergic responses = allergic reaction
 Allodermanyssus sanguineus 
 alphavirus 
 alveolar echinococcosis + Alveolar echinococcosis = alveolar echinococcosis
@@ -42,7 +38,6 @@ American cockroach
 American dog tick + American dog ticks = American dog tick
 American trypanosomiasis 
 amniotic fluid + amniotic = amniotic fluid
-amoeba + amoebae + Amoebae + Amoebic + Amoeba = amoeba
 amoebiasis 
 cutaneous amoebiasis 
 hepatic amoebiasis + Hepatic amoebiasis + hepatic amoebiasis = hepatic amoebiasis
@@ -61,7 +56,6 @@ Ancylostoma braziliense + A. braziliense = Ancylostoma braziliense
 Ancylostoma caninum + A. caninum = Ancylostoma caninum
 Ancylostoma ceylanicum + A. ceylanicum = Ancylostoma ceylanicum
 Ancylostoma duodenale + A. duodenale = Ancylostoma duodenale
-anemia + Anemia = anemia
 macrocytic hypochromic anemia 
 megaloblastic anemia 
 aneurysm + aneurysms = aneurysm
@@ -85,7 +79,6 @@ Anopheles hermsi + An. hermsi = Anopheles hermsi
 Anopheles polynesiensis + A. polynesiensis = Anopheles polynesiensis
 Anopheles quadrimaculatus + An. quadrimaculatus = Anopheles quadrimaculatus
 Anopheles stephensi + An. stephensi = Anopheles stephensi
-anorexia 
 ant + ants + Ants = ant
 anthrax 
 anthroponotic species + Anthroponotic + anthroponotic = anthroponotic species
@@ -101,7 +94,6 @@ Apis
 Apis mellifera 
 apoptosis 
 appendicitis 
-arachnid + arachnids + Arachnids = arachnid
 arachnoiditis 
 Araneae 
 arbovirus + arboviruses + arboviral infections = arbovirus
@@ -118,14 +110,11 @@ artemotil
 arthralgia 
 arthritis 
 Arthropoda 
-arthropod + arthropods + Arthropods + Arthropod = arthropod
 artifact + artifacts + Artifact = artifact
 assassin bug + assassin bugs = assassin bug
 ascariasis + Ascariasis = ascariasis
 hepatobiliary ascariasis + Hepatobiliary ascariasis = hepatobiliary ascariasis
-pancreatic 
 neonatal ascariasis + Neonatal ascariasis = neonatal ascariasis
-Ascaris + ascarid = Ascaris
 Ascaris lumbricoides + A. lumbricoides = Ascaris lumbricoides
 Ascaris suum + A. suum = Ascaris suum
 ascites 
@@ -154,8 +143,7 @@ azithromycin + Azithromycin = azithromycin
 azoles + Azoles = azoles
 ketoconazole + Ketoconazole = ketoconazole
 fluconazole + Fluconazole = fluconazole
-itraconazole + Itraconazole = itraconazole
-posaconazole	  
+itraconazole + Itraconazole = itraconazole	  
 Babesia + babesia = Babesia
 Babesia bigemina + B. bigemina = Babesia bigemina
 Babesia divergens + B. divergens = Babesia divergens
@@ -223,12 +211,9 @@ blister beetle + blister beetles = blister beetle
 bloating 
 blood bank screening + Blood bank screening = blood bank screening
 blood loss + Blood loss = blood loss
-blood meal 
-blood smear + thick blood smears + Blood smears + blood smears + Blood smear = blood smear
 blue bottle fly + blue bottle flies = blue bottle fly
 blue spots 
 body louse + Body lice + body lice + Body louse = body louse
-Boophilus 
 Boophilus annulatus 
 Borrelia 
 Borrelia burgdorferi + B. burgdorferi = Borrelia burgdorferi
@@ -268,7 +253,6 @@ butterfly + butterflies = butterfly
 cachexia 
 Caenorhabditis elegans + C. elegans = Caenorhabditis elegans
 Calabar swellings 
-calcification + calcified + calcify + calcifications + Calcification + Calcified = calcification
 Calliphora 
 Calliphoridae 
 camel + camels = camel
@@ -281,18 +265,15 @@ Capillaria aerophila + C. aerophila = Capillaria aerophila
 Capillaria hepatica + C. hepatica = Capillaria hepatica
 Capillaria philippinensis + C. philippinensis = Capillaria philippinensis
 Capillaria plica + C. plica = Capillaria plica
-capillary + capillaries = capillary
 carbon dioxide laser + CO2 laser = carbon dioxide laser
 card agglutination test + Card agglutination test = card agglutination test
 cardiomyopathy + Cardiomyopathies + Cardiomyopathy = cardiomyopathy
-caribou 
 Carrion's disease 
 cat + cats + Cats = cat
 cataracts 
 caterpillar + caterpillars + caterpillar = caterpillar
 cattle + Cattle + cows + calves + cow = cattle
 cattle warble + cattle warbles = cattle warble
-CDC (Centers for Disease Control) + CDC = CDC (Centers for Disease Control)
 cellulitis 
 centipede + Centipede + centipedes = centipede
 Ceratopogonidae + Ceratopogonids + Ceratopogonid = Ceratopogonidae
@@ -301,11 +282,9 @@ cercarial dermatitis +  = cercarial dermatitis
 cerebral calcifications 
 cerebral edema 
 cerebral malaria + Cerebral malaria = cerebral malaria
-cerebrospinal fluid (CSF) + CSF = cerebrospinal fluid (CSF)
 cerebrospinal obstruction 
 Cerithidia 
 cervical neoplasia 
-Cestoda + cestodes + Cestodes = Cestoda
 Chagas disease 
 chagasin + Chagasin = chagasin
 chagoma 
@@ -372,7 +351,6 @@ common duct
 concentration by sedimentation + Concentration by Sedimentation = concentration by sedimentation
 cone-nosed bug + cone-nosed bugs = cone-nosed bug
 conflict 
-congenital + Congenital = congenital
 congestive heart failure 
 Congo floor maggot 
 conjunctivitis 
@@ -420,7 +398,6 @@ cruzipain + Cruzipain = cruzipain
 cryotherapy + Cryotherapy = cryotherapy
 crypt + crypts = crypt
 crypton 
-cryptosporidiosis + Cryptosporidiosis = cryptosporidiosis
 Cryptosporidium 
 Cryptosporidium canis + C. canis = Cryptosporidium canis
 Cryptosporidium felis + C. felis = Cryptosporidium felis
@@ -428,7 +405,6 @@ Cryptosporidium hominis + C. hominis = Cryptosporidium hominis
 Cryptosporidium meleagridis + C. meleagridis = Cryptosporidium meleagridis
 Cryptosporidium muris + C. muris = Cryptosporidium muris
 Cryptosporidium parvum + C. parvum = Cryptosporidium parvum
-computed tomography scan (CT) + CT = computed tomography scan (CT)
 Ctenocephalides 
 Ctenocephalides canis + C. canis = Ctenocephalides canis
 Ctenocephalides felis + C. felis = Ctenocephalides felis
@@ -461,8 +437,6 @@ cyprinoid fish + cyprinoid = cyprinoid fish
 cyst passers 
 cyst wall 
 cystic fibrosis 
-cysticerci + cysticercus + Cysticerci + Cysticercus + cysticercoid = cysticerci
-cysticercosis + Cysticercosis = cysticercosis
 extraneural cysticercosis + Extraneural cysticercosis = extraneural cysticercosis
 cardiac cysticercosis + cardiac cysticerci = cardiac cysticercosis
 ophthalmic cysticercosis + Ophthalmic cysticercosis = ophthalmic cysticercosis
@@ -494,7 +468,6 @@ Dermacentor albipictus + D. albipictus = Dermacentor albipictus
 Dermacentor andersoni + D. andersoni = Dermacentor andersoni
 Dermacentor occidentalis + D. occidentalis = Dermacentor occidentalis
 Dermacentor variabilis + D. variabilis = Dermacentor variabilis
-dermatitis + Dermatitis = dermatitis
 Dermatobia hominis 
 Dermatophagoides 
 Dermestidae 
@@ -504,7 +477,6 @@ de-worming program + de-worming programs = de-worming program
 dexamethasone + Dexamethasone = dexamethasone
 Diamanus montanus 
 Diaptomus 
-diarrhea + Diarrhea + diarrheal disease + bloody diarrhea + foul-smelling + foul-smelling stools = diarrhea
 Dientamoeba fragilis + D. fragilis = Dientamoeba fragilis
 diffuse cutaneous leishmaniasis (DCL) + DCL = diffuse cutaneous leishmaniasis (DCL)
 diffusion 
@@ -560,9 +532,8 @@ Echinococcus multilocularis
 Echinostoma 
 ecotones 
 ectoparasite + ectoparasites = ectoparasite
-edema + Edema + edematous skin = edema
 facial edema + facial swelling = facial edema
-hemi-facial 
+hemi-facial edema
 periorbital subcutaneous edema + periorbital edema = periorbital subcutaneous edema
 laryngeal edema 
 effusion 
@@ -575,20 +546,16 @@ Ekbom's syndrome
 electrocardiography (ECG) + ECG = electrocardiography (ECG)
 electrolyte imbalance 
 elephantiasis + Elephantiasis = elephantiasis
-ELISA 
 Elokomin fluke fever 
 empyema 
-encephalitis + Encephalitis + encephalitic + encephalitic trypanosomiasis = encephalitis
 encephalomyelitis 
 encephalopathy 
 Endolimax nana 
 endomyocardial fibrosis 
 endophthalmitis 
 endoplasmic reticulum (ER) + ER = endoplasmic reticulum (ER)
-endoscopic retrograde cholangiopancreatography (ERCP) + ERCP = endoscopic retrograde cholangiopancreatography (ERCP)
-endoscopy + Endoscopy = endoscopy
+endoscopic retrograde cholangiopancreatography (ERCP) + ERCP = 
 endosymbiont + endosymbionts = endosymbiont
-Entamoeba 
 Entamoeba coli 
 Entamoeba dispar + E. dispar = Entamoeba dispar
 Entamoeba gingivalis + E. gingivalis = Entamoeba gingivalis
@@ -604,7 +571,6 @@ enuresis + Enuresis = enuresis
 eosinopenia + Eosinopenia = eosinopenia
 eosinopenic 
 eosinophil count 
-eosinophilia + Eosinophilia + elevated levels of circulating eosinophils + peripheral eosinophilia = eosinophilia
 eosinophilic colitis 
 eosinophilic enteritis + Eosinophilic enteritis = eosinophilic enteritis
 eosinophilic granuloma + eosinophilic granulomas = eosinophilic granuloma
@@ -637,15 +603,12 @@ Fasciola
 Fasciola gigantica + F. gigantica = Fasciola gigantica
 Fasciola hepatica + F. hepatica = Fasciola hepatica
 fascioliasis + Fascioliasis = fascioliasis
-Fasciolidae 
 Fasciolopsis buski + F. buski = Fasciolopsis buski
 FDA (Food and Drug Administration) + FDA = FDA (Food and Drug Administration)
 fecal retention 
 Felidae 
 female genital schistosomiasis (FGS) + FGS = female genital schistosomiasis (FGS)
-fever + Fever + fevers + double daily spike + intermittent fever + Intermittent fever + undulant fever = fever
 fibroblast + fibroblasts = fibroblast
-fibrosis + Fibrosis = fibrosis
 fibrotic capsule 
 fibrous granuloma + fibrous granulomas = fibrous granuloma
 fibrous nodules 
@@ -654,7 +617,6 @@ fiery serpent
 Filaria bancrofti 
 filarial eye worm 
 filarial nematode 
-filariasis + Filariasis = filariasis
 filariform larva + Filariform larvae = filariform larva
 FilmArray 
 finger clubbing 
@@ -673,7 +635,6 @@ flea + fleas + Flea + Fleas = flea
 floatation by centrifugation + Floatation by Centrifugation = floatation by centrifugation
 flucytosine 
 fluid-filled cyst 
-fluke + Flukes + flukes = fluke
 fluorodeoxyglucose-positron emission tomography (FDG-PET) + FDG-PET = fluorodeoxyglucose-positron emission tomography (FDG-PET)
 follicle mite + Follicle mites = follicle mite
 Formicidae 
@@ -697,7 +658,6 @@ Gasterophilidae
 gastric ulcer 
 gastroenteritis 
 genetic exchange 
-genome + genomes + Genome = genome
 geographical isolation 
 George Low 
 German cockroach 
@@ -754,7 +714,6 @@ head louse + Head lice + Head louse + head lice = head louse
 headache + headaches + Headache + frontal headache + Frontal headache = headache
 heart disease 
 heat shock genes 
-helminth + helminths + Helminths + Helminth = helminth
 hematemesis 
 hematoxylin stain + hematoxylin = hematoxylin stain
 hematuria + Hematuria = hematuria
@@ -766,7 +725,6 @@ hemolymph
 hemolymphatic + filler = hemolymphatic trypanosomiasis 
 hemolysis 
 hemoptysis 
-hemorrhage + hemorrhages + hemorrhagic bullae = hemorrhage
 hemozoin 
 hepatic abscess 
 hepatic failure 
@@ -789,8 +747,6 @@ hexacanth larva
 Hippocrates 
 histiocytes 
 Histomonas 
-HIV/AIDS + HIV = HIV/AIDS
-hookworm + hookworms + Hookworm + Hookworms = hookworm
 hookworm dermatitis 
 hornet + hornets = hornet
 horse + horses + horsemeat = horse
@@ -830,10 +786,6 @@ hypogammaglobulinemia
 hypoglycemia + Hypoglycemia = hypoglycemia
 hypoproteinemia + Hypoproteinemia = hypoproteinemia
 ICAM1 (intercellular adhesion molecule 1) + ICAM1 = ICAM1 (intercellular adhesion molecule 1)
-IgA + Secretory IgA = IgA
-IgE 
-IgG 
-IgM 
 ileitis 
 immune evasion + immunological masking + protection from host immune responses + evade digestion = immune evasion
 immune suppression 
@@ -843,7 +795,6 @@ immunofluorescent assay
 immunogen + immunogens = immunogen
 immunoglobulin + Immunoglobulin = immunoglobulin
 immunoparasitology 
-immunosuppressed + immunocompromised + immunosuppressive + immunosuppression + Immunocompromised = immunosuppressed
 impala + Impala = impala
 in situ 
 incontinence 
@@ -852,12 +803,9 @@ indirect hemagglutination assay (IHA) + IHA = indirect hemagglutination assay (I
 infantile ancylostomiasis syndrome + infantile ancylostomiasis = infantile ancylostomiasis syndrome
 infarct + inflammatory responses = infarct
 infertility 
-inflammation + inflammatory responses + Inflammation + inflammatory response + Dysregulated inflammation = inflammation
 inflammatory bowel disease 
 innate resistance + Innate resistance = innate resistance
-insect + insects + Insects = insect
 insect repellents 
-insecticide + insecticide-treated + insecticide-impregnated + insecticides + Insecticides + Insecticide = insecticide
 insomnia + sleeplessness = insomnia
 intercostal sign 
 interferon-γ + Interferon-γ = interferon-γ
@@ -923,7 +871,6 @@ Latrodectus mactans
 learning deficit + Learning deficit + learning disabilities = learning deficit
 Legionella pneumophila 
 lesions + Lesions + lesion = lesion
-Leishmania 
 Leishmania (Leishmania) aethiopica + L. (L.) aethiopica) + Leishmania (L.) aethiopica = Leishmania (Leishmania) aethiopica
 Leishmania (Leishmania) amazonensis + L (L.) amazonensis = Leishmania (Leishmania) amazonensis
 Leishmania (Leishmania) donovani + L. (L.) donovani) + L. donovani + Leishmania donovani = Leishmania (Leishmania) donovani
@@ -943,7 +890,6 @@ Leishmania (Viannia) naiffi + L. (V.) naiffi = Leishmania (Viannia) naiffi
 Leishmania (Viannia) panamensis + L. (V.) panamensis = Leishmania (Viannia) panamensis
 Leishmania (Viannia) peruviana + L. (V.) peruviana = Leishmania (Viannia) peruviana
 Leishmania (Viannia) shawi + L. (V.) shawi = Leishmania (Viannia) shawi
-leishmaniasis + Leishmaniasis = leishmaniasis
 leishmaniasis recidivans (LR) + LR = leishmaniasis recidivans (LR)
 leishmaniasis skin test + Leishmaniasis skin test = leishmaniasis skin test
 Leishmaniavirus 
@@ -992,7 +938,6 @@ Lymneid snail + Lymneid snails = Lymneid snail
 lymphadenitis + Lymphadenitis = lymphadenitis
 lymphadenopathy + Lymphadenopathy = lymphadenopathy
 lymphangitis 
-lymphatic filariasis (LF) + Lymphatic filariasis + LF = lymphatic filariasis (LF)
 lymphatics + lymphoid tissue = lymphatics
 lymphedema + Lymphedema = lymphedema
 lymphopenia 
@@ -1012,7 +957,6 @@ malabsorption of fats + Malabsorption of fats = malabsorption of fats
 malabsorption of protein + protein malabsorption = malabsorption of protein
 malabsorption syndrome + Malabsorption syndrome = malabsorption syndrome
 malaise + Malaise = malaise
-malaria + Malaria = malaria
 congenital malaria + Congenital malaria = congenital malaria
 simian malaria + simian malarias = simian malaria
 induced malaria + Induced malaria = induced malaria
@@ -1020,7 +964,6 @@ Malarone
 malignant tertain malaria + falciparum malaria = malignant tertain malaria
 malnutrition 
 Maltese cross 
-mammal + mammals + marine mammal + marine mammals = mammal
 mandrill 
 mango fly + mango flies = mango fly
 mangrove fly + mangrove flies = mangrove fly
@@ -1035,7 +978,6 @@ maxadilan + arterial dilation = maxadilan
 maxi circle DNA + Maxi circle DNA + maxicircles = maxi circle DNA
 Mazzotti test 
 mealworm + mealworms = mealworm
-mebendazole + Mebendazole = mebendazole
 Meckel's diverticulitis 
 Mectizan 
 median body + median = median body
@@ -1059,11 +1001,8 @@ merozoite + merozoites = merozoite
 merthiolate-iodine-formaldehyde solution + Merthiolate-Iodine-Formaldehyde Solution = merthiolate-iodine-formaldehyde solution
 Mesocestoides + Mesocestoides variabilis = Mesocestoides
 Mesocyclops 
-metacercaria + metacercariae + Metacercariae + metacercaria + Metacercaria = metacercaria
-metacestode + metacestodes = metacestode
 metacyclic promastigote 
 Metagonimus yokogawai + H. yokogawai + M. yokogawai = Metagonimus yokogawai
-metamorphosis + Metamorphosis = metamorphosis
 metastasis 
 metrifonate 
 metronidazole + Metronidazole = metronidazole
@@ -1071,7 +1010,6 @@ miconazole
 microbiome 
 microcephaly 
 microfilaremia 
-microfilaria + Microfilaria + microfilariae + Microfilaria + filarae	filaria = microfilaria
 microgametes 
 microgametocyte + microgametocytes + microgametocyte = microgametocyte
 microgamont + microgamonts = microgamont
@@ -1087,7 +1025,6 @@ mongoose
 monkey + monkeys = monkey
 monkey pox 
 moose 
-mosquito + mosquitoes + mosquito-borne + Mosquitoes + Mosquito = mosquito
 moth + moths + Moths = moth
 Mott cell + Mott cells = Mott cell
 mouse + mice = mouse
@@ -1097,7 +1034,7 @@ mucocutaneous leishmaniasis (MCL) + MCL = mucocutaneous leishmaniasis (MCL)
 mucocutaneous lesions 
 mucosal belt 
 mullet 
-multiple infections + different species + multiple infections + Multiple infections = multiple infections	different species
+multiple infections + different species + multiple infections + Multiple infections = multiple infections
 Musca domestica 
 Muscidae + muscoid + muscoids = Muscidae
 muscle cramp + Muscle cramps = muscle cramp
@@ -1108,17 +1045,14 @@ Mycoplasma hominis
 myenteric plexus + Myenteric plexus = myenteric plexus
 myiasis + Myiasis = myiasis
 myocarditis + Myocarditis = myocarditis
-NAAT + NAATs = NAAT
 Naegleria fowleri + N. fowleri = Naegleria fowleri
 nagana 
 Nanophyetus salmincola + N. salmincola = Nanophyetus salmincola
 Nantucket fever 
-nausea + Nausea = nausea
 Necator americanus + N. americanus = Necator americanus
 necrotizing inflammation 
 Nematocera 
 Nematoda + nematode + nematodes + Nematodes = Nematoda
-nematode infection + nematode infections + nematode infection = nematode infection
 Nematophora 
 neonicotinoid 
 Neorickettsia helmintheca 
@@ -1136,15 +1070,11 @@ neuropathology + Neuropathology = neuropathology
 neuropathy 
 neuropsychiatric symptoms 
 neurotrichinellosis + Neurotrichinellosis = neurotrichinellosis
-New World Leishmaniasis + New World = New World Leishmaniasis
-niche + Niche = niche
 niche selection + Niche Selection = niche selection
 niclosamide + Niclosamide = niclosamide
 nifurtimox + Nifurtimox = nifurtimox
 nit + Nit + nits = nit
-nitazoxanide + Nitazoxanide = nitazoxanide
 nitroimidazole 
-NO (nitric oxide) + NO = NO (nitric oxide)
 nocturnal + Nocturnal = nocturnal
 nocturnal periodicity + Nocturnal periodicity + nocturnal pattern = nocturnal periodicity
 nodding syndrome 
@@ -1156,7 +1086,6 @@ Nosopsyllus fasciatus
 nucleic acid probe test + Nucleic acid probe testing = nucleic acid probe test
 numbness 
 nurse cell + nurse cells + Nurse cell = nurse cell
-nymph + nymphal stage + nymphal stages = nymph
 O'nyong-nyong fever 
 obstructive uropathy 
 ocular disease 
@@ -1182,15 +1111,12 @@ onchocercoma + onchocercomas = onchocercoma
 onchodermatitis + Onchodermatitis = onchodermatitis
 Oncomelania 
 Oncomelania nosophora 
-oncosphere + oncospheres + Oncospheres = oncosphere
-oocyst + oocysts + Oocysts + Oocyst = oocyst
 Operation Desert Storm 
 opisthorchiasis 
 Opisthorchis 
 Opisthorchis felineus + O. felineus = Opisthorchis felineus
 Opisthorchis viverrini + O. viverrini = Opisthorchis viverrini
 opossum + opossums = opossum
-oppotunistic pathogen + opportunistic pathogens = oppotunistic pathogen
 optic atrophy 
 optic neuritis 
 oral transmission + Oral transmission = oral transmission
@@ -1200,7 +1126,6 @@ oriental sore + Oriental sore = oriental sore
 Orientalis tsutsugamushi 
 ornidazole 
 Ornithobilharzia 
-Ornithodorus 
 Ornithodorus hermsi + O. hermsi = Ornithodorus hermsi
 Ornithodorus moubata + O. moubata = Ornithodorus moubata
 Ornithodorus rudis + O. rudis = Ornithodorus rudis
@@ -1241,7 +1166,6 @@ Paragonimus uterobilateralis + P. uterobilateralis = Paragonimus uterobilaterali
 Paragonimus westermani + P. westermani = Paragonimus westermani
 paralysis + Paralysis = paralysis
 paralytic ileus 
-parasitemia + Parasitemia = parasitemia
 parasitophorous vacuole 
 paresthesias 
 Paris green 
@@ -1271,10 +1195,7 @@ peristome
 peritonitis + Peritonitis = peritonitis
 perivascular cuffing + Perivascular cuffing = perivascular cuffing
 permethrin + Permethrin = permethrin
-pet stores 
-petechial hemorrhage + petechial hemorrhages = petechial hemorrhage
-petechial purpuric rash 
-petting zoos 
+petechial hemorrhage + petechial hemorrhages = petechial  
 Phaenicia 
 phagolysosomal vacuole + phagolysosomal vacuoles = phagolysosomal vacuole
 phagolysosome + phagolysosomes + Phagolysosome + phagolysosome inhibition = phagolysosome
@@ -1304,7 +1225,6 @@ piperonyl butoxide
 Piringa-Kuchenka cell + Piringa-Kuchenka cells = Piringa-Kuchenka cell
 plague 
 planarian + planarians = planarian
-Plasmodium + Plasmodia = Plasmodium
 Plasmodium brasilianum + P. brasilianum = Plasmodium brasilianum
 Plasmodium cynomolgi + P. cynomolgi = Plasmodium cynomolgi
 Plasmodium eylesi + P. eylesi = Plasmodium eylesi
@@ -1329,7 +1249,6 @@ pneumonitis
 pneumothorax 
 polar bear + polar bears = polar bear
 polio + poliomyelitis = polio
-Polymerase Chain Reaction (PCR) + PCR = Polymerase Chain Reaction (PCR)
 Polyvinyl alcohol (PVA) + Polyvinyl alcohol + PVA = Polyvinyl alcohol (PVA)
 pork tapeworm 
 portal circulation 
@@ -1351,26 +1270,20 @@ primary amoebic meningoencephalitis (PAM) + PAM + primary amoebic meningoencepha
 primate + primates = primate
 primigravid 
 procercoid + Procercoid = procercoid
-proglottid + proglottids + Proglottids = proglottid
 proguanil 
 promastigote + promastigotes + Promastigotes = promastigote
 propamidine 
 prostaglandin 
-protective immunity + Protective immuity + permanent immunity + host protection + spontaneous cure + Acquired immunity + Protection against the primary infection + full protection + protective response + protective immune response + protective immune responses = protective immunity
 Protein deficiency + protein-losing + short of protein foods = protein deficiency
 proteinuria + Proteinuria = proteinuria
-protozoa + protozoan + Protozoa + protozoans + Protozoan = protozoa
-pruritic dermatitis + Pruritic dermatitis = pruritic dermatitis
 pruritic papules 
 pruritic streaks 
-pruritus + Pruritus = pruritus
 pruritus ani 
 pseudocyst + Pseudocyst = pseudocyst
 Pseudophyllidea + Pseudophyllid = Pseudophyllidea
 pseudopolyps 
 Psorophora 
 Psychodidae 
-Pulex 
 Pulex irritans + P. irritans = Pulex irritans
 Pulex simulans + P. simulans = Pulex simulans
 pulmonary circulation 
@@ -1419,7 +1332,6 @@ regurgitation
 reindeer 
 relapsing fever 
 reptile + reptiles = reptile
-reservoir host + reservoir hosts + reservoirs + Reservoir hosts + reservoir = reservoir host
 respiratory embarrassment 
 respiratory infection + respiratory = respiratory infection
 respiratory paralysis 
@@ -1430,7 +1342,6 @@ Retortamonas intestinalis + R. intestinalis = Retortamonas intestinalis
 rhabditiform larva + rhabditiform + Rhabditiform larva = rhabditiform larva
 Rhipicephalus 
 Rhipicephalus sanguineus + R. sanguineus = Rhipicephalus sanguineus
-Rhodnius 
 Rhodnius prolixus + R. prolixus = Rhodnius prolixus
 rickettsia + rickettsiae + Rickettsiae + rickettsial pox = rickettsia
 Rickettsia 
@@ -1452,7 +1363,6 @@ Rocky Mountain spotted fever
 Rod of Asclepius 
 rodent + rodents + Rodents + Rodent = rodent
 rosacea 
-roundworm + roundwords + Nematoda = roundworm
 Rudolph Leuckart 
 Russian spring-summer encephalitis 
 saddleback caterpillar 
@@ -1471,7 +1381,6 @@ SARS
 scabies + Scabies = scabies
 Scarabaeidae 
 Schaudinn's fixative + Schaudinn's Fixative = Schaudinn's fixative
-Schistosoma + Schistosomes + schistosomes + Schistosome + schistosome = Schistosoma
 Schistosoma haematobium + S. haematobium = Schistosoma haematobium
 Schistosoma intercalatum + S. intercalatum = Schistosoma intercalatum
 Schistosoma japonicum + S. japonicum = Schistosoma japonicum
@@ -1501,7 +1410,6 @@ seizure + seizures + Focal seizures + Seizures = seizure
 Semisulcospira 
 sepsis + septicemia = sepsis
 sequestration + sequestered + Sequestration = sequestration
-serology + Serology + serological tests + Serological + serological testing + Serologic tests + Serodiagnosis + Serologic testing + serologies = serology
 serpiginous lesion + Serpiginous lesions + serpiginous lesions = serpiginous lesion
 sexual transmission + sexually transmitted = sexual transmission
 Sheather's method + Sheather's Method + sugar (sheather's) floatation method + Sugar (Sheather's) Floatation Method + Sheather's Method = Sheather's method
@@ -1564,12 +1472,10 @@ string test
 strobila + strobilae = strobila
 stroke 
 strongyloidal enteritis 
-Strongyloides 
 Strongyloides fuelleborni kellyi +	S. fuelleborni kellyi +	S. fuelleborni = Strongyloides fuelleborni kellyi
 Strongyloides procyonis + S. procyonis = Strongyloides procyonis
 Strongyloides stercoralis + S. stercoralis = Strongyloides stercoralis
 strongyloidiasis + Strongyloidiasis = strongyloidiasis
-subcutaneous edema 
 subcutaneous nodule + subcutaneous nodules + Subcutaneous nodules = subcutaneous nodule
 sulfa allergies 
 sulfadiazine 
@@ -1589,7 +1495,6 @@ Tabanidae + Tabanids + tabanid + tabanids + Tabanid = Tabanidae
 tachycardia 
 tachyzoite + tachyzoites + Tachyzoites = tachyzoite
 tadpole + tadpoles = tadpole
-Taenia 
 Taenia asiatica + T. asiatica = Taenia asiatica
 Taenia brauni + T. brauni = Taenia brauni
 Taenia saginata + T. saginata = Taenia saginata
@@ -1599,7 +1504,6 @@ taeniasis + Taeniasis = taeniasis
 Taeniastatin 
 Taeniidae 
 tampan tick 
-tapeworm + tapeworms + Tapeworms + Tapeworm = tapeworm
 tarantula + Tarantulas = tarantula
 Tasmanian devil 
 temephos 
@@ -1624,28 +1528,23 @@ thick smear + Thick smears = thick smear
 thimerosal 
 thrombocytopenia 
 thrombosis + vascular thrombosis = thrombosis
-tick + Ticks + ticks + Tick = tick
 tick paralysis 
 tiger 
 tilapia  
 tinidazole + Tinidazole = tinidazole
 tongue worm + tongue worms = tongue worm
 Totiviridae 
-Toxocara 
 Toxocara canis + T. canis = Toxocara canis
 Toxocara cati + T. cati = Toxocara cati
 toxocariasis + Toxocariasis = toxocariasis
-Toxoplasma 
 Toxoplasma gondii + T. gondii = Toxoplasma gondii
 toxoplasmosis + Toxoplasmosis = toxoplasmosis
 acquired acute toxoplasmosis + Acute acquired toxoplasmosis = acquired acute toxoplasmosis
-congenital toxoplasmosis + Congenital toxoplasmosis = congenital toxoplasmosis
-in the immunocompromised patient 
+congenital toxoplasmosis + Congenital toxoplasmosis = congenital toxoplasmosis 
 trachoma 
 transfusion + transfusions + Transfusion = transfusion
 transplant + transplants = transplant
 transverse myelitis 
-Trematoda + Trematodes + trematodes + trematodes = Trematoda
 trench fever + Trench fever = trench fever
 Triatoma infestans 
 Triatominae + triatomine + Triatomine + Triatomid + Triatomines + kissing bug = Triatominae
@@ -1682,19 +1581,16 @@ tropical pulmonary eosinophilia + TPE + Tropical pulmonary eosinophilia = tropic
 tropical splenomegaly syndrome 
 true bug + true bugs = true bug
 trypanomastigote 
-Trypanosoma 
 Trypanosoma brucei gambiense + T. b. gambiense	West = Trypanosoma brucei gambiense
 Trypanosoma brucei rhodesiense + T. b. rhodesiense = Trypanosoma brucei rhodesiense
 Trypanosoma cruzi + T. cruzi = Trypanosoma cruzi
 Trypanosoma evansi + T. evansi = Trypanosoma evansi
 trypanosome + trypanosomes + Trypanosomes = trypanosome
-trypanosomiasis + Trypanosomiasis = trypanosomiasis
 trypomastigote + trypomastigotes = trypomastigote
 tsetse fly + tsetse + Tsetse = tsetse fly
 tuberculosis 
 tubular necrosis 
 tuft cell + tuft cells = tuft cell
-tularemia + Tularemia = tularemia
 tumbu fly 
 tumor 
 tumor necrosis factor (TNF) + TNF alpha + TNF-α + TNF = tumor necrosis factor (TNF)
@@ -1703,30 +1599,23 @@ turkey gnats
 typhoid fever 
 typhus 
 Ugandan eye worm 
-ulcer + ulcers + Ulcers + ulceration + ulcerations + ulcerative = ulcer
 ulcerative colitis 
 ulcerative keratitis + Ulcerative keratitis = ulcerative keratitis
 Uncinaria stenocephala 
-uncooked/undercooked meat + uncooked meat + undercooked meat + inadequately cooked + raw meat + raw fish + undercooked meats + raw or undercooked infected meats + poorly cooked game + Raw or undercooked saltwater fish + raw beef + raw or undercooked pork + raw or under-cooked fish + raw or undercooked flesh + raw or undercooked freshwater fish = uncooked/undercooked meat
 unsporulated oocysts + Unsporulated oocysts = unsporulated oocysts
 urinary stasis 
 urinary tract + urinary tract infection = urinary tract
 urine + Urine = urine
 urticaria 
 uveitis 
-vaccine + vaccines + Vaccines + vaccination = vaccine
 vaginal erythema + vaginal and vulvar erythema = vaginal erythema
 vaginal itching 
-vectors + vector + Vectors + Vector = vectors
 velvet ant + velvet ants = velvet ant
 venom + Venom + venoms = venom
 verruga peruana 
 vertical transmission 
 Vespidae 
 Vespula 
-Vilem Lambl 
-virulence + Virulence = virulence
-virus + viruses	RNA virus = virus
 visceral leishmaniasis (VL) + VL = visceral leishmaniasis (VL)
 vision loss 
 vitamin A 
@@ -1734,7 +1623,6 @@ vitamin B12 + B12 = vitamin B12
 vivax malaria + Vivax malaria = vivax malaria
 VLM (visceral larva migrans) + VLM = VLM (visceral larva migrans)
 vole + voles = vole
-vomiting + Vomiting = vomiting
 voriconazole 
 Wakana disease 
 walrus + walruses = walrus
@@ -1748,7 +1636,6 @@ water flea + water fleas = water flea
 water treatment + chemical treatments = water treatment
 waterbuck 
 watercress 
-weight loss 
 West African trypanosomiasis + Trypanosoma brucei gambiense = West African trypanosomiasis
 West Nile virus 
 Western blot 
@@ -1766,13 +1653,11 @@ Wolbachia
 wolf + wolves = wolf
 World Health Assembly 
 World Health Organization 
-worm + worms = worm
 Wright's stain + Wright solution = Wright's stain
 Wuchereria 
 Wuchereria bancrofti + W. bancrofti = Wuchereria bancrofti
 xenodiagnosis + Xenodiagnosis = xenodiagnosis
 Xenopsylla cheopis + Xenopsylla = Xenopsylla cheopis
-X-ray + x-rays = X-ray
 yellow fever + Yellow fever = yellow fever
 yellow fly + yellow flies = yellow fly
 yellowjacket +  = yellowjacket
@@ -1781,4 +1666,3 @@ Ziehl-Neelsen staining
 Zika 
 zinc sulfate + Zinc Sulfate = zinc sulfate
 zinc sulfate floatation method + Zinc Sulfate Floatation Method = zinc sulfate floatation method
-zoonotic + Zoonotic + zoonosis = zoonotic

@@ -19,6 +19,7 @@ NB if the software does not pickup all the front matter- use this as an opportun
 ![image of advanced page numbers](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/Step1_AdvancedPageNumbers.png)
 
 For Edition 7 the decision was to index all pages
+* only pdf pg 7, 8, 14 -626
 
 ### Choosing the words to include (PDF index generator Step 2)
 
