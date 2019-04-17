@@ -26,7 +26,6 @@ aestivo-autumnal malaria + aestivo-autumnal + falciparum malaria = aestivo-autum
 African Programme for Onchocerciasis Control (APOC) + APOC = African Programme for Onchocerciasis Control (APOC)
 African relapsing fever 
 African trypanosomiasis 
-alae 
 Allodermanyssus sanguineus 
 alphavirus 
 alveolar echinococcosis + Alveolar echinococcosis = alveolar echinococcosis
