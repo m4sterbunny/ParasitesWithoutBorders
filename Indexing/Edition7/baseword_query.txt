@@ -420,7 +420,7 @@ cruzipain + Cruzipain = cruzipain
 cryotherapy + Cryotherapy = cryotherapy
 crypt + crypts = crypt
 crypton 
-cryptosporidiosis + Cryptosporidiosis +  = cryptosporidiosis
+cryptosporidiosis + Cryptosporidiosis = cryptosporidiosis
 Cryptosporidium 
 Cryptosporidium canis + C. canis = Cryptosporidium canis
 Cryptosporidium felis + C. felis = Cryptosporidium felis
@@ -813,7 +813,7 @@ Hymenolepis
 Hymenolepis diminuta + H. diminuta = Hymenolepis diminuta
 Hymenolepis microstoma + H. microstoma = Hymenolepis microstoma
 Hymenolepis nana + H. nana = Hymenolepis nana
-Hymenoptera	hymenopterans + Hymenopterans = Hymenoptera	hymenopterans
+Hymenoptera + hymenopterans + Hymenopterans = Hymenoptera	hymenopterans
 hypereosinophilia 
 hypergammaglobulinemia 
 hyperinfection + Hyperinfection = hyperinfection
@@ -997,7 +997,7 @@ lymphatics + lymphoid tissue = lymphatics
 lymphedema + Lymphedema = lymphedema
 lymphopenia 
 Macracanthorhynchus hirudinaceus 
-macrogametocyte + macrogametocyte + macrogametocyte + macrogametocytes = macrogametocyte
+macrogametocyte + macrogametocyte +  macrogametocytes = macrogametocyte
 macrogamont + macrogamonts + Macrogamonts = macrogamont
 macronucleus 
 macula 
@@ -1097,7 +1097,7 @@ mucocutaneous leishmaniasis (MCL) + MCL = mucocutaneous leishmaniasis (MCL)
 mucocutaneous lesions 
 mucosal belt 
 mullet 
-multiple infections	different species + multiple infections + Multiple infections = multiple infections	different species
+multiple infections + different species + multiple infections + Multiple infections = multiple infections	different species
 Musca domestica 
 Muscidae + muscoid + muscoids = Muscidae
 muscle cramp + Muscle cramps = muscle cramp
@@ -1123,7 +1123,6 @@ Nematophora
 neonicotinoid 
 Neorickettsia helmintheca 
 neosporin 
-Nepal 
 nephritis 
 nephropathy 
 nephrotic syndrome 
@@ -1420,7 +1419,7 @@ regurgitation
 reindeer 
 relapsing fever 
 reptile + reptiles = reptile
-reservoir host + reservoir hosts + reservoirs + Reservoir hosts + reservoir +  = reservoir host
+reservoir host + reservoir hosts + reservoirs + Reservoir hosts + reservoir = reservoir host
 respiratory embarrassment 
 respiratory infection + respiratory = respiratory infection
 respiratory paralysis 
@@ -1430,7 +1429,7 @@ retinoblastoma
 Retortamonas intestinalis + R. intestinalis = Retortamonas intestinalis
 rhabditiform larva + rhabditiform + Rhabditiform larva = rhabditiform larva
 Rhipicephalus 
-Rhipicephalus sanguineus + R. sanguineus +  = Rhipicephalus sanguineus
+Rhipicephalus sanguineus + R. sanguineus = Rhipicephalus sanguineus
 Rhodnius 
 Rhodnius prolixus + R. prolixus = Rhodnius prolixus
 rickettsia + rickettsiae + Rickettsiae + rickettsial pox = rickettsia
@@ -1566,6 +1565,7 @@ strobila + strobilae = strobila
 stroke 
 strongyloidal enteritis 
 Strongyloides 
+Strongyloides fuelleborni kellyi +	S. fuelleborni kellyi +	S. fuelleborni = Strongyloides fuelleborni kellyi
 Strongyloides procyonis + S. procyonis = Strongyloides procyonis
 Strongyloides stercoralis + S. stercoralis = Strongyloides stercoralis
 strongyloidiasis + Strongyloidiasis = strongyloidiasis
@@ -1694,8 +1694,7 @@ tsetse fly + tsetse + Tsetse = tsetse fly
 tuberculosis 
 tubular necrosis 
 tuft cell + tuft cells = tuft cell
-tularemia 
-Tularemia 
+tularemia + Tularemia = tularemia
 tumbu fly 
 tumor 
 tumor necrosis factor (TNF) + TNF alpha + TNF-α + TNF = tumor necrosis factor (TNF)
@@ -1782,4 +1781,4 @@ Ziehl-Neelsen staining
 Zika 
 zinc sulfate + Zinc Sulfate = zinc sulfate
 zinc sulfate floatation method + Zinc Sulfate Floatation Method = zinc sulfate floatation method
-zoonotic + Zoonotic + zoonosis + reservoir hosts = zoonotic
+zoonotic + Zoonotic + zoonosis = zoonotic

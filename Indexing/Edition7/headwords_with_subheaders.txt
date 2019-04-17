@@ -1,17 +1,4 @@
-Acanthamoeba 	
-	Acanthamoeba astronyxis
-	Acanthamoeba castellanii		
-	Acanthamoeba culbertsoni
-	Acanthamoeba hatchetti
-	Acanthamoeba polyphaga 	
-	Acanthamoeba rhysodes	
-															
-Aedes 
-	Aedes aegypti 	
-	Aedes albopictus 	
-	Aedes Ochlerotatus japonicus	
-	Aedes scutellaris	
-																										
+																								
 Amblyomma
 	Amblyomma americanum 	
 	Amblyomma cajennense 	
@@ -51,10 +38,6 @@ ascariasis
 	hepatobiliary	
 	pancreatic 	
 	neonatal ascariasis 
-
-Ascaris
-	Ascaris lumbricoides	
-	Ascaris suum	
 															
 aspiration	
 	splenic aspiration 	
@@ -74,9 +57,7 @@ bee
 	bumble bee	
 	honey bee
 	African killer bee	
-
-Boophilus
-	Boophilus annulatus 															
+ 															
 Borrelia
 	Borrelia burgdorferi 				
 	Borrelia recurrentis 
@@ -150,14 +131,7 @@ edema
 	periorbital edema
 	subcutaneous edema 	
 	laryngeal edema							
-														
-Entamoeba 
-	Entamoeba coli 
-	Entamoeba dispar 	
-	Entamoeba gingivalis	
-	Entamoeba histolytica	
-	Entamoeba moshkovskii	
-	Entamoeba polecki															
+																												
 Fasciola 
 	Fasciola gigantica
 	Fasciola hepatica
@@ -181,48 +155,21 @@ hepatitis
 	hepatitis B	
 	hepatitis C 
 	hepatitis D															
-Hymenolepis
-	Hymenolepis diminuta	
-	Hymenolepis microstoma 
-	Hymenolepis nana 	
+	
 Ixodes 		
 	Ixodes dammini
 	Ixodes holocyclus 	
 	Ixodes pacificus	
 	Ixodes ricinus 	
 	Ixodes scapularis	
-															
-Leishmania
-	Leishmania (Leishmania) aethiopica 	
-	Leishmania (Leishmania) amazonensis	
-	Leishmania (Leishmania) donovani 	
-	Leishmania (Leishmania) garnhami	
-	Leishmania (Leishmania) infantum chagasi 	
-	Leishmania (Leishmania) major 	
-	Leishmania (Leishmania) mexicana 	
-	Leishmania (Leishmania) pifanoi 	
-	Leishmania (Leishmania) tropica 	
-	Leishmania (Leishmania) venezualensis 	
-	Leishmania (Viannia) braziliensis 	
-	Leishmania (Viannia) colombiensis 	
-	Leishmania (Viannia) guyanensis 	
-	Leishmania (Viannia) lainsoni 	
-	Leishmania (Viannia) lindenbergi 	
-	Leishmania (Viannia) naiffi 	
-	Leishmania (Viannia) panamensis 	
-	Leishmania (Viannia) peruviana	
-	Leishmania (Viannia) shawi 	
-												
-															
+																																				
 Loxoceles 			
 	Loxoceles arizonica 	
 	Loxoceles intermedia	
-	Loxoceles laeta	
-	Loxoceles laeta 	
+	Loxoceles laeta		
 	Loxoceles reclusa 
 	Loxoceles unicolor	
-Lutzomyia 	
-	sand fly													
+													
 malabsorption 	
 	malabsorption of fats	
 	malabsorption of protein	
@@ -247,14 +194,7 @@ Ochlerotatus
 	Ochlerotatus sollicitans
 	Ochlerotatus taeniorhynchus	
 	Ochlerotatus triseriatus 	
-															
-Ornithodorus 
-	Ornithodorus hermsi 	
-	Ornithodorus moubata 	
-	Ornithodorus rudis 
-	Ornithodorus turicata 
-	Ornithonyssus bacoti 
-														
+																												
 Paragonimus		
 	Paragonimus africanus	
 	Paragonimus heterotremusx	
@@ -277,44 +217,15 @@ Phlebotomus
 	Phlebotomus papatasi
 	Phlebotomus sergenti
 	Phlebotomus chinesis 
-														
-Plasmodium 	
-	Plasmodium brasilianum 
-	Plasmodium cynomolgi 
-	Plasmodium eylesi 
-	Plasmodium falciparum 
-	Plasmodium inui 
-	Plasmodium knowlesi 
-	Plasmodium malariae 
-	Plasmodium ovale 
-	Plasmodium ovale curtisi 
-	Plasmodium ovale wallikeri 
-	Plasmodium schwetzi 	
-	Plasmodium simium 
-	Plasmodium vivax 
-														
-Pulex			
-	Pulex irritans 	
-	Pulex simulans	
 	 													
 Rhipicephalus
 	Rhipicephalus sanguineus 	
-Rhodnius
-	Rhodnius prolixus
 Rickettsia														
 	Rickettsia akari
 	Rickettsia conorii 
 	Rickettsia prowazeki	
 	Rickettsia rickettsii								
-
-Schistosoma	
-	Schistosoma haematobium 	
-	Schistosoma intercalatum	
-	Schistosoma japonicum 	
-	Schistosoma mansoni	
-	Schistosoma matthei 	
-	Schistosoma mekongi 	
-	Schistosomatium douthitti									
+									
 Stegomyia
 	Stegomyia aegypti
 	Stegomyia albopicta 	
@@ -322,21 +233,7 @@ Strongyloides
 	Strongyloides fuelleborni kellyi 	
 	Strongyloides procyonis
 	Strongyloides stercoralis 	
-												
-Taenia	
-	Taenia asiatica 
-	Taenia brauni 
-	Taenia saginata 
-	Taenia serialis 
-	Taenia solium 
-															
-Toxocara 
-	Toxocara canis 
-	Toxocara cati 	
-														
-Toxoplasma
-	Toxoplasma gondii 	
-
+													
 toxoplasmosis	
 	acquired acute toxoplasmosis	
 	congenital toxoplasmosis
@@ -349,7 +246,6 @@ Trichinella
 	Trichinella patagoniensis 	
 	Trichinella pseudospiralis 	
 	Trichinella spiralis 	
-	Trichinella spiralis 
 	Trichinella zimbabwensis 	
 	
 Trichomonas														
@@ -367,10 +263,3 @@ Trombicula
 	Trombicula akamushi	
 	Trombicula deliensis 	
 														
-Trypanosoma 					
-	Trypanosoma brucei gambiense	
-		African trypanosomiasis
-	Trypanosoma brucei rhodesiense 		
-		East African trypanosomiasis
-	Trypanosoma cruzi	
-	Trypanosoma evansi	

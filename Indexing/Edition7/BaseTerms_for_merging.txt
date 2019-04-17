@@ -122,7 +122,6 @@ Ancylostoma duodenale
 anemia
 	Anemia
 macrocytic hypochromic anemia
-megaloblastic anemia
 aneurysm 
 	aneurysms
 angioedema 
@@ -748,7 +747,6 @@ crypt
 crypton 
 cryptosporidiosis
 	Cryptosporidiosis
-
 Cryptosporidium 
 Cryptosporidium canis 
 	C. canis
@@ -1224,8 +1222,7 @@ genetic exchange
 genome
 	genomes
 	Genome
-geographical isolation 
-George Low 
+geographical isolation  
 German cockroach 
 gastrointestinal panel (GI) 
 	GI panel 
@@ -1425,7 +1422,8 @@ Hymenolepis microstoma
 	H. microstoma
 Hymenolepis nana 
 	H. nana
-Hymenoptera	hymenopterans
+Hymenoptera	
+	hymenopterans
 	Hymenopterans
 hypereosinophilia 
 hypergammaglobulinemia 
@@ -1721,8 +1719,6 @@ Loxoceles intermedia
 	L. intermedia
 Loxoceles laeta
 	L. laeta
-Loxoceles laeta 
-	L. laeta
 Loxoceles reclusa
 	L. reclusa
 Loxoceles unicolor
@@ -1762,8 +1758,6 @@ lymphedema
 lymphopenia 
 Macracanthorhynchus hirudinaceus 
 macrogametocyte
-	macrogametocyte
-	macrogametocyte
 	macrogametocytes
 macrogamont 
 	macrogamonts
@@ -1949,7 +1943,8 @@ mucocutaneous leishmaniasis (MCL)
 mucocutaneous lesions 
 mucosal belt 
 mullet 
-multiple infections	different species
+multiple infections	
+	different species
 	multiple infections
 	Multiple infections
 Musca domestica 
@@ -1995,7 +1990,6 @@ Nematophora
 neonicotinoid 
 Neorickettsia helmintheca 
 neosporin 
-Nepal 
 nephritis 
 nephropathy 
 nephrotic syndrome 
@@ -2503,12 +2497,6 @@ reindeer
 relapsing fever 
 reptile 
 	reptiles
-reservoir host 
-	reservoir hosts
-	reservoirs
-	Reservoir hosts
-	reservoir
-
 respiratory embarrassment 
 respiratory infection
 	respiratory
@@ -2524,7 +2512,6 @@ rhabditiform larva
 Rhipicephalus
 Rhipicephalus sanguineus 
 	R. sanguineus
-
 Rhodnius
 Rhodnius prolixus 
 	R. prolixus
@@ -2565,7 +2552,6 @@ rosacea
 roundworm
 	roundwords
 	Nematoda
-Rudolph Leuckart 
 Russian spring-summer encephalitis 
 saddleback caterpillar 
 salmon 
@@ -2780,6 +2766,7 @@ strongyloidal enteritis
 Strongyloides
 Strongyloides fuelleborni kellyi 
 	S. fuelleborni kellyi
+	S. fuelleborni 
 Strongyloides procyonis
 	S. procyonis
 Strongyloides stercoralis 
@@ -3005,7 +2992,7 @@ tubular necrosis
 tuft cell 
 	tuft cells 
 tularemia 
-Tularemia 
+	Tularemia 
 tumbu fly 
 tumor 
 tumor necrosis factor (TNF) 
@@ -3167,4 +3154,3 @@ zinc sulfate floatation method
 zoonotic 
 	Zoonotic
 	zoonosis
-	reservoir hosts
