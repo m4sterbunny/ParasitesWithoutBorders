@@ -99,15 +99,10 @@ It may be that edits to the book's text result in a term no longer existing and 
 To remove the filters select the "show all" option.
 
 ### Remove duplicates
-* By using the "Find" option and selecting "By headers" you can filter the results down to the hits from a specific list  
-* Where a word is a header the software makes duplicates
-* Select the words and make a word label for these words ( will put a colour block next to these words to find them more easily)
-* Scan the list for the colour and disable the duplicate word that is not a header type.
+* Select the merge duplicates icon from the toolbar
+* Curate which words should be merged
+* [insert image of which icon it is]
 
-### Remove duplicate page numbers
-* TBC
-* currently exporting index as a csv, removing duplicate page numbers in a jupyter notebook
-* need to test importing corrected list
 
 ### Export Index (Optional Step 5)
 
@@ -128,6 +123,11 @@ The choice depends upon your needs. If this is the final stage for the indexing,
 
 
 ![Writing Index Options](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/Write_Index.png)
+
+### Remove duplicate page numbers
+* Run remove duplicate page numbers text.ipynb (Google colab file)
+* Follow instructions in the file, will generate a text file saved in My Drive (Google Drive)
+* alternatively export file as csv from step4 and run remove_duplicate_page_numbers.ipynb
 
 
 
