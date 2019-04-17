@@ -18,8 +18,8 @@ This advanced page numbers option allows the removal of text or editing of the R
 NB if the software does not pickup all the front matter- use this as an opportunity to add the Roman numerals (and the knock -on to this is that you have to remove same number of pages to end- when it is all good page number will format green on GUI).
 ![image of advanced page numbers](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/Step1_AdvancedPageNumbers.png)
 
-For Edition 7 the decision was to index all pages
-* only pdf pg 7, 8, 14 -626
+For Edition 7 the decision was to index all pages except front matter and table of contents, and FULL reference pages
+
 
 ### Choosing the words to include (PDF index generator Step 2)
 
