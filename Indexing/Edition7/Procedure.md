@@ -59,9 +59,11 @@ There are 2 paths to this option, choose "Generate Index Settings" from step 2 o
 * Enable ignore case sensitivity 
 NB this is a lesser of 2 evils option(case sentitivity has been handled in the include words e.g. variants Bee and bee are already included), but some terms were being missed. Enabling this option results in duplicate page numbers- we have some python to clean this up.
 * Group consecutive page numbers 
-* Ensure "read the visual text of the book" is disabled
+* Ensure "read the visual text of the book" is disable
+* Disable "group consecutive page numbers"
+    * unfortunately this is has to be disabled in order to deal with the duplicate page numbers
 
-![Settings>Words to be read](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/Reading_Words.png)
+![Settings>Words to be read](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/generate_index_settings_no_page_group.PNG)
 
 ### Generate the index (Step 4)
 
@@ -102,11 +104,25 @@ It may be that edits to the book's text result in a term no longer existing and 
 
 To remove the filters select the "show all" option.
 
-### Remove duplicates
+### Merge duplicates
 * Select the merge duplicates icon from the toolbar
-* Curate which words should be merged
-* [insert image of which icon it is]
+* Check final word is correct
+* words that should not be merged can be removed from the merge list with the "-" on the right hand sid
+* **Note:** word type is not preserved during merging so if the word was a header it will lose its subheaders so this step should be done before creating headers and subheaders 
+![Merge Duplicates](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/merge_duplicates_step3.png)
 
+### Assign subheaders to headers
+* Right-click on word to access edit word
+* Choose word type: Header
+
+![Make word header type](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/edit_word_header_step3.png)
+
+* Right-click on word to access "Subheaders..."
+* Use search box to find words to add as subheaders and select relevant words
+
+![Select subheaders to add to headword](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/add_subheaders_to_headword_step3.png)
+
+* Note: subheaders can be assigned to headers as a query in step 2 however this creates duplicates if the base term is also in the merge query
 
 ### Export Index (Optional Step 5)
 
@@ -125,13 +141,20 @@ Assuming an export is needed use the W+arrow button.
 
 The choice depends upon your needs. If this is the final stage for the indexing, create a text file to later paste into inDesign or MS Word etc. If the setup itself is requred the pdf index generator project will provide a file to recreate aspects of this flow (NB this file does not contain the original term lists and does not recreate all the settings as per these steps).
 
+* Choose colon as the separator for Python script to recognise where the page numbers start
+![Writing Index choose separator](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/choose_separator_step_4.png)
 
-![Writing Index Options](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/Write_Index.png)
+* export as text file to be used in Python script
+![Writing Index Options](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/write_index_to_text_step4.png)
 
 ### Remove duplicate page numbers
-* Run remove duplicate page numbers text.ipynb (Google colab file)
-* Follow instructions in the file, will generate a text file saved in My Drive (Google Drive)
-* alternatively export file as csv from step4 and run remove_duplicate_page_numbers.ipynb
+* Run remove duplicate page numbers text.py
+* A clean_index.txt file will be generated with the format:
+~~~~
+word 67, 89, 90
+    subword 89, 111
+~~~~
+
 
 
 
