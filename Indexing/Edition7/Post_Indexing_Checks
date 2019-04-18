@@ -6,6 +6,7 @@ There are a number of clean ups to do post the processing stages:
 Last name crosses 2 pages, search may not find it
 4. Remove hits for tiger mosquito from tiger (retain first only)
 5. A.J. Renoult + Renoult = A.J. Renoult there is a space in current text (proof 3 returned)
+6. There may be duplicate or overlapping ranges
 
 
 
