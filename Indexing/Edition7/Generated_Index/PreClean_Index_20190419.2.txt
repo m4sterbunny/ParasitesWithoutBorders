@@ -1152,7 +1152,7 @@ Norwegian scabies:490
 Nosopsyllus fasciatus:467
 nucleic acid probe test:88-89, 544
 numbness:486, 495
-nurse cell:241, 241-242, 242, 244, 244-245, 245, 245-246, 246, 248, 248, 518, 518
+Nurse cell:241, 241-242, 242, 244, 244-245, 245, 245-246, 246, 248, 248, 518, 518
 O'Neill, John:267
 O'nyong-nyong fever:449
 obstructive uropathy:390, 395
