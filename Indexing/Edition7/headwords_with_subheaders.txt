@@ -1,8 +1,29 @@
-																								
+NB this is a redundent file- in that we are not setting up headers/subs for running through the indexing software.
+However, it may be that we retain the indentation for sub-headers.
+Thus- I have run through the final index to apply these indents by hand directly to the text file, any edits here reflect late decisions to indent.
+
+NB this prevents issues - but creates by hand work!
+
+
+Acanthamoeba: 172, 174-175, 550, 581
+	Acanthamoeba astronyxis: 172
+	Acanthamoeba castellanii: 172
+	Acanthamoeba culbertsoni: 172
+	Acanthamoeba hatchetti: 172
+	Acanthamoeba polyphaga: 172
+	Acanthamoeba rhysodes: 172
+	
 Amblyomma
 	Amblyomma americanum 	
 	Amblyomma cajennense 	
-									
+				
+				
+Ancylostoma: 189, 204, 215, 217, 219, 223, 228, 299, 301, 314, 356, 553, 581
+	Ancylostoma braziliense: 215, 299-301
+	Ancylostoma caninum: 215, 299
+	Ancylostoma ceylanicum: 215, 223, 356, 553
+	Ancylostoma duodenale: 189, 204, 215, 217-221, 223, 228, 314, 553
+	
 amoebiasis
 	cerebral amoebiasis	
 	cutaneous amoebiasis
@@ -30,8 +51,6 @@ Anopheles
 	Anopheles polynesiensis	
 	Anopheles quadrimaculatus 	
 	Anopheles stephensi 	
-Apis 			
-	Apis mellifera	
 ascariasis 	
 	hepatobiliary	
 	pancreatic 	
