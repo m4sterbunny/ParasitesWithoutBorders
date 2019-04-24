@@ -2,8 +2,10 @@ NB this is a redundent file- in that we are not setting up headers/subs for runn
 However, it may be that we retain the indentation for sub-headers.
 Thus- I have run through the final index to apply these indents by hand directly to the text file, any edits here reflect late decisions to indent.
 
-NB this prevents issues - but creates by hand work!
-
+NB this prevents issues (within the indexing process)- but creates by hand work!
+This is the solution to collate similar terms: duodenal aspiration + duodenal aspirates = aspiration, duodenal
+In the 24th April index I am leaving some of these running first, last - duodenal aspiration
+BUT by editing the base terms file future indeces will spit out "aspiration, duodenal"
 
 Acanthamoeba: 172, 174-175, 550, 581
 	Acanthamoeba astronyxis: 172
@@ -60,21 +62,12 @@ aspiration
 	splenic aspiration 	
 	bone marrow aspiration	
 	duodenal aspiration	
-																						
-azoles	
-	ketoconazole 
-	fluconazole
-	itraconazole	
-	posaconazole	 	 							
+													 	 							
 Babesia			
 	Babesia bigemina	
 	Babesia divergens 
 	Babesia microti 										
-bee 	
-	bumble bee	
-	honey bee
-	African killer bee	
- 															
+															
 Borrelia
 	Borrelia burgdorferi 				
 	Borrelia recurrentis 
@@ -120,10 +113,7 @@ cysticercosis
 	extraneural cysticercosis	
 	cardiac cysticercosis	
 	ophthalmic cysticercosis 	
-															
-Demodex
-	Demodex folliculorum 
-														
+																												
 Dermacentor	
 	Dermacentor albipictus 	
 	Dermacentor andersoni 	
@@ -140,13 +130,22 @@ Diphyllobothrium
 	Diphyllobothrium pacificum 	
 	Diphyllobothrium ursi 	
 	Diphyllobothrium yonagoensis 	
-																																																									
+														
+edema
+	edema, bilateral periorbital: 247, 554, 578
+	edema, cerebral: 63
+	edema, facial: 63, 76, 221, 542, 578
+	edema, hemi-facial: 76
+	edema, laryngeal: 416
+	edema, periorbital: 247, 554, 578
+	edema, periorbital subcutaneous: 247, 554, 578
+	edema, pulmonary: 545														
+													
 Fasciola 
 	Fasciola gigantica
 	Fasciola hepatica
 	Fasciolopsis buski											
-flatworms	
-	Platyhelminth														
+													
 Giardia			
 	Giardia duodenalis	
 	Giardia intestinalis
@@ -179,31 +178,38 @@ Loxoceles
 	Loxoceles reclusa 
 	Loxoceles unicolor	
 													
-malabsorption 	
-	malabsorption of fats	
-	malabsorption of protein	
-	malabsorption of vitamin A 	
-	malabsorption of carbohydrates
-malaria 	
-	cerebral malaria 
-	congenital malaria		
-	simian malaria
-	induced malaria	
+malabsorption: 14, 16, 109, 170, 209, 220, 233, 246, 292, 294, 331
+	malabsorption of carbohydrates: 292
+	malabsorption of fats: 170, 292
+	malabsorption of protein: 233
+	malabsorption of vitamin A: 209
+	malabsorption syndrome: 14, 16, 170, 246, 294
+	
+Malaria
+	malaria, aestivo-autumnal: 96, 108-111
+	malaria, benign tertian: 96
+	malaria, cerebral: 108, 111
+	malaria, congenital: 107, 109-110
+	malaria, falciparum: 96, 108-111
+	malaria, induced: 107, 110, 113
+	malaria, malignant tertain: 96, 108-111
+	malaria, quartan: 97, 102
+	malaria, simian: 100
 Mansonella													
 	Mansonella ozzardi	
 	Mansonella perstans	
 	Mansonella streptocerca 	
 
-Opisthorchis
-	Opisthorchis felineus	
-	Opisthorchis viverrini 	
 
 Ochlerotatus 
 	Ochlerotatus japonicus
 	Ochlerotatus sollicitans
 	Ochlerotatus taeniorhynchus	
-	Ochlerotatus triseriatus 	
-																												
+	Ochlerotatus triseriatus 
+	
+Opisthorchis
+	Opisthorchis felineus	
+	Opisthorchis viverrini 																									
 Paragonimus		
 	Paragonimus africanus	
 	Paragonimus heterotremusx	
