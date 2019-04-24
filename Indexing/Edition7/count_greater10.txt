@@ -1,0 +1,69 @@
+African trypanosomiasis: 11
+Ancylostoma: 13
+Anopheles: 14
+Ascaris lumbricoides: 12
+bear: 11
+bird: 22
+black fly: 11
+blindness: 15
+cat: 28
+cattle: 29
+crustacean: 12
+Cryptosporidium: 12
+deer: 11
+dog: 49
+dormancy: 11
+Entamoeba histolytica: 15
+Fasciola: 11
+fish: 17
+flagella: 11
+Giardia: 13
+Giardia lamblia: 12
+granuloma: 12
+headache: 26
+hemoglobin: 11
+horse: 12
+immunocompromised: 14
+ivermectin: 21
+lesion: 50
+lymphadenopathy: 13
+magnetic resonance imaging (MRI): 12
+malabsorption: 11
+malaise: 15
+metronidazole: 12
+monkey: 13
+mouse: 27
+multiple infections: 11
+myalgia: 11
+Nematoda: 44
+niclosamide: 12
+nodule: 16
+onchocerciasis: 17
+PAIR (Puncture, Aspiration, Injection, Re-aspiration): 16
+paromomycin: 11
+pig: 29
+Plasmodium vivax: 11
+praziquantel: 19
+primate: 11
+pruritus: 17
+rash: 18
+rat: 16
+respiratory infection: 13
+rodent: 22
+sand fly: 14
+schistosomiasis: 15
+scolex: 13
+secondary bacterial infection: 14
+seizure: 15
+snail: 15
+Strongyloides stercoralis: 13
+tick: 11
+Trichinella: 13
+Trichinella spiralis: 13
+Trichomonas: 14
+Trichuris: 14
+Trichuris trichiura: 11
+tsetse fly: 11
+urine: 18
+urticaria: 11
+World Health Organization: 14
