@@ -35,12 +35,12 @@ Amblyomma cajennense + A. cajennense = Amblyomma cajennense
 American trypanosomiasis 
 amniotic fluid + amniotic = amniotic fluid
 amoebiasis 
-cutaneous amoebiasis 
-hepatic amoebiasis + Hepatic amoebiasis + hepatic amoebiasis = hepatic amoebiasis
-intestinal amoebiasis + Intestinal amoebiasis = intestinal amoebiasis
-intrathoracic amoebiasis 
-extra-intestinal amoebiasis + Extra-intestinal amoebiasis = extra-intestinal amoebiasis
-cerebral amoebiasis + Cerebral amoebiasis = cerebral amoebiasis
+cutaneous amoebiasis + Cutaneous amoebiasis = amoebiasis, cutaneous 
+hepatic amoebiasis + Hepatic amoebiasis + hepatic amoebiasis = amoebiasis, hepatic
+intestinal amoebiasis + Intestinal amoebiasis = amoebiasis, intestinal
+intrathoracic amoebiasis + Intrathoracic amoebiasis = amoebiasis, intrathoracic
+extra-intestinal amoebiasis + Extra-intestinal amoebiasis = amoebiasis, extra-intestinal
+cerebral amoebiasis + Cerebral amoebiasis = amoebiasis, cerebral
 amoebic dysentery 
 amoeboma + Amoeboma = amoeboma
 amphibian + amphibians = amphibian
