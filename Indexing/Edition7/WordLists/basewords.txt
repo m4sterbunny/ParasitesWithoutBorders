@@ -1557,7 +1557,7 @@ wet mount + wet mounts = wet mount
 whale + whales = whale
 Wheatly-Gomori trichrome stain + Wheatly-Gomori Trichrome Stain + Wheatly and Gomori's trichrome stain + Wheatly-Gomori's Trichrome solution = Wheatly-Gomori trichrome stain
 whipworm
-white-footed mouse + white-footed mice = white-footed mouse
+white-footed mouse + white-footed mice = mouse, white-footed
 wild boar + wild boars = wild boar
 Winterbottom's sign
 Wohlfahrtia
