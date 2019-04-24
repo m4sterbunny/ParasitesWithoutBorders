@@ -1002,7 +1002,7 @@ nephrotic syndrome
 neti pot + neti pots = neti pot
 nets + netting = nets
 neural larva migrans + Neural larva migrans = neural larva migrans
-neurocysticercosis + Neurocysticercosis = neurocysticercosis
+neurocysticercosis + Neurocysticercosis = cysticercosis, neurocysticercosis
 neurological damage + neurologic disease + neurological abnormalities = neurological damage
 neurological tissue + neurological tissues = neurological tissue
 neuropathology + Neuropathology = neuropathology
