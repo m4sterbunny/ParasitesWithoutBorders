@@ -107,16 +107,16 @@ Arthropoda
 artifact + artifacts + Artifact = artifact
 assassin bug + assassin bugs = assassin bug
 ascariasis + Ascariasis = ascariasis
-hepatobiliary ascariasis + Hepatobiliary ascariasis = hepatobiliary ascariasis
-neonatal ascariasis + Neonatal ascariasis = neonatal ascariasis
+hepatobiliary ascariasis + Hepatobiliary ascariasis = ascariasis, hepatobiliary 
+neonatal ascariasis + Neonatal ascariasis = ascariasis, neonatal
 Ascaris lumbricoides + A. lumbricoides = Ascaris lumbricoides
 Ascaris suum + A. suum = Ascaris suum
 ascites 
 Asian rock-pool mosquito 
 aspiration + Aspiration = aspiration
 splenic aspiration 
-bone marrow aspiration + bone marrow aspirations = bone marrow aspiration
-duodenal aspiration + duodenal aspirates = duodenal aspiration
+bone marrow aspiration + bone marrow aspirations = aspiration,  bone marrow
+duodenal aspiration + duodenal aspirates = aspiration, duodenal 
 asthenia 
 asthma + Asthma = asthma
 astrocyte + Astrocytes = astrocyte
@@ -1074,7 +1074,7 @@ PAIR (Puncture, Aspiration, Injection, Re-aspiration) + PAIR = PAIR (Puncture, A
 pale sclera 
 palsy + palsies = palsy
 pamaquine 
-pancreatic ascariasis 
+pancreatic ascariasis + Pancreatic ascariasis = ascariasis, pancreatic 
 pancreatitis 
 pandemic 
 panniculitis 
