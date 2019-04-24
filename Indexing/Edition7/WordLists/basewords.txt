@@ -399,9 +399,9 @@ cyclosporine A
 cyst passers 
 cyst wall 
 cystic fibrosis 
-extraneural cysticercosis + Extraneural cysticercosis = extraneural cysticercosis
-cardiac cysticercosis + cardiac cysticerci = cardiac cysticercosis
-ophthalmic cysticercosis + Ophthalmic cysticercosis = ophthalmic cysticercosis
+extraneural cysticercosis + Extraneural cysticercosis = cysticercosis, extraneural 
+cardiac cysticercosis + cardiac cysticerci = cysticercosis, cardiac
+ophthalmic cysticercosis + Ophthalmic cysticercosis = cysticercosis, ophthalmic
 Cystoisospora belli + C. belli = Cystoisospora belli
 Cytoisospora 
 cytokine + cytokines = cytokine
