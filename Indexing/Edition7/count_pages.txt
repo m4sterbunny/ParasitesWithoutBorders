@@ -1,3 +1,10 @@
+---
+NB any item with a count equal to or above 25 is mapped to its chapter
+NB 25-30 done, nothing in 30s, 
+Done- 44, 49, 50
+---
+
+
 A.J. Renoult: 2
 abdominal cramp: 7
 abdominal distension: 3
