@@ -1,0 +1,1766 @@
+A.J. Renoult: 2
+abdominal cramp: 7
+abdominal distension: 3
+abdominal rigidity: 1
+abdominal tenderness: 1
+aberrant infection: 5
+Acanthamoeba: 4
+Acanthamoeba astronyxis: 1
+Acanthamoeba castellanii: 1
+Acanthamoeba culbertsoni: 1
+Acanthamoeba hatchetti: 1
+Acanthamoeba polyphaga: 1
+Acanthamoeba rhysodes: 1
+Acari: 4
+acetaminophen: 1
+acid-fast staining: 7
+acidosis: 1
+acquired acute toxoplasmosis: 1
+Adenocephalus pacificus: 3
+adipose tissue: 1
+Aedes aegypti: 4
+Aedes albopictus: 2
+Aedes Ochlerotatus japonicus: 3
+Aedes scutellaris: 1
+Aedini: 1
+African Programme for Onchocerciasis Control (APOC): 3
+African relapsing fever: 1
+African trypanosomiasis: 11
+Alexandre Brumpt: 4
+Allodermanyssus sanguineus: 1
+alphavirus: 1
+alveolar echinococcosis: 1
+amastigote: 8
+Amblyomma: 3
+Amblyomma americanum: 2
+Amblyomma cajennense: 1
+American trypanosomiasis: 7
+amniotic fluid: 1
+amoebiasis: 4
+amoeboma: 2
+amphibian: 2
+amphotericin: 7
+anaphylactic reaction: 7
+anaplasmosis: 2
+Ancylostoma: 13
+Ancylostoma braziliense: 2
+Ancylostoma caninum: 2
+Ancylostoma ceylanicum: 4
+Ancylostoma duodenale: 8
+aneurysm: 2
+angioedema: 7
+angioedematous swelling: 1
+angiogenesis: 1
+angiostrongyliasis: 2
+Angiostrongylus: 5
+Angiostrongylus cantonensis: 4
+Angiostrongylus costaricensis: 3
+Anguillula stercoralis: 1
+anisakiasis: 4
+Anisakis: 3
+ankylosis of joint: 1
+Anopheles: 14
+Anopheles culicifacies: 1
+Anopheles freeborni: 2
+Anopheles funestus: 1
+Anopheles gambiae: 4
+Anopheles hermsi: 1
+Anopheles polynesiensis: 1
+Anopheles quadrimaculatus: 2
+Anopheles stephensi: 1
+ant: 4
+anthrax: 1
+anthroponotic species: 3
+antigen test: 6
+antigenic variation: 3
+antihistamine: 3
+antimony: 2
+antiplatelet compound: 1
+apheresis: 2
+Apicomplexa: 3
+Apidae: 1
+Apis: 3
+apoptosis: 3
+appendicitis: 4
+arachnoiditis: 1
+Araneae: 3
+arbovirus: 1
+arecoline hydrobromide: 1
+Argas persicus: 1
+Argasidae: 3
+Argyll-Robertson, Douglas: 1
+armadillo: 1
+arrhythmia: 2
+artemether: 3
+artemisinin: 2
+artemisinin combination therapy: 2
+artemotil: 1
+arthralgia: 2
+arthritis: 9
+Arthropoda: 2
+artifact: 2
+ascariasis: 8
+Ascaris lumbricoides: 12
+Ascaris suum: 3
+ascites: 2
+Ashford, Bailey: 1
+Asian rock-pool mosquito: 1
+Askanazy, Max: 1
+aspiration: 7
+assassin bug: 1
+asthenia: 1
+asthma: 7
+astrocyte: 2
+asymptomatic carriers: 8
+Atkins, John: 1
+atovaquone: 5
+Atrax: 1
+Auchmeromyia luteola: 1
+Austrobilharzia: 1
+auto-infectious cycle: 9
+autoimmunity: 2
+autoinfection: 8
+avian influenza: 1
+azithromycin: 4
+azoles: 5
+Babeș, Victor: 1
+Babesia: 8
+Babesia bigemina: 3
+Babesia divergens: 1
+Babesia microti: 1
+babesiosis: 6
+baboon: 3
+Bacillus thuringiensis israelensis: 2
+bacteremia: 2
+bacterial enterocolitis: 1
+bacterial meningitis: 2
+Baelz, Erwin von: 1
+Baerman sedimentation method: 1
+Balamuth, William: 1
+Balamuthia mandrillaris: 3
+Balantidiasis: 4
+Balantidium coli: 4
+Balantidium suis: 1
+Bancroft, Thomas: 2
+barium, enema: 1
+Bartonella bacilliformis: 1
+Bartonella quintana: 1
+bartonellosis: 1
+Bastian, Henry: 1
+bat: 4
+Bavay, Arthur: 1
+baylisascariasis: 2
+Baylisascaris procyonis: 3
+bear: 11
+beaver: 4
+beaver fever: 2
+Beaver, Paul: 1
+bed bug: 3
+bee: 9
+beef: 6
+beef tapeworm: 1
+beetle: 3
+benzene hexachloride: 3
+benzimidazole: 5
+benznidazole: 2
+benzyl alcohol: 1
+benzyl benzoate: 1
+big spleen disease: 1
+bile duct carcinoma: 1
+Bilharz, Theodore: 2
+BioFire: 2
+Biomphalaria: 2
+bird: 22
+bird mite: 1
+birth weight: 3
+biting midge: 3
+Black Death: 1
+black fly: 11
+blackwater fever: 1
+bladder fibrosis: 1
+Blastocystis hominis: 5
+Blatella germanica: 1
+Blatta orientalis: 1
+Blattidae: 1
+Blattodea: 1
+blepharitis: 1
+blindness: 15
+blister: 6
+bloating: 1
+blood bank screening: 1
+blood loss: 6
+blue bottle fly: 1
+blue spots: 1
+body louse: 4
+Boeck, William: 1
+Boisregard, Nicolas Andry de: 1
+bone marrow aspiration: 1
+Boophilus annulatus: 1
+Borovsky, Peter: 1
+Borrelia: 6
+Borrelia burgdorferi: 5
+Borrelia recurrentis: 1
+botfly: 1
+boutonneuse fever: 2
+bovine leukemia: 1
+bovine onchocerciasis: 1
+Brachycera: 1
+bradycardia: 2
+bradyzoite: 2
+Braun, Max: 1
+breakbone fever: 1
+breast milk: 3
+Bremser, Johann: 1
+Brie, Jean de: 1
+Brill-Zinsser disease: 1
+broad tapeworm: 3
+bronchoalveolar lavage: 3
+bronchopulmonary fistula: 1
+bronchospasm: 5
+Bruce, David: 3
+Brugia: 5
+Brugia beaveri: 1
+Brugia lepori: 1
+Brugia malayi: 7
+Brugia timori: 1
+Brugian filariasis: 1
+bubonic plague: 2
+buccal cavity: 4
+buffalo: 4
+buffer zones: 2
+buffered formaldehyde: 1
+bug, kissing: 7
+bug, palmetto: 1
+bug, redbug: 1
+bug, reduviid: 4
+bug, true bug: 3
+bug, wheel: 1
+bulbar palsy: 1
+Bulinus: 1
+Burkitt's lymphoma: 1
+Busk, George: 1
+butterfly: 1
+cachexia: 5
+Caenorhabditis elegans: 1
+Calabar swellings: 4
+Calliphora: 1
+Calliphoridae: 3
+camel: 1
+cancer: 8
+Candida: 1
+Canidae: 3
+canthariasis: 1
+Capillaria: 7
+Capillaria aerophila: 1
+Capillaria hepatica: 4
+Capillaria philippinensis: 5
+Capillaria plica: 1
+carbon dioxide laser: 1
+card agglutination test: 2
+cardiac cysticercosis: 1
+cardiomyopathy: 5
+Carini, Antonio: 1
+Carrion's disease: 2
+Carter, Jimmy: 3
+cat: 28
+cataracts: 2
+caterpillar: 2
+cattle: 29
+Catto, John: 1
+cellulitis: 3
+centipede: 2
+Ceratopogonidae: 1
+cercaria: 9
+cercarial dermatitis: 1
+cerebral amoebiasis: 1
+cerebral calcifications: 1
+cerebrospinal obstruction: 1
+Cerithidia: 1
+cervical neoplasia: 1
+Chagas disease: 5
+Chagas, Carlos: 3
+chagasin: 1
+chagoma: 1
+chancre: 3
+Chandler, Asa C.: 1
+Charcot-Leyden crystal: 2
+cheese-skipper: 1
+cheilitis: 1
+chemoprophylaxis: 5
+Chiclero's ulcer: 1
+chigger: 2
+chigoe: 2
+chikungunya: 3
+Chilomastix mesnili: 2
+Chilopoda: 2
+chimpanzee: 5
+Chiracanthium mildei: 1
+chlorination: 1
+chloroquine: 5
+chlorosis: 2
+cholangiocarcinoma: 2
+cholangiography: 3
+cholangitis: 3
+cholecystitis: 1
+chorioetinitis: 5
+choroidal infiltrates: 1
+Chrysomyia: 1
+Chrysops: 7
+Chrysops dimidiata: 2
+Chrysops silacea: 1
+chylocele: 1
+chyluria: 1
+cilia: 7
+ciliated protozoan: 1
+Cimex lectularius: 3
+cinchona tree: 2
+cinchonine: 1
+ciprofloxacin: 2
+cirrhosis: 1
+civet: 1
+clam digger's itch: 1
+clarithromycin: 2
+clindamycin: 4
+clonorchiasis: 2
+Clonorchis sinensis: 5
+clotrimazole: 1
+coccidian: 1
+Cochin China diarrhea: 1
+Cochliomyia: 1
+cockroach: 1
+coenurus: 1
+cognitive defects: 8
+Coleoptera: 1
+colitis: 10
+Colorado tick fever: 3
+colostrum: 2
+coma: 7
+commensalism: 3
+common duct: 1
+concentration by sedimentation: 1
+cone-nosed bug: 2
+conflict: 4
+congenital toxoplasmosis: 3
+congestive heart failure: 2
+Congo floor maggot: 1
+conjunctivitis: 2
+connective tissue: 2
+constipation: 4
+contact lens: 1
+Contracaecum: 1
+contracture: 2
+convulsion: 3
+cooties: 1
+copepod: 6
+coproculture: 3
+coprolites: 3
+copulatory spicule: 1
+cor pulmonale: 2
+coracidia: 3
+Cordylobia anthropophaga: 1
+cornea: 3
+corneal blindness: 1
+corneal stroma: 1
+coronary artery disease: 2
+Cort, William: 1
+corticosteroid: 9
+corvid: 1
+cougar: 2
+Councilman, William: 1
+covert toxocariasis: 1
+Coxiella burnetii: 1
+coyote: 1
+crab: 9
+craterform ulcer: 2
+crayfish: 2
+creeping eruption: 3
+crepuscular pattern: 2
+cribriform plate: 2
+cricket: 1
+Crimean-Congo hemorrhagic fever: 2
+crocodile: 1
+cross-fertilization: 1
+croton bug: 1
+crustacean: 12
+crusted scabies: 1
+Cruz, Oswaldo: 4
+cruzipain: 1
+cryotherapy: 3
+crypt: 1
+Cryptosporidium: 12
+Cryptosporidium canis: 2
+Cryptosporidium felis: 2
+Cryptosporidium hominis: 1
+Cryptosporidium meleagridis: 1
+Cryptosporidium muris: 1
+Cryptosporidium parvum: 7
+Ctenocephalides: 4
+Ctenocephalides canis: 4
+Ctenocephalides felis: 5
+Ctenodactylus gondii: 1
+Culex: 4
+Culex fatigans: 1
+Culex nigripalpus: 1
+Culex pipiens pipiens: 2
+Culex pipiens quinquefasciatus: 2
+Culex tarsalis: 1
+Culex tritaniorhynchus: 1
+Culicidae: 2
+Culicinae: 4
+Culicoides: 1
+Culiseta: 3
+Cunha Chagas: 1
+Cunningham, David: 1
+cutaneous amoebiasis: 1
+cutaneous larva migrans (CLM): 7
+cutaneous leishmaniasis (CL): 9
+cutaneous lesions: 7
+Cuterebra: 1
+Cuterebridae: 3
+cycloguanil: 1
+cyclophilin: 1
+Cyclophyllidea: 3
+Cyclops: 3
+Cyclorrhapha: 1
+Cyclospora: 7
+Cyclospora cayetanensis: 5
+cyclosporine A: 1
+cyst passers: 2
+cyst wall: 7
+cystic fibrosis: 2
+Cytoisospora: 1
+cytokine: 10
+cytokinesis: 2
+cytoskeleton: 1
+cytotoxic: 6
+DALYs (deaths and disability adjusted life years): 2
+Darwin, Charles: 1
+DDT: 8
+de-worming program: 3
+DEC (diethylcarbamazine citrate): 9
+decortication: 1
+deer: 11
+deer fly: 6
+deer tick: 3
+DEET (diethyltoluamide): 8
+deforestation: 1
+dehydration: 2
+delusional parasitosis: 2
+Demodex: 2
+dendritic cell: 9
+dengue: 6
+depigmentation: 3
+depression: 4
+Dermacentor: 2
+Dermacentor albipictus: 1
+Dermacentor andersoni: 2
+Dermacentor occidentalis: 1
+Dermacentor variabilis: 2
+Dermatobia hominis: 1
+Dermatophagoides: 1
+Dermestidae: 1
+desensitization: 3
+dew itch: 1
+dexamethasone: 2
+Diamanus montanus: 1
+Diaptomus: 1
+Dientamoeba fragilis: 8
+diffuse cutaneous leishmaniasis (DCL): 3
+diffusion: 1
+Digenea: 2
+diloxanide furoate: 1
+diphenhydramine: 1
+Diphyllobothrium: 9
+Diphyllobothrium cordatum: 1
+Diphyllobothrium dalliae: 1
+Diphyllobothrium dendriticum: 2
+Diphyllobothrium lanceolatum: 1
+Diphyllobothrium latum: 8
+Diphyllobothrium nihonkaiense: 3
+Diphyllobothrium pacificum: 3
+Diphyllobothrium ursi: 1
+Diphyllobothrium yonagoensis: 1
+diplopia: 2
+dipstick assay: 1
+Diptera: 8
+Dipylidium caninum: 3
+direct fluorescent antibody test (DFA): 2
+direct transmission: 1
+Dirofilaria immitis: 5
+disophenol: 2
+disseminated infection: 3
+diurnal periodicity: 2
+Dobell, Clifford: 1
+dog: 49
+dog heartworm: 1
+dog tick: 2
+dolphin: 1
+Donald Blacklock: 1
+Donné, Alfred François: 1
+Donovan, Charles: 2
+dormancy: 11
+doxycycline: 9
+dracunculiasis: 5
+Dracunculus medinensis: 3
+drug resistance: 6
+drunken hairy crab: 1
+Dubini, Angelo: 2
+duck hunter's itch: 1
+Duffy blood type: 1
+duodenal aspiration: 2
+duodenal fluid: 1
+dysentery: 10
+dyspareunia: 2
+dysphagia: 2
+dyspnea: 6
+dysuria: 3
+East African sleeping sickness: 2
+East African trypanosomiasis: 3
+eastern equine: 1
+Ebola virus: 2
+echinococcosis: 6
+Echinococcus granulosus: 7
+Echinococcus multilocularis: 4
+Echinostoma: 5
+ecotones: 1
+ectoparasite: 8
+edema, bilateral periorbital: 3
+edema, cerebral: 1
+edema, facial: 5
+edema, hemi-facial: 1
+edema, laryngeal: 1
+edema, periorbital: 3
+edema, periorbital subcutaneous: 3
+edema, pulmonary: 1
+effusion: 5
+eflornithine: 2
+Egyptian mummy: 2
+Ehrlichia: 1
+ehrlichiosis: 1
+eicosanoids: 4
+Ekbom's syndrome: 1
+electrocardiography (ECG): 1
+electrolyte imbalance: 2
+elephantiasis: 6
+Elokomin fluke fever: 1
+empyema: 2
+encephalomyelitis: 1
+encephalopathy: 7
+Endolimax nana: 2
+endomyocardial fibrosis: 1
+endophthalmitis: 2
+endoplasmic reticulum (ER): 6
+endosymbiont: 7
+Entamoeba coli: 4
+Entamoeba dispar: 6
+Entamoeba gingivalis: 2
+Entamoeba histolytica: 15
+Entamoeba moshkovskii: 2
+Entamoeba polecki: 1
+enteric fever: 1
+enteritis: 6
+enterobiasis: 3
+Enterobius vermicularis: 8
+Enteromonas hominis: 1
+enuresis: 1
+eosinopenia: 3
+eosinopenic: 1
+eosinophil count: 1
+eosinophilic colitis: 4
+eosinophilic enteritis: 3
+eosinophilic granuloma: 1
+epigastric fullness: 2
+epiglottis: 3
+epilepsy: 3
+epimastigote: 2
+epinephrine: 1
+Epstein-Barr virus: 2
+EPT (expedited partner therapy): 2
+equine infectious anemia: 1
+Eriocheir: 1
+erysipelas de la costa: 2
+erythema: 7
+erythematous macular rash: 1
+erythrocytic cycle: 1
+Escherichia coli: 2
+esophagus: 6
+espundia: 6
+exchange transfusion: 3
+excretory/secretory products (ESPs): 2
+exocytosis: 1
+extra-intestinal amoebiasis: 2
+extracellular parasites: 8
+extraneural cysticercosis: 1
+extrapulmonary paragonimiasis: 1
+extrasystoles: 1
+failure to thrive: 9
+false hookworm: 1
+Fantham, Harold: 1
+Fasciola: 11
+Fasciola gigantica: 2
+Fasciola hepatica: 9
+fascioliasis: 3
+Fasciolopsis buski: 5
+FDA (Food and Drug Administration): 8
+fecal retention: 1
+Fedchenko, Aleksej: 1
+Felidae: 2
+Félix Dujardin: 1
+female genital schistosomiasis (FGS): 6
+fibroblast: 1
+fibrotic capsule: 1
+fibrous granuloma: 1
+fibrous nodules: 1
+Field's staining reagent: 1
+fiery serpent: 1
+Filaria bancrofti: 1
+filarial eye worm: 1
+filarial nematode: 2
+filariform larva: 4
+FilmArray: 1
+finger clubbing: 1
+fingernail concavities: 1
+Finlay, Carlos: 1
+fish: 17
+fish tapeworm: 3
+flagella: 11
+flagellated protozoan: 10
+flash freezing: 1
+flattening of the villi: 2
+flatulence: 3
+flatworm: 2
+flavivirus: 1
+flea: 10
+floatation by centrifugation: 1
+flucytosine: 2
+fluid-filled cyst: 1
+fluorodeoxyglucose-positron emission tomography (FDG-PET): 3
+follicle mite: 2
+Forbes, D.: 1
+Forde, Robert: 1
+Formicidae: 1
+Fossaria modicella: 1
+Foster, Auriel O.: 1
+fowl tick: 1
+fox: 10
+Franciscella tularensis: 1
+free-living amoeba: 1
+free-living nematode: 1
+Frenkel, John: 1
+frog: 3
+Fuelleborn, Friedrich: 1
+Fujinami, Kan: 1
+fur trapper: 1
+furazolidone: 2
+G6PD (glucose-6-phosphate dehydrogenase): 3
+galectin: 2
+gametocyte: 7
+gametocytogenesis: 1
+ganglion: 3
+gangrene: 2
+Garnham, Cyril: 1
+Gasterophilidae: 1
+gastric ulcer: 1
+gastroenteritis: 4
+Gates, Frederick: 1
+geographical isolation: 1
+Giardia: 13
+Giardia duodenalis: 2
+Giardia intestinalis: 2
+Giardia lamblia: 12
+giardiasis: 5
+Giardiavirus: 1
+Giemsa stain: 6
+glaucoma: 2
+Glisson's capsule: 2
+Global Enteric Multicenter Study (GEMS): 3
+Glossina: 4
+Glossinia morsitans: 1
+Glossinia pallidipes: 1
+Glossinia palpalis: 1
+Glossinia swynnertoni: 1
+Glossinia tachinoides: 1
+glycosome: 3
+Gnathostoma spinigerum: 3
+gnathostomiasis: 4
+goat: 1
+goblet cell: 1
+Goeze, Johann: 3
+Golgi body: 2
+Golgi, Camillo: 1
+gondi: 1
+gorilla: 2
+gram-negative meningitis: 1
+granuloma: 12
+granulomatous amoebic encephalitis (GAE): 3
+granulomatous disease: 2
+grasshopper: 1
+Grassi, Giovanni: 4
+gravlax: 1
+green bottle fly: 1
+greenhead fly: 1
+Griesinger, Wilhelm: 1
+ground itch: 3
+ground squirrel: 2
+Guillain-Barré syndrome: 3
+guinea pig: 4
+Guinea worm: 4
+Guyot, Francois: 1
+hair loss: 1
+hairworms: 1
+halzoun: 1
+hamster: 2
+hanging groin: 2
+hartebeest: 1
+Hartmann, Philip: 1
+Hawking, Francis: 1
+headache: 26
+heart disease: 2
+heat shock genes: 1
+hematemesis: 1
+hematoxylin stain: 6
+hematuria: 4
+Hemiptera: 4
+hemoflagellate: 1
+hemoglobin: 11
+hemoglobinuria: 2
+hemolymph: 1
+hemolymphatic trypanosomiasis: 2
+hemolysis: 3
+hemoptysis: 3
+hemozoin: 3
+Henderson, W.R.: 1
+Henri Lafleur: 2
+hepatic abscess: 1
+hepatic amoebiasis: 2
+hepatic failure: 2
+hepatic fibrosis: 1
+hepatitis: 4
+hepatitis B: 3
+hepatitis C: 1
+hepatitis D: 1
+hepatobiliary ascariasis: 2
+hepatobronchial fistula: 1
+hepatomegaly: 10
+hepatosplenomegaly: 7
+Heppentis: 1
+hermaphrodite: 2
+herpes simplex virus: 1
+Heterophyes heterophyes: 5
+Heterophyes nocens: 1
+heterophyiasis: 1
+hexacanth larva: 1
+highly active antiretroviral therapy (HAART): 4
+Hippocrates: 2
+histiocytes: 2
+Histomonas: 1
+Hooke, Robert: 1
+hookworm dermatitis: 1
+Hopkins, Donald: 2
+hornet: 4
+horse: 12
+horse fly: 2
+house dust mite: 1
+housefly: 1
+HTLV-1: 1
+Human African Trypanosomiasis: 3
+Human Leukocyte Antigen - DR isotype (HLA-DR): 2
+Hutchinson, William M.: 1
+Hyalomma: 1
+hydatid cyst: 3
+hydatid disease: 3
+hydrocele: 4
+hydrocephalus: 6
+hydrogenosome: 3
+hydronephrosis: 1
+hydroureter: 1
+Hylesia alinda: 1
+Hymenolepis: 8
+Hymenolepis diminuta: 5
+Hymenolepis microstoma: 1
+Hymenolepis nana: 8
+Hymenoptera	hymenopterans: 2
+hyper-responsive syndrome: 1
+hypereosinophilia: 1
+hypergammaglobulinemia: 1
+hyperinfection: 2
+hyperpigmentation: 1
+hypersensitivity: 9
+hypersomnolence: 1
+hypersplenism: 1
+hypnozoite: 7
+hypoalbuminemia: 1
+hypoattenuating tracts: 1
+Hypoderma: 1
+hypogammaglobulinemia: 1
+hypoglycemia: 1
+hypoproteinemia: 1
+ICAM1 (intercellular adhesion molecule 1): 2
+Ijima, Isao: 1
+ileitis: 1
+immune evasion: 5
+immune suppression: 2
+immunoblot testing: 1
+immunocompromised: 14
+immunofluorescent assay: 1
+immunogen: 1
+immunoglobulin: 4
+immunoparasitology: 1
+impala: 1
+incontinence: 1
+indirect fluorescent antibody test (IFA): 3
+indirect hemagglutination assay (IHA): 3
+infantile ancylostomiasis syndrome: 1
+infarct: 6
+infertility: 1
+inflammatory bowel disease: 1
+innate resistance: 1
+insect repellents: 4
+insomnia: 3
+intercostal sign: 1
+interferon-γ: 5
+intestinal amoebiasis: 1
+intestinal fibrosis: 1
+intestinal infection: 5
+intestinal perforation: 1
+intracellular parasites: 8
+intracranial calcifications: 3
+intracranial hypertension: 1
+intracranial pressure: 2
+intraocular cysts: 2
+intrathoracic amoebiasis: 1
+intrauterine growth: 1
+intravascular coagulopathy: 1
+intravascular hemolysis: 2
+intravenous drug users: 1
+Inuit: 1
+Iodamoeba bütschlii: 2
+iodine stain: 1
+iodoquinol: 5
+iridocyclitis: 1
+iritis: 2
+iron deficiency: 5
+iron-hematoxylin: 2
+Isospora belli: 3
+itch mite: 3
+ivermectin: 21
+Ixodes: 9
+Ixodes dammini: 2
+Ixodes holocyclus: 2
+Ixodes pacificus: 3
+Ixodes ricinus: 2
+Ixodes scapularis: 7
+Ixodidae: 2
+Janicki, Constantine: 1
+Janku, Josef: 1
+Japanese encephalitis: 1
+jaundice: 4
+Jean-Nicolas Demarquay: 1
+jejunal perforation: 2
+joint pain: 1
+jumping salad: 1
+Kala-azar: 3
+Kampala eye worm: 2
+Karl Georg Friedrich Rudolf Leuckart: 7
+karyosome: 1
+Katayama fever: 4
+Katsurada, Fujiro: 1
+Kawanishi, Kenji: 1
+keratitis: 5
+Kerbert, Coenraad: 1
+Kessel, John: 1
+Kilbourne, Frederick L.: 3
+kinetoplast: 4
+kinetoplastidae: 3
+Kinghorn, Allan: 1
+Kligler, Israel: 1
+Knott test: 5
+Kobayashi, Haraujiro: 1
+Koch's postulates: 1
+koilonychia: 1
+Krotoski, Wojciech: 1
+Kuchenmeister, Friedrich: 2
+Kyasanur Forest disease: 1
+La Crosse virus: 1
+lacrimation: 2
+lactic dehydrogenase: 2
+lactoferrin: 1
+lactose intolerance: 3
+Lambl, Vilem: 1
+Langerhans cell: 1
+larvicide: 4
+Lassa fever virus: 1
+Latrodectus: 2
+Latrodectus mactans: 1
+Laveran, Charles: 1
+learning deficit: 1
+Leeuwenhoek, Antonie van: 1
+Legionella pneumophila: 1
+Leiper, Robert: 3
+Leishman, William: 1
+Leishmania (Leishmania) aethiopica: 1
+Leishmania (Leishmania) amazonensis: 3
+Leishmania (Leishmania) donovani: 3
+Leishmania (Leishmania) garnhami: 2
+Leishmania (Leishmania) infantum chagasi: 6
+Leishmania (Leishmania) major: 4
+Leishmania (Leishmania) mexicana: 4
+Leishmania (Leishmania) pifanoi: 2
+Leishmania (Leishmania) tropica: 4
+Leishmania (Leishmania) venezualensis: 1
+Leishmania (Viannia) braziliensis: 5
+Leishmania (Viannia) colombiensis: 2
+Leishmania (Viannia) guyanensis: 2
+Leishmania (Viannia) lainsoni: 2
+Leishmania (Viannia) lindenbergi: 2
+Leishmania (Viannia) naiffi: 2
+Leishmania (Viannia) panamensis: 2
+Leishmania (Viannia) peruviana: 2
+Leishmania (Viannia) shawi: 2
+leishmaniasis recidivans (LR): 1
+leishmaniasis skin test: 2
+Leishmaniavirus: 2
+leishmanization: 1
+leopard: 3
+leopard skin: 2
+Lepidoptera: 2
+leprosy: 4
+Leptoconops: 1
+leptomeningitis: 1
+lesion: 50
+Leuckart, Friedrich: 2
+Leuckart, Rudolph: 1
+leukocyte count: 1
+leukocytosis: 3
+leukopenia: 4
+leukovorin: 2
+Lewis, Timothy: 1
+lichenification: 2
+Limacodidae: 1
+lindane: 2
+Linnaeus, Carl: 5
+littoral vegetation: 5
+liver abscess: 4
+liver failure: 5
+liver fluke: 4
+liver tenderness: 1
+lizard: 2
+Loa loa: 10
+Löeffler's syndrome: 2
+loiasis: 5
+loop mediated isothermal amplification (LAMP): 8
+Looss, Arthur: 3
+Losch, Fedor: 1
+louse: 4
+Low, George: 1
+Loxoceles: 2
+Loxoceles arizonica: 1
+Loxoceles intermedia: 1
+Loxoceles laeta: 1
+Loxoceles reclusa: 1
+Loxoceles unicolor: 1
+Lucilia: 1
+Lugol's iodine solution: 2
+lumbar puncture: 2
+Lumbricus terrestrias: 1
+Luminex xTAG Gastrointestinal Pathogen Panel: 1
+Lutz, Adolfo: 1
+Lutzomyia: 6
+Lymantria dispar: 1
+Lyme disease: 5
+Lymnea truncatula: 1
+Lymneid snail: 1
+lymphadenitis: 3
+lymphadenopathy: 13
+lymphangitis: 1
+lymphatics: 10
+lymphedema: 5
+lymphopenia: 2
+Macracanthorhynchus hirudinaceus: 1
+macrocytic hypochromic anemia: 1
+macrogametocyte: 2
+macrogamont: 1
+macronucleus: 1
+macula: 1
+macule: 3
+maculopapular rash: 1
+maggot therapy: 1
+magnetic resonance imaging (MRI): 12
+Majima, Tokuho: 1
+malabsorption: 11
+malabsorption of carbohydrates: 1
+malabsorption of fats: 2
+malabsorption of protein: 1
+malabsorption of vitamin A: 1
+malabsorption syndrome: 5
+malaise: 15
+malaria, aestivo-autumnal: 2
+malaria, benign tertian: 1
+malaria, cerebral: 2
+malaria, congenital: 2
+malaria, falciparum: 2
+malaria, induced: 3
+malaria, malignant tertain: 2
+malaria, quartan: 2
+malaria, simian: 1
+Malarone: 1
+Malmsten, Pehr: 1
+malnutrition: 8
+Maltese cross: 2
+Manceaux, Louis: 1
+mandrill: 1
+mango fly: 1
+mangrove fly: 1
+Manson, Patrick: 9
+Mansonella: 6
+Mansonella ozzardi: 4
+Mansonella perstans: 5
+Mansonella streptocerca: 3
+Marburg virus: 2
+Marchoux, Émile: 1
+Markus, Miles: 1
+martin: 2
+maternal mortality: 1
+maxadilan: 1
+maxi circle DNA: 1
+Mazzotti test: 2
+McConnell, James: 1
+McKenzie, Stephen: 1
+mealworm: 2
+Meckel's diverticulitis: 2
+Mectizan: 1
+median body: 1
+mefloquine: 2
+mega-gallbladder: 1
+megabladder: 1
+megacolon: 3
+megaesophagus: 2
+megaloblastic anemia: 1
+Megalopyge opercalis: 1
+megaureters: 1
+meglumine antimoniate: 2
+Meisel, J.L.: 1
+Melania: 1
+melarsoprol: 2
+Meloidae: 1
+meningitis: 9
+meningoencephalitis: 9
+mepacrine: 2
+Merck Mectizan Donation Program: 1
+meront: 1
+merozoite: 7
+merthiolate-iodine-formaldehyde solution: 1
+Mesocestoides: 3
+Mesocyclops: 1
+metacyclic promastigote: 1
+Metagonimus yokogawai: 3
+metastasis: 2
+metrifonate: 1
+metronidazole: 12
+miconazole: 2
+microbiome: 3
+microcephaly: 1
+microfilaremia: 3
+microgametes: 2
+microgametocyte: 3
+microgamont: 1
+Migone, Lewis E.: 1
+Milne, A.D.: 1
+miltefosine: 7
+Minchin, Edward A.: 1
+mini circle DNA: 2
+mink: 2
+miracidia: 10
+mite: 5
+Miyagawa, Yoenji: 1
+Miyairi, Keinosuke: 1
+molecular testing: 5
+molluscicides: 3
+mollusk: 1
+Mongin, M.: 1
+mongoose: 2
+monkey: 13
+monkey pox: 1
+moose: 2
+Morgagni, Giovanni: 1
+moth: 3
+Mott cell: 1
+mouse: 27
+mucocutaneous belt: 1
+mucocutaneous junction: 2
+mucocutaneous leishmaniasis (MCL): 5
+mucocutaneous lesions: 2
+mucosal belt: 1
+mullet: 1
+multiple infections: 11
+Musca domestica: 2
+Muscidae: 2
+muscle cramp: 1
+Mutillidae: 1
+Muto, Masatomo: 1
+myalgia: 11
+Mycobacterium tuberculosis: 1
+Mycoplasma hominis: 1
+myenteric plexus: 1
+myiasis: 5
+myocarditis: 6
+Naegleria fowleri: 1
+nagana: 2
+Nakagawa, Koan: 1
+Nakamura, Hatchitaro: 1
+Nanophyetus salmincola: 2
+Nantucket fever: 1
+Naunyn, Bernhard: 1
+Necator americanus: 6
+necrotizing inflammation: 1
+Nematocera: 1
+Nematoda: 44
+Nematophora: 1
+neonatal ascariasis: 1
+neonicotinoid: 1
+Neorickettsia helmintheca: 1
+neosporin: 1
+nephritis: 1
+nephropathy: 1
+nephrotic syndrome: 2
+neti pot: 1
+nets: 7
+neural larva migrans: 1
+neurocysticercosis: 5
+neurological damage: 4
+neurological tissue: 1
+neuropathology: 1
+neuropathy: 1
+neuropsychiatric symptoms: 1
+neurotrichinellosis: 1
+niche selection: 3
+niclosamide: 12
+Nicolle, Charles: 3
+nifurtimox: 3
+Nime, F.A.: 1
+Nishigoii, Masao: 1
+nit: 1
+no-see-ums: 1
+nocturnal: 9
+nocturnal periodicity: 5
+nodding syndrome: 2
+nodule: 16
+Noguchi, Hadeyo: 1
+Normand, Louis: 1
+Norwegian scabies: 1
+Nosopsyllus fasciatus: 1
+nucleic acid probe test: 2
+numbness: 2
+nurse cell: 4
+O'Neill, John: 1
+O'nyong-nyong fever: 1
+obstructive uropathy: 2
+Ochlerotatus: 3
+Ochlerotatus japonicus: 3
+Ochlerotatus sollicitans: 1
+Ochlerotatus taeniorhynchus: 1
+Ochlerotatus triseriatus: 2
+ocular disease: 4
+ocular larva migrans (OLM): 6
+ocular lesions: 2
+Oesophagostomum bifurcum: 3
+Oestridae: 1
+Oestrus ovis: 1
+Old World Leishmaniasis: 1
+Oliver, John: 1
+Omsk hemorrhagic fever: 1
+Onchocerca: 10
+Onchocerca volvulus: 8
+onchocercal blindness: 1
+onchocerciasis: 17
+Onchocerciasis Control Program (OCP): 3
+Onchocerciasis Elimination Program for the Americas (OEPA): 3
+onchocercoma: 3
+onchodermatitis: 1
+Oncomelania: 3
+Operation Desert Storm: 1
+ophthalmic cysticercosis: 1
+opisthorchiasis: 1
+Opisthorchis: 5
+Opisthorchis felineus: 2
+Opisthorchis viverrini: 2
+opossum: 3
+optic atrophy: 2
+optic neuritis: 2
+oral transmission: 1
+oriental sore: 1
+Orientalis tsutsugamushi: 1
+ornidazole: 1
+Ornithobilharzia: 1
+Ornithodorus hermsi: 1
+Ornithodorus moubata: 2
+Ornithodorus rudis: 1
+Ornithodorus turicata: 1
+Ornithonyssus bacoti: 1
+Oroya fever: 1
+Ortega, Ynes R.: 1
+Otobius: 1
+ovoviviparous: 1
+Owen, Richard: 1
+oxamniquine: 1
+oxantel: 1
+Paget, James: 2
+PAIR (Puncture, Aspiration, Injection, Re-aspiration): 16
+pale sclera: 1
+Pallas, Pierre: 1
+palsy: 3
+pamaquine: 1
+pancreatic ascariasis: 1
+pancreatitis: 4
+pandemic: 1
+panniculitis: 1
+pansteatitis: 1
+Panstrongylus megistus: 2
+panther: 1
+papatasi fever: 1
+papillitis: 2
+papule: 10
+Parafossarulus: 1
+paragonimiasis: 3
+Paragonimus: 7
+Paragonimus africanus: 1
+Paragonimus heterotremusx: 1
+Paragonimus kellicotti: 4
+Paragonimus mexicanus: 2
+Paragonimus miyazakii: 2
+Paragonimus siamensis: 1
+Paragonimus skrjabini: 2
+Paragonimus uterobilateralis: 1
+Paragonimus westermani: 6
+paralysis: 7
+paralytic ileus: 1
+parasitophorous vacuole: 6
+paresthesias: 2
+Paris green: 1
+Parmarion martensi: 1
+paromomycin: 11
+pediculicide: 2
+pediculosis: 1
+Pediculus: 2
+Pediculus humanus capitis: 3
+Pediculus humanus humanus: 3
+pellagra: 1
+Pelletier, Pierre-Joseph: 1
+pelvic inflammatory disease: 2
+pentamidine: 8
+Pentastomida: 1
+pentavalent antimonials: 2
+peptic ulcer: 1
+percutaneous transmission: 3
+perforated colon: 1
+pericardial effusion: 3
+pericarditis (amoebic): 1
+Periplaneta americana: 1
+periportal fibrosis: 1
+peristome: 1
+peritonitis: 6
+perivascular cuffing: 1
+permethrin: 4
+petechial: 2
+Phaenicia: 1
+phagolysosomal vacuole: 1
+phagolysosome: 3
+Phlebotomus: 6
+Phlebotomus argentipes: 1
+Phlebotomus ariasi: 1
+Phlebotomus chinesis: 1
+Phlebotomus longipes: 1
+Phlebotomus papatasi: 1
+Phlebotomus sergenti: 2
+Phocanema: 2
+Phoneutria: 1
+photodynamic therapy: 1
+photophobia: 2
+photosensitivity: 1
+Phthirus pubis: 2
+physical obstruction: 1
+pica: 1
+picaridin: 3
+pig: 29
+pike: 2
+Pinkerton, H.: 1
+pinworm: 6
+Piophilidae: 1
+pipe stem fibrosis: 1
+piperazine citrate: 1
+piperonyl butoxide: 1
+Piringa-Kuchenka cell: 1
+plague: 4
+planarian: 1
+Plasmodium brasilianum: 1
+Plasmodium cynomolgi: 1
+Plasmodium eylesi: 1
+Plasmodium falciparum: 8
+Plasmodium inui: 1
+Plasmodium knowlesi: 5
+Plasmodium malariae: 7
+Plasmodium ovale: 9
+Plasmodium ovale curtisi: 2
+Plasmodium ovale wallikeri: 2
+Plasmodium schwetzi: 1
+Plasmodium simium: 1
+Plasmodium vivax: 11
+platelet inhibitor: 1
+Plater, Félix: 3
+Platyhelminth: 3
+pleural adhesion: 1
+pleural effusion: 5
+pleurisy: 1
+pleurocercoid: 1
+pneumonia: 9
+pneumonitis: 7
+pneumothorax: 1
+polar bear: 2
+polio: 2
+Polyvinyl alcohol (PVA): 3
+pork tapeworm: 4
+portal circulation: 6
+portal fibrosis: 1
+portal hypertension: 4
+Portocaval: 1
+post-Kala-azar dermal leishmaniasis (PKDL): 2
+postprandial nausea: 1
+Potamiscus: 1
+Potamon: 1
+poultice: 3
+praziquantel: 19
+prednisolone: 1
+prednisone: 7
+premature birth: 1
+premunition: 1
+primaquine: 3
+primary amoebic meningoencephalitis (PAM): 2
+primate: 11
+primigravid: 1
+procercoid: 2
+proguanil: 3
+promastigote: 8
+propamidine: 1
+prostaglandin: 3
+protein deficiency: 2
+proteinuria: 1
+pruritus: 17
+pseudocyst: 2
+Pseudophyllidea: 2
+pseudopolyps: 1
+Psorophora: 2
+Psychodidae: 2
+Pulex irritans: 3
+Pulex simulans: 1
+pulmonary circulation: 1
+pulmonary dirofilariasis: 2
+pulmonary dysfunction: 1
+pulmonary embolism: 1
+pulmonary fibrosis: 1
+pulmonary infection: 1
+punkies: 1
+purified protein derivative skin test (PPD): 3
+purulent discharge: 2
+pustules: 1
+pyelonephritis: 1
+pyrantel pamoate: 6
+pyrethrin: 1
+pyrethroid: 4
+pyrethrum: 1
+pyrimethamine: 6
+Q fever: 1
+query fever: 1
+quinacrine: 3
+Quincke, Heinrich: 1
+quinidine: 3
+quinine: 6
+quotidian fever: 1
+rabbit: 1
+raccoon: 7
+radionuclide scan: 2
+Ransom, Brayton: 1
+rapid antigen testing: 2
+rash: 18
+raspberry: 1
+rat: 16
+rat mite: 1
+Rattus norvegicus: 1
+reactivation: 3
+recrudescence: 5
+rectal prolapse: 2
+rectal snip: 2
+Redi, Francesco: 2
+Reduviidae: 3
+regurgitation: 3
+reindeer: 1
+relapsing fever: 5
+reptile: 2
+respiratory embarrassment: 1
+respiratory infection: 13
+respiratory paralysis: 2
+reticulocyte count: 1
+retinitis: 2
+retinoblastoma: 2
+Retortamonas intestinalis: 1
+rhabditiform larva: 6
+Rhipicephalus: 1
+Rhipicephalus sanguineus: 2
+Rhodnius prolixus: 3
+Rickettsia: 8
+rickettsia: 10
+Rickettsia akari: 2
+Rickettsia conorii: 1
+Rickettsia prowazeki: 1
+Rickettsia rickettsii: 2
+rifampin: 1
+Rift Valley fever: 1
+right bundle branch block: 1
+right ventricular enlargement: 1
+ring enhancing lesion: 1
+ring-enhancement: 2
+rituximab: 1
+river blindness: 6
+RNA virus: 4
+Robles, Rodolfo: 1
+Rochalimaea quintana: 1
+Rockefeller, John D.: 2
+Rocky Mountain spotted fever: 2
+Rod of Asclepius: 1
+rodent: 22
+Roederer, Johannes: 1
+Roos, Ernst: 1
+rosacea: 1
+Rosen, Felix: 1
+Ross, Ronald: 6
+Rudolphi, Karl Asmund: 2
+Ruiz-Tiben, Ernesto: 1
+Russell, Alexander: 1
+Russian spring-summer encephalitis: 1
+Sabin, Alfred: 1
+saddleback caterpillar: 1
+Saeki, Y.: 1
+Salimbeni, Alexandre: 1
+salmon: 3
+salmon poisoning: 1
+Salmonella: 1
+salmonellosis: 1
+sand fly: 14
+Sarcocystis: 1
+Sarcophaga: 2
+Sarcophagidae: 3
+Sarcoptes scabiei: 4
+SARS: 2
+scabies: 3
+Scarabaeidae: 1
+Schad, Gerald: 1
+Schaudinn's fixative: 2
+Schaudinn, Fritz: 1
+Schistosoma haematobium: 10
+Schistosoma intercalatum: 5
+Schistosoma japonicum: 10
+Schistosoma mansoni: 9
+Schistosoma matthei: 1
+Schistosoma mekongi: 7
+Schistosomatium douthitti: 1
+schistosomiasis: 15
+schistosomula: 2
+schizogony: 4
+schizont: 2
+Schüffner's dots: 1
+scolex: 13
+Scorpiones: 4
+Scott, J. Allen: 1
+screwworm: 1
+scrub typhus: 2
+sea lion: 1
+sea otter: 1
+seal: 1
+secondary bacterial infection: 14
+secondary fungal infection: 1
+sedimentation by centrifugation: 2
+sedimentation by gravity: 1
+sedimentation technique: 1
+Segmentina: 1
+seizure: 15
+Semisulcospira: 2
+sepsis: 7
+sequestration: 3
+Sergent, Etienne: 2
+serpiginous lesion: 2
+sexual transmission: 3
+Sheather's method: 2
+sheep botfly: 1
+Shimesu Koino: 1
+Shortt, Henry: 2
+shoulder pain: 1
+shuttle vectors: 4
+sickle-cell trait: 1
+Siebold, Carl von: 2
+Siebold, Ernst von: 2
+Silphidae: 1
+Silva, Piraja de: 2
+Simon, C.E.: 1
+Simuliidae: 2
+Simulium: 6
+Siphonaptera: 3
+sitamaquine: 1
+skin atrophy: 1
+skin scraping examination: 1
+skin snip: 2
+Slavin, D.: 1
+sleep disturbance: 1
+sleeping sickness: 6
+slug: 1
+Smith, Theobald: 5
+snail: 15
+snake: 5
+Soave, Rosemary: 1
+sodium stibogluconate: 4
+Solenopsis invicta: 2
+South African tick bite fever: 1
+sowda: 2
+Spencer Cobbold: 1
+spider: 4
+spiny-headed worms: 1
+spiramycin: 2
+spirochete: 7
+Spirometra mansonoides: 3
+Splendore, Alfonso: 1
+splenic aspiration: 1
+splenomegaly: 5
+splenorenal shunt: 1
+sporocyst: 7
+sporozoite: 10
+sporulated oocyst: 3
+sporulation: 2
+squamous cell carcinoma: 2
+squid: 2
+squirrel: 4
+stable fly: 2
+Staphylinidae: 1
+steatorrhea: 3
+Stegomyia: 1
+Stegomyia aegypti: 1
+Stegomyia albopicta: 1
+Stephens, John: 1
+stichocytes: 2
+stichosome: 1
+sticky tape test: 4
+stiff neck: 4
+Stiles, Charles W.: 1
+stinger: 4
+Stoll, Norman: 1
+stout fly: 1
+strabismus: 1
+Stratiomyidae: 1
+strawberry cervix: 2
+string test: 1
+strobila: 5
+stroke: 3
+strongyloidal enteritis: 1
+Strongyloides fuelleborni kellyi: 5
+Strongyloides procyonis: 2
+Strongyloides stercoralis: 13
+strongyloidiasis: 4
+subcutaneous nodule: 4
+sulfa allergies: 1
+sulfadiazine: 4
+sulfadoxine: 1
+sulfamethoxazole: 5
+Supella longipalpa: 1
+suramin: 2
+sushi: 2
+Suzuki, Masatsugu: 1
+Swaminath, C.S.: 1
+swimmer's itch: 1
+swollen belly syndrome: 4
+Symmers' fibrosis: 2
+syngamy: 1
+Syphacia oblevata: 1
+syphilis: 1
+Syrphidae: 1
+Tabanidae: 2
+tachycardia: 1
+tachyzoite: 2
+tadpole: 3
+Taenia asiatica: 2
+Taenia brauni: 1
+Taenia saginata: 8
+Taenia serialis: 1
+Taenia solium: 10
+taeniasis: 4
+Taeniastatin: 1
+Taeniidae: 2
+tampan tick: 1
+tarantula: 2
+Tasmanian devil: 1
+temephos: 1
+Tenebrionidae: 3
+tenesmus: 3
+termite: 2
+Ternidens diminutus: 3
+Terranova: 3
+tertian fever: 2
+tetanus: 3
+tetracycline: 6
+tetrathyridium: 1
+Texas cattle fever: 2
+thalassemia: 1
+Theraphosidae: 1
+Thermocyclops: 1
+thermophilic: 4
+thermotherapy: 2
+thiabendazole: 5
+Thiara: 2
+thick smear: 3
+thimerosal: 1
+Thomas, Algernon: 1
+thrombocytopenia: 6
+thrombosis: 1
+tick: 11
+tick paralysis: 4
+tiger: 3
+tilapia: 1
+tinidazole: 8
+tongue worm: 1
+Totiviridae: 1
+Toxocara canis: 2
+Toxocara cati: 2
+toxocariasis: 2
+Toxoplasma gondii: 5
+toxoplasmosis: 6
+trachoma: 1
+transfusion: 10
+transplant: 4
+transverse myelitis: 3
+trench fever: 3
+Triatoma infestans: 2
+Triatominae: 3
+Trichinella: 13
+Trichinella britovi: 1
+Trichinella murrelli: 1
+Trichinella nelsoni: 1
+Trichinella papua: 1
+Trichinella patagoniensis: 1
+Trichinella pseudospiralis: 1
+Trichinella spiralis: 13
+Trichinella zimbabwensis: 1
+trichinellosis: 3
+Trichobilharzia: 1
+Trichomonas: 14
+Trichomonas hominis: 1
+Trichomonas tenax: 2
+Trichomonas vaginalis: 9
+trichomoniasis: 6
+Trichurata: 1
+trichuriasis: 6
+Trichuris: 14
+Trichuris muris: 2
+Trichuris suis: 3
+Trichuris trichiura: 11
+Trichuris vulpis: 1
+triclabendazole: 3
+trimethoprim-sulfamethoxazole: 5
+trogocytosis: 1
+Trombicula: 2
+Trombicula akamushi: 1
+Trombicula deliensis: 1
+tropical pulmonary eosinophilia: 4
+tropical splenomegaly syndrome: 1
+trypanomastigote: 2
+Trypanosoma brucei rhodesiense: 6
+Trypanosoma cruzi: 10
+Trypanosoma evansi: 1
+trypanosome: 9
+trypomastigote: 5
+tsetse fly: 11
+tuberculosis: 7
+tubular necrosis: 1
+tuft cell: 2
+tumbu fly: 1
+tumor: 5
+tumor necrosis factor (TNF): 8
+Tunga penetrans: 3
+turkey gnats: 1
+Turkhud, Dyneshvar: 1
+typhoid fever: 3
+typhus: 6
+Tyson, Edward: 3
+Tyzzer, Ernest Edward: 1
+Ugandan eye worm: 1
+ulcerative colitis: 2
+ulcerative keratitis: 2
+Uncinaria stenocephala: 2
+unsporulated oocysts: 2
+urinary stasis: 1
+urinary tract: 5
+urine: 18
+urticaria: 11
+uveitis: 3
+Vagelos, Roy: 1
+vaginal erythema: 1
+vaginal itching: 4
+Veeder, M.A.: 1
+venom: 4
+verruga peruana: 1
+vertical transmission: 6
+Vespidae: 2
+Vespula: 1
+Vianna, Gaspar: 2
+Virchow, Rudolf: 1
+visceral leishmaniasis (VL): 8
+vision loss: 1
+vitamin A: 1
+vitamin B12: 5
+vivax malaria: 2
+VLM (visceral larva migrans): 3
+vole: 1
+voriconazole: 2
+Wakana disease: 3
+walrus: 2
+Walter Reed: 1
+warthog: 1
+wasp: 3
+water caltrop: 1
+water chestnut: 1
+water filtration: 3
+water treatment: 2
+waterbuck: 1
+watercress: 3
+Weinland, David: 1
+West African trypanosomiasis: 6
+West Nile virus: 2
+Western blot: 9
+western equine encephalitis: 1
+wet mount: 3
+whale: 1
+Wheatly-Gomori trichrome stain: 4
+whipworm: 4
+white-footed mouse: 1
+wild boar: 3
+Wilder, Helenor Campbell: 1
+Winterbottom's sign: 2
+Winterbottom, Thomas Masterman: 1
+Wohlfahrtia: 1
+Wolbachia: 7
+wolf: 4
+Wolf, Abner: 1
+World Health Assembly: 8
+World Health Organization: 14
+Wright's stain: 2
+Wucherer, Otto: 1
+Wuchereria: 10
+Wuchereria bancrofti: 9
+xenodiagnosis: 2
+Xenopsylla cheopis: 4
+yellow fever: 6
+yellow fly: 1
+yellowjacket: 1
+Yersinia pestis: 2
+Yokagawa, Sadamu: 1
+Yorke, Warrington: 1
+Zenker, Friedrich: 1
+Ziehl-Neelsen staining: 2
+Zika: 3
+zinc sulfate: 2
+zinc sulfate floatation method: 1
