@@ -42,6 +42,7 @@ The UI is intuitive > import option allows you to upload your list (categories/q
 ![Import Terms](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/Step2_Words_Import.png)
 
 NB the software is a little buggy in that if the process has already been driven once you may need to re-upload a list to be able to proceed.
+
 ![step 2 adding word lists](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/Step2_Include_Words.png)
 
 * Select the "queries/categories" (word lists) to include
@@ -58,7 +59,6 @@ There are 2 paths to this option, choose "Generate Index Settings" from step 2 o
 
 * Enable ignore case sensitivity 
 NB this is a lesser of 2 evils option(case sentitivity has been handled in the include words e.g. variants Bee and bee are already included), but some terms were being missed. Enabling this option results in duplicate page numbers- we have some python to clean this up.
-* Group consecutive page numbers 
 * Ensure "read the visual text of the book" is disable
 * Disable "group consecutive page numbers"
     * need single numbers to remove duplicates, but pages will be grouped after duplicates are removed by the Python script.
