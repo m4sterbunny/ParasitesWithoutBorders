@@ -166,7 +166,7 @@ The choice depends upon your needs. If this is the final stage for the indexing,
     * If there are more than 12 pages of front matter more roman numerals need to be added
 5. Press the play button for "EDIT FILE NAMES and FRONT MATTER" cell
 6. Press the play button for the last cell
-    * Choose where to save the clean index file    
+    * Depending on your browser settings it will either download to your "Downloads" folder or ask you to choose where to save the clean index file    
     * A clean_index.txt file will be generated with the format:
     ~~~~
     term1: 67, 89, 90
