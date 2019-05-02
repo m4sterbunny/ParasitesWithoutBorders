@@ -124,8 +124,29 @@ To remove the filters select the "show all" option.
 
 * Note: subheaders can be assigned to headers as a query in step 2 however this creates duplicates if the base term is also in the merge query
 ### Assign cross references
-* Right-click on word to access edit word
+* Sometimes genus names have changed or there is the common name and scientific name in the index in which case you may want to cross reference words. For example:
+~~~~
+Stegomyia aegypti: 405
+	 see also Aedes aegypti
+Lutzomyia: 333, 666, 999
+	 see also sand fly
+~~~~
+* Right-click on the word that needs a cross reference e.g. Stegomyia aegypti 
 * Choose cross ref
+
+![choose cross ref](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/step3_Select%20crossref.png)
+
+* Choose the words which should appear under the word as cross references
+    * Use the "Find" box to find words
+    
+    ![Choose cross ref words](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/images/step3_select_crossref_words.PNG)
+    
+ * In step 6 when you write to a  .txt file it will look like this:
+~~~~
+Stegomyia aegypti:450; See also Aedes aegypti
+Stegomyia albopicta:450; See also Aedes albopictus
+~~~~
+* **NOTE:** The Python script will need to be adjusted to deal with "; See also"
 
 ### Export Index (Optional Step 5)
 
