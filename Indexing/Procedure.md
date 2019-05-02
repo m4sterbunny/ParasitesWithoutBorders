@@ -131,6 +131,10 @@ Stegomyia aegypti: 405
 Lutzomyia: 333, 666, 999
 	 see also sand fly
 ~~~~
+* **NOTE:** The Python script will need to be adjusted to deal with "; See also" in the .txt file generated in Step 4: Write Index if you use the PDF generator to create cross references.
+* See [terms_to_cross_ref.txt](https://github.com/m4sterbunny/ParasitesWithoutBorders/blob/master/Indexing/terms_to_cross_ref.txt) for terms identified in Edition 7 that could be cross referenced in later editions.
+
+#### Assign cross refences with PDF Index Generator
 * Right-click on the word that needs a cross reference e.g. Stegomyia aegypti 
 * Choose cross ref
 
@@ -146,7 +150,7 @@ Lutzomyia: 333, 666, 999
 Stegomyia aegypti:450; See also Aedes aegypti
 Stegomyia albopicta:450; See also Aedes albopictus
 ~~~~
-* **NOTE:** The Python script will need to be adjusted to deal with "; See also"
+
 
 ### Export Index (Optional Step 5)
 
